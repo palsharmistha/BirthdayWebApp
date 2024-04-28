@@ -1,0 +1,6544 @@
+[
+ {
+  "Sr. No": 1,
+  "Birthdate ": "02-Jan-95",
+  "Students Name": "Abha Nagpure",
+  "Conatct No": 8600237279
+ },
+ {
+  "Sr. No": 2,
+  "Birthdate ": "29-Nov-97",
+  "Students Name": "Niharika Gurjar",
+  "Conatct No": 9860871749
+ },
+ {
+  "Sr. No": 3,
+  "Birthdate ": "15-Jul-98",
+  "Students Name": "Akshay Malkar",
+  "Conatct No": 7447622776
+ },
+ {
+  "Sr. No": 4,
+  "Birthdate ": "08-May-93",
+  "Students Name": "Sagar Barahate",
+  "Conatct No": 7030305547
+ },
+ {
+  "Sr. No": 5,
+  "Birthdate ": "19-Jun-97",
+  "Students Name": "Shubham Hingane",
+  "Conatct No": 7020676561
+ },
+ {
+  "Sr. No": 6,
+  "Birthdate ": "31-May-97",
+  "Students Name": "Saurabh chaudhari",
+  "Conatct No": 9156447142
+ },
+ {
+  "Sr. No": 7,
+  "Birthdate ": "16-May-96",
+  "Students Name": "Sagar Kholgade",
+  "Conatct No": 7775989384
+ },
+ {
+  "Sr. No": 8,
+  "Birthdate ": "25-Jul-93",
+  "Students Name": "Supriya Chavan",
+  "Conatct No": 8605486125
+ },
+ {
+  "Sr. No": 9,
+  "Birthdate ": "25-Aug-95",
+  "Students Name": "Mayuri Chavan",
+  "Conatct No": 9604195199
+ },
+ {
+  "Sr. No": 10,
+  "Birthdate ": "21-Jan-96",
+  "Students Name": "Sangle sunil",
+  "Conatct No": 7387493793
+ },
+ {
+  "Sr. No": 11,
+  "Birthdate ": "19-Feb-94",
+  "Students Name": "Lalit shinde",
+  "Conatct No": 9975818702
+ },
+ {
+  "Sr. No": 12,
+  "Birthdate ": "19-Sep-96",
+  "Students Name": "Nehal Shende",
+  "Conatct No": 7798341946
+ },
+ {
+  "Sr. No": 13,
+  "Birthdate ": "16-Aug-96",
+  "Students Name": "Rakesh Sangadikar",
+  "Conatct No": 8390898930
+ },
+ {
+  "Sr. No": 14,
+  "Birthdate ": "22-Mar-97",
+  "Students Name": "Monika Kokate",
+  "Conatct No": 7743834820
+ },
+ {
+  "Sr. No": 15,
+  "Birthdate ": "10-Apr-88",
+  "Students Name": "Sayali Mangave",
+  "Conatct No": 9503791399
+ },
+ {
+  "Sr. No": 16,
+  "Birthdate ": "11-Dec-96",
+  "Students Name": "Sakshi Kulkarni",
+  "Conatct No": 9503660278
+ },
+ {
+  "Sr. No": 17,
+  "Birthdate ": "06-Jun-99",
+  "Students Name": "Om Jadhav",
+  "Conatct No": 7887585609
+ },
+ {
+  "Sr. No": 18,
+  "Birthdate ": "24-Apr-98",
+  "Students Name": "Sweta Hundekari",
+  "Conatct No": 9561758755
+ },
+ {
+  "Sr. No": 19,
+  "Birthdate ": "21-Apr-96",
+  "Students Name": "Sheela Hundekari",
+  "Conatct No": 9561758755
+ },
+ {
+  "Sr. No": 20,
+  "Birthdate ": "21-Nov-96",
+  "Students Name": "Vaibhav Painjane ",
+  "Conatct No": 7350688814
+ },
+ {
+  "Sr. No": 21,
+  "Birthdate ": "15-Jul-96",
+  "Students Name": "Kapil Bharati",
+  "Conatct No": 9881085492
+ },
+ {
+  "Sr. No": 22,
+  "Birthdate ": "29-Mar-98",
+  "Students Name": "Vaishanavi Chidra",
+  "Conatct No": 9130046389
+ },
+ {
+  "Sr. No": 23,
+  "Birthdate ": "10-Apr-93",
+  "Students Name": "Pramod Patil",
+  "Conatct No": 9921062615
+ },
+ {
+  "Sr. No": 24,
+  "Birthdate ": "20-Jul-98",
+  "Students Name": "Neha Rathod",
+  "Conatct No": 7083027905
+ },
+ {
+  "Sr. No": 25,
+  "Birthdate ": "16-Aug-95",
+  "Students Name": "Roshan Shinde",
+  "Conatct No": 9623635872
+ },
+ {
+  "Sr. No": 26,
+  "Birthdate ": "23-Mar-97",
+  "Students Name": "Prasad mane",
+  "Conatct No": 9422824024
+ },
+ {
+  "Sr. No": 27,
+  "Birthdate ": "10-May-94",
+  "Students Name": "Pallavi Gurav",
+  "Conatct No": 9421973081
+ },
+ {
+  "Sr. No": 28,
+  "Birthdate ": "07-Feb-97",
+  "Students Name": "Mangesh tulse ",
+  "Conatct No": 8605792423
+ },
+ {
+  "Sr. No": 29,
+  "Birthdate ": "26-Jul-95",
+  "Students Name": "sagar chavan",
+  "Conatct No": 8140880838
+ },
+ {
+  "Sr. No": 30,
+  "Birthdate ": "16-Nov-95",
+  "Students Name": "Rajdeep Suryawanshi",
+  "Conatct No": 9762906206
+ },
+ {
+  "Sr. No": 31,
+  "Birthdate ": "10-Sep-92",
+  "Students Name": "Geetanjali dhore",
+  "Conatct No": 8605626339
+ },
+ {
+  "Sr. No": 32,
+  "Birthdate ": "25-Dec-96",
+  "Students Name": "Anushka Sathe",
+  "Conatct No": 9822300916
+ },
+ {
+  "Sr. No": 33,
+  "Birthdate ": "16-Nov-97",
+  "Students Name": "Adwait Gaikwad",
+  "Conatct No": 8551972692
+ },
+ {
+  "Sr. No": 34,
+  "Birthdate ": "15-Dec-97",
+  "Students Name": "Mayuri Patil",
+  "Conatct No": 9960289069
+ },
+ {
+  "Sr. No": 35,
+  "Birthdate ": "25-Sep-97",
+  "Students Name": "Prachi Raut",
+  "Conatct No": 8308461763
+ },
+ {
+  "Sr. No": 36,
+  "Birthdate ": "29-Aug-98",
+  "Students Name": "Tejswini chaudhari",
+  "Conatct No": 7447280257
+ },
+ {
+  "Sr. No": 37,
+  "Birthdate ": "19-Nov-97",
+  "Students Name": "Harshal Jadhav",
+  "Conatct No": 9172821682
+ },
+ {
+  "Sr. No": 38,
+  "Birthdate ": "27-Aug-97",
+  "Students Name": "sushant jadhav",
+  "Conatct No": 9561399881
+ },
+ {
+  "Sr. No": 39,
+  "Birthdate ": "13-Oct-96",
+  "Students Name": "Aniket Chinde",
+  "Conatct No": 9503900263
+ },
+ {
+  "Sr. No": 40,
+  "Birthdate ": "13-Sep-90",
+  "Students Name": "vinayak wautre",
+  "Conatct No": 9764820047
+ },
+ {
+  "Sr. No": 41,
+  "Birthdate ": "18-Sep-94",
+  "Students Name": "Hitesh kale",
+  "Conatct No": 8390911438
+ },
+ {
+  "Sr. No": 42,
+  "Birthdate ": "13-Sep-96",
+  "Students Name": "Vyanktesh Jorwekar",
+  "Conatct No": 7757957681
+ },
+ {
+  "Sr. No": 43,
+  "Birthdate ": "08-Mar-98",
+  "Students Name": "Isha doshi",
+  "Conatct No": 9158373374
+ },
+ {
+  "Sr. No": 44,
+  "Birthdate ": "28-Jan-98",
+  "Students Name": "Rushikesh Birwatkar",
+  "Conatct No": 9689567144
+ },
+ {
+  "Sr. No": 45,
+  "Birthdate ": "19-Dec-97",
+  "Students Name": "Mayur Bhus",
+  "Conatct No": 9657573290
+ },
+ {
+  "Sr. No": 46,
+  "Birthdate ": "12-Dec-97",
+  "Students Name": "Rutuja Shinde",
+  "Conatct No": 7743998181
+ },
+ {
+  "Sr. No": 47,
+  "Birthdate ": "08-Mar-98",
+  "Students Name": "Akshay Bhambure",
+  "Conatct No": 8805403251
+ },
+ {
+  "Sr. No": 48,
+  "Birthdate ": "29-Oct-95",
+  "Students Name": "Rushikesh chopade",
+  "Conatct No": 7798910708
+ },
+ {
+  "Sr. No": 49,
+  "Birthdate ": "30-Aug-96",
+  "Students Name": "Piyush Shende",
+  "Conatct No": 7020979162
+ },
+ {
+  "Sr. No": 50,
+  "Birthdate ": "15-Oct-95",
+  "Students Name": "Vinayak kumbhar",
+  "Conatct No": 8888501174
+ },
+ {
+  "Sr. No": 51,
+  "Birthdate ": "18-Mar-96",
+  "Students Name": "sapna patil",
+  "Conatct No": 8989817590
+ },
+ {
+  "Sr. No": 52,
+  "Birthdate ": "27-Mar-99",
+  "Students Name": "sayali jawade",
+  "Conatct No": 9503581196
+ },
+ {
+  "Sr. No": 53,
+  "Birthdate ": "31-Jul-93",
+  "Students Name": "Pranita Rampure",
+  "Conatct No": 9972724450
+ },
+ {
+  "Sr. No": 54,
+  "Birthdate ": "28-Jan-97",
+  "Students Name": "Akshay bhilare ",
+  "Conatct No": 9766074481
+ },
+ {
+  "Sr. No": 55,
+  "Birthdate ": "18-Dec-97",
+  "Students Name": "Prachi kshirsagar",
+  "Conatct No": 9689894645
+ },
+ {
+  "Sr. No": 56,
+  "Birthdate ": "01-Jun-96",
+  "Students Name": "Ajay Ramesh Wayal",
+  "Conatct No": 9405302525
+ },
+ {
+  "Sr. No": 57,
+  "Birthdate ": "14-Feb-94",
+  "Students Name": "pratik  punde",
+  "Conatct No": 9960779294
+ },
+ {
+  "Sr. No": 58,
+  "Birthdate ": "16-Jul-99",
+  "Students Name": "Siddhi Pawar",
+  "Conatct No": 8408836986
+ },
+ {
+  "Sr. No": 59,
+  "Birthdate ": "15-Oct-95",
+  "Students Name": "Vinesh Nair",
+  "Conatct No": 8087194441
+ },
+ {
+  "Sr. No": 60,
+  "Birthdate ": "27-Aug-94",
+  "Students Name": "Pradnya patil",
+  "Conatct No": 9860571896
+ },
+ {
+  "Sr. No": 61,
+  "Birthdate ": "16-Dec-98",
+  "Students Name": "Sarita Rahangdale",
+  "Conatct No": 9923974358
+ },
+ {
+  "Sr. No": 62,
+  "Birthdate ": "22-Nov-96",
+  "Students Name": "Saloni  Gurav ",
+  "Conatct No": 9823882550
+ },
+ {
+  "Sr. No": 63,
+  "Birthdate ": "12-Apr-98",
+  "Students Name": "Vrushali Kadam ",
+  "Conatct No": 9689402311
+ },
+ {
+  "Sr. No": 64,
+  "Birthdate ": "07-Jan-95",
+  "Students Name": "abhishek shelke",
+  "Conatct No": 7387092297
+ },
+ {
+  "Sr. No": 65,
+  "Birthdate ": "07-Sep-97",
+  "Students Name": "Trupti Patil",
+  "Conatct No": 8177858161
+ },
+ {
+  "Sr. No": 66,
+  "Birthdate ": "21-Mar-97",
+  "Students Name": "Rutuja Chavan",
+  "Conatct No": 7276027372
+ },
+ {
+  "Sr. No": 67,
+  "Birthdate ": "28-Aug-96",
+  "Students Name": "trupti mhetre",
+  "Conatct No": 8888954902
+ },
+ {
+  "Sr. No": 68,
+  "Birthdate ": "29-Aug-97",
+  "Students Name": "shubham londhe",
+  "Conatct No": 8329628539
+ },
+ {
+  "Sr. No": 69,
+  "Birthdate ": "23-Oct-93",
+  "Students Name": "Dinesh Sawake",
+  "Conatct No": 9657476710
+ },
+ {
+  "Sr. No": 70,
+  "Birthdate ": "23-Feb-97",
+  "Students Name": "Ravindra sabale",
+  "Conatct No": 9112126352
+ },
+ {
+  "Sr. No": 71,
+  "Birthdate ": "25-Sep-97",
+  "Students Name": "Shrutika Kapse",
+  "Conatct No": 7350883749
+ },
+ {
+  "Sr. No": 72,
+  "Birthdate ": "15-Dec-97",
+  "Students Name": "Aishwarya Chougule",
+  "Conatct No": 8177971442
+ },
+ {
+  "Sr. No": 73,
+  "Birthdate ": "12-Jan-97",
+  "Students Name": "Rushikesh Dalvi",
+  "Conatct No": 9689077432
+ },
+ {
+  "Sr. No": 74,
+  "Birthdate ": "04-May-96",
+  "Students Name": "shraddha dhavale",
+  "Conatct No": 8830054240
+ },
+ {
+  "Sr. No": 75,
+  "Birthdate ": "04-Jan-97",
+  "Students Name": "Shweta Warade",
+  "Conatct No": 9527418463
+ },
+ {
+  "Sr. No": 76,
+  "Birthdate ": "01-Jul-95",
+  "Students Name": "Prachi shelar",
+  "Conatct No": 9604133727
+ },
+ {
+  "Sr. No": 77,
+  "Birthdate ": "03-Mar-96",
+  "Students Name": "Ruchira Hagwane",
+  "Conatct No": 8796660726
+ },
+ {
+  "Sr. No": 78,
+  "Birthdate ": "05-Mar-95",
+  "Students Name": "Abhishek Purane",
+  "Conatct No": 9011351236
+ },
+ {
+  "Sr. No": 79,
+  "Birthdate ": "29-Nov-95",
+  "Students Name": "suraj danavale",
+  "Conatct No": 9763017084
+ },
+ {
+  "Sr. No": 80,
+  "Birthdate ": "13-Jul-93",
+  "Students Name": "mahesh bhilare",
+  "Conatct No": 8007897780
+ },
+ {
+  "Sr. No": 81,
+  "Birthdate ": "05-Nov-97",
+  "Students Name": "Motiram Bele",
+  "Conatct No": 7744834140
+ },
+ {
+  "Sr. No": 82,
+  "Birthdate ": "25-Dec-92",
+  "Students Name": "amruta deo",
+  "Conatct No": 7722074814
+ },
+ {
+  "Sr. No": 83,
+  "Birthdate ": "01-Oct-97",
+  "Students Name": "Ankur Shinde",
+  "Conatct No": 7719816806
+ },
+ {
+  "Sr. No": 84,
+  "Birthdate ": "18-Sep-94",
+  "Students Name": "Abhijeet Autkar ",
+  "Conatct No": 9403321591
+ },
+ {
+  "Sr. No": 85,
+  "Birthdate ": "19-Jul-94",
+  "Students Name": "Krishna Holkar",
+  "Conatct No": 9623189939
+ },
+ {
+  "Sr. No": 86,
+  "Birthdate ": "01-Jan-94",
+  "Students Name": "Deepak Kalyani",
+  "Conatct No": 8856883689
+ },
+ {
+  "Sr. No": 87,
+  "Birthdate ": "10-May-96",
+  "Students Name": "Sayali gurav",
+  "Conatct No": 9552513602
+ },
+ {
+  "Sr. No": 88,
+  "Birthdate ": "16-Aug-96",
+  "Students Name": "Namrata Bhatlawande",
+  "Conatct No": 7385321800
+ },
+ {
+  "Sr. No": 89,
+  "Birthdate ": "25-May-85",
+  "Students Name": "Shreelal S.S",
+  "Conatct No": 7972983928
+ },
+ {
+  "Sr. No": 90,
+  "Birthdate ": "25-Sep-97",
+  "Students Name": "Sandesh Aher",
+  "Conatct No": 8975658453
+ },
+ {
+  "Sr. No": 91,
+  "Birthdate ": "25-Sep-96",
+  "Students Name": "Ashish Ghagave",
+  "Conatct No": 8805105054
+ },
+ {
+  "Sr. No": 92,
+  "Birthdate ": "28-Sep-96",
+  "Students Name": "Aman Pathak",
+  "Conatct No": 9699990215
+ },
+ {
+  "Sr. No": 93,
+  "Birthdate ": "05-May-86",
+  "Students Name": " Mr sujit bansali",
+  "Conatct No": 9420384274
+ },
+ {
+  "Sr. No": 94,
+  "Birthdate ": "12-Sep-91",
+  "Students Name": "Rahul Patil",
+  "Conatct No": 9960064123
+ },
+ {
+  "Sr. No": 95,
+  "Birthdate ": "27-Aug-85",
+  "Students Name": "Shreepad Mengale",
+  "Conatct No": 9270802262
+ },
+ {
+  "Sr. No": 96,
+  "Birthdate ": "27-Jan-97",
+  "Students Name": "Pratik Jadhav",
+  "Conatct No": 8983379781
+ },
+ {
+  "Sr. No": 97,
+  "Birthdate ": "03-Sep-94",
+  "Students Name": "Pramod Patil",
+  "Conatct No": 7028409909
+ },
+ {
+  "Sr. No": 98,
+  "Birthdate ": "02-Mar-97",
+  "Students Name": "shailesh kewat",
+  "Conatct No": 7743871466
+ },
+ {
+  "Sr. No": 99,
+  "Birthdate ": "10-Jun-96",
+  "Students Name": "Alisha Gaikwad"
+ },
+ {
+  "Sr. No": 100,
+  "Birthdate ": "28-Aug-96",
+  "Students Name": "Ashutosh savale",
+  "Conatct No": 8149698314
+ },
+ {
+  "Sr. No": 101,
+  "Birthdate ": "28-Jun-93",
+  "Students Name": "Pooja More",
+  "Conatct No": 8149410359
+ },
+ {
+  "Sr. No": 102,
+  "Birthdate ": "29-Jul-92",
+  "Students Name": "yogesh Padval",
+  "Conatct No": 8888776924
+ },
+ {
+  "Sr. No": 103,
+  "Birthdate ": "02-Jul-96",
+  "Students Name": "Vyanktesh Ghodke",
+  "Conatct No": 8329189511
+ },
+ {
+  "Sr. No": 104,
+  "Birthdate ": "21-Jul-96",
+  "Students Name": "Shweta Kande",
+  "Conatct No": 8381072516
+ },
+ {
+  "Sr. No": 105,
+  "Birthdate ": "04-Jan-97",
+  "Students Name": "Amruta Solepatil",
+  "Conatct No": 7057578995
+ },
+ {
+  "Sr. No": 106,
+  "Birthdate ": "24-May-96",
+  "Students Name": "shivani Wandile",
+  "Conatct No": 8605199590
+ },
+ {
+  "Sr. No": 107,
+  "Birthdate ": "24-Apr-96",
+  "Students Name": "Harshada meghare",
+  "Conatct No": 8550930231
+ },
+ {
+  "Sr. No": 108,
+  "Birthdate ": "17-Aug-96",
+  "Students Name": "shubhangi patil",
+  "Conatct No": 7719058598
+ },
+ {
+  "Sr. No": 109,
+  "Birthdate ": "03-Jan-96",
+  "Students Name": "Vishal Yele",
+  "Conatct No": 8692015528
+ },
+ {
+  "Sr. No": 110,
+  "Birthdate ": "29-Sep-97",
+  "Students Name": "Yogesh Naikwade",
+  "Conatct No": 8698546197
+ },
+ {
+  "Sr. No": 111,
+  "Birthdate ": "17-Apr-95",
+  "Students Name": "Pranita Kumthekar",
+  "Conatct No": 7038405810
+ },
+ {
+  "Sr. No": 112,
+  "Birthdate ": "19-Jun-95",
+  "Students Name": "Aparna Jadhav",
+  "Conatct No": 9850350838
+ },
+ {
+  "Sr. No": 113,
+  "Birthdate ": "08-Apr-94",
+  "Students Name": "Pushkraj Jadhav ",
+  "Conatct No": 9130540987
+ },
+ {
+  "Sr. No": 114,
+  "Birthdate ": "21-Sep-96",
+  "Students Name": "Birnale Priyanka ",
+  "Conatct No": 9657898089
+ },
+ {
+  "Sr. No": 115,
+  "Birthdate ": "25-Aug-92",
+  "Students Name": "Abhilash dalvi",
+  "Conatct No": 9860415003
+ },
+ {
+  "Sr. No": 116,
+  "Birthdate ": "05-Dec-94",
+  "Students Name": "Shital salunke",
+  "Conatct No": 7066674898
+ },
+ {
+  "Sr. No": 117,
+  "Birthdate ": "10-May-96",
+  "Students Name": "Prajakta Chorghe",
+  "Conatct No": 7745072729
+ },
+ {
+  "Sr. No": 118,
+  "Birthdate ": "05-Mar-93",
+  "Students Name": "Pratiksha mankar",
+  "Conatct No": 9657255260
+ },
+ {
+  "Sr. No": 119,
+  "Birthdate ": "13-Jan-97",
+  "Students Name": "Anuja shete",
+  "Conatct No": 8483964497
+ },
+ {
+  "Sr. No": 120,
+  "Birthdate ": "08-Oct-94",
+  "Students Name": "Sonali harake",
+  "Conatct No": 9049343037
+ },
+ {
+  "Sr. No": 121,
+  "Birthdate ": "12-May-97",
+  "Students Name": "Anuradha patil",
+  "Conatct No": 9763044740
+ },
+ {
+  "Sr. No": 122,
+  "Birthdate ": "09-Sep-96",
+  "Students Name": "Minal Kamble",
+  "Conatct No": 8856040734
+ },
+ {
+  "Sr. No": 123,
+  "Birthdate ": "27-Jun-00",
+  "Students Name": "Chaitali Jadhav",
+  "Conatct No": 8380916028
+ },
+ {
+  "Sr. No": 124,
+  "Birthdate ": "12-Jun-93",
+  "Students Name": "Shaikh Mustaid",
+  "Conatct No": 9028972731
+ },
+ {
+  "Sr. No": 125,
+  "Birthdate ": "18-Apr-95",
+  "Students Name": "Smita Chougale",
+  "Conatct No": 7447265442
+ },
+ {
+  "Sr. No": 126,
+  "Birthdate ": "20-Aug-95",
+  "Students Name": "Sunny Jangam",
+  "Conatct No": 8698969046
+ },
+ {
+  "Sr. No": 127,
+  "Birthdate ": "18-Mar-94",
+  "Students Name": "Anurag Nevase",
+  "Conatct No": 9890985544
+ },
+ {
+  "Sr. No": 128,
+  "Birthdate ": "27-Feb-95",
+  "Students Name": "Nilesh Tarte",
+  "Conatct No": 9665676701
+ },
+ {
+  "Sr. No": 129,
+  "Birthdate ": "18-Apr-96",
+  "Students Name": "Atharva Deshmukh",
+  "Conatct No": 9405047352
+ },
+ {
+  "Sr. No": 130,
+  "Birthdate ": "13-Jan-96",
+  "Students Name": "Sudhir Naik",
+  "Conatct No": 8446797613
+ },
+ {
+  "Sr. No": 131,
+  "Birthdate ": "11-Aug-94",
+  "Students Name": "manjari Lakhera",
+  "Conatct No": 7581077642
+ },
+ {
+  "Sr. No": 132,
+  "Birthdate ": "23-Sep-88",
+  "Students Name": "Saurabh Chandrkar",
+  "Conatct No": 7391010742
+ },
+ {
+  "Sr. No": 133,
+  "Birthdate ": "02-Jul-98",
+  "Students Name": "Anita Pohane",
+  "Conatct No": 8408055767
+ },
+ {
+  "Sr. No": 134,
+  "Birthdate ": "06-Mar-96",
+  "Students Name": "Pratiksha Rokade",
+  "Conatct No": 7738424340
+ },
+ {
+  "Sr. No": 135,
+  "Birthdate ": "09-Feb-94",
+  "Students Name": "Dnyanraj Bandewar",
+  "Conatct No": 9011689493
+ },
+ {
+  "Sr. No": 136,
+  "Birthdate ": "10-Oct-95",
+  "Students Name": "abhishek Yadav",
+  "Conatct No": 7891307006
+ },
+ {
+  "Sr. No": 137,
+  "Birthdate ": "23-Sep-96",
+  "Students Name": "Poonam Zoje",
+  "Conatct No": 8530048783
+ },
+ {
+  "Sr. No": 138,
+  "Birthdate ": "08-Sep-94",
+  "Students Name": "Sonali  Jamdar",
+  "Conatct No": 9284025554
+ },
+ {
+  "Sr. No": 139,
+  "Birthdate ": "23-Jul-99",
+  "Students Name": "Neha Khomane",
+  "Conatct No": 9552849585
+ },
+ {
+  "Sr. No": 140,
+  "Birthdate ": "16-Aug-98",
+  "Students Name": "Shekhar Bhorade",
+  "Conatct No": 8668316995
+ },
+ {
+  "Sr. No": 141,
+  "Birthdate ": "30-Sep-95",
+  "Students Name": "Akshay kulkarni",
+  "Conatct No": 7767965677
+ },
+ {
+  "Sr. No": 142,
+  "Birthdate ": "02-Sep-96",
+  "Students Name": "Pratiksha Katare",
+  "Conatct No": 7038753438
+ },
+ {
+  "Sr. No": 143,
+  "Birthdate ": "27-Oct-96",
+  "Students Name": "Pradnya Dhavane",
+  "Conatct No": 9623998446
+ },
+ {
+  "Sr. No": 144,
+  "Birthdate ": "09-Jul-95",
+  "Students Name": "Shubham Kasat",
+  "Conatct No": 7798692060
+ },
+ {
+  "Sr. No": 145,
+  "Birthdate ": "06-Jul-98",
+  "Students Name": "priya chore ",
+  "Conatct No": 7038544531
+ },
+ {
+  "Sr. No": 146,
+  "Birthdate ": "19-Oct-93",
+  "Students Name": "ashwini deshmukh",
+  "Conatct No": 9146602601
+ },
+ {
+  "Sr. No": 147,
+  "Birthdate ": "25-Apr-96",
+  "Students Name": "Reshma jadhav",
+  "Conatct No": 7887724900
+ },
+ {
+  "Sr. No": 148,
+  "Birthdate ": "15-Dec-95",
+  "Students Name": "Prajakta gaikwad",
+  "Conatct No": 9767658340
+ },
+ {
+  "Sr. No": 149,
+  "Birthdate ": "13-Sep-97",
+  "Students Name": "Sneha Kulkarni",
+  "Conatct No": 9766210409
+ },
+ {
+  "Sr. No": 150,
+  "Birthdate ": "11-Apr-89",
+  "Students Name": "Harish Shinde",
+  "Conatct No": 9850365814
+ },
+ {
+  "Sr. No": 151,
+  "Birthdate ": "17-Nov-90",
+  "Students Name": "Ashwini Anpat",
+  "Conatct No": 7387167017
+ },
+ {
+  "Sr. No": 152,
+  "Birthdate ": "27-Aug-96",
+  "Students Name": "Swapnil Ayare",
+  "Conatct No": 8411038042
+ },
+ {
+  "Sr. No": 153,
+  "Birthdate ": "02-Jun-94",
+  "Students Name": "Bhushan Kapadnis",
+  "Conatct No": 7038164435
+ },
+ {
+  "Sr. No": 154,
+  "Birthdate ": "22-May-96",
+  "Students Name": "Pratiksha Damedhar",
+  "Conatct No": 9822677286
+ },
+ {
+  "Sr. No": 155,
+  "Birthdate ": "10-Feb-96",
+  "Students Name": "Pranav Amlekar",
+  "Conatct No": 9767069275
+ },
+ {
+  "Sr. No": 156,
+  "Birthdate ": "27-May-96",
+  "Students Name": "vaibhav paithankar",
+  "Conatct No": 8408846184
+ },
+ {
+  "Sr. No": 157,
+  "Birthdate ": "06-Jun-95",
+  "Students Name": "Minali Shah",
+  "Conatct No": 9762870965
+ },
+ {
+  "Sr. No": 158,
+  "Birthdate ": "21-Sep-96",
+  "Students Name": "Sushant Hatti",
+  "Conatct No": 9422551692
+ },
+ {
+  "Sr. No": 159,
+  "Birthdate ": "28-Sep-95",
+  "Students Name": "Vishnu Mhaske",
+  "Conatct No": 8888935781
+ },
+ {
+  "Sr. No": 160,
+  "Birthdate ": "01-Apr-95",
+  "Students Name": "Kuldeep Saidane",
+  "Conatct No": 7843047665
+ },
+ {
+  "Sr. No": 161,
+  "Birthdate ": "20-Jul-94",
+  "Students Name": "Amol Thakare",
+  "Conatct No": 9975045729
+ },
+ {
+  "Sr. No": 162,
+  "Birthdate ": "20-Apr-95",
+  "Students Name": "Bhavana Mallav",
+  "Conatct No": 7558474646
+ },
+ {
+  "Sr. No": 163,
+  "Birthdate ": "16-Oct-93",
+  "Students Name": "Vaibhav Sarode",
+  "Conatct No": 9657220415
+ },
+ {
+  "Sr. No": 164,
+  "Birthdate ": "08-Jan-93",
+  "Students Name": "Ajay rathod",
+  "Conatct No": 9766075384
+ },
+ {
+  "Sr. No": 165,
+  "Birthdate ": "02-Feb-94",
+  "Students Name": "Rahul Bhalerao",
+  "Conatct No": 8805316217
+ },
+ {
+  "Sr. No": 166,
+  "Birthdate ": "17-Jun-88",
+  "Students Name": "Hemraj Patil",
+  "Conatct No": 8855063093
+ },
+ {
+  "Sr. No": 167,
+  "Birthdate ": "27-Jun-97",
+  "Students Name": "asif mulla",
+  "Conatct No": 9561927490
+ },
+ {
+  "Sr. No": 168,
+  "Birthdate ": "11-Oct-97",
+  "Students Name": "Swapnil Pandit",
+  "Conatct No": 8482983046
+ },
+ {
+  "Sr. No": 169,
+  "Birthdate ": "22-Apr-95",
+  "Students Name": "Harshal joshi",
+  "Conatct No": 8446180069
+ },
+ {
+  "Sr. No": 170,
+  "Birthdate ": "08-Oct-95",
+  "Students Name": "Swapnil Chikodikar",
+  "Conatct No": 9518340530
+ },
+ {
+  "Sr. No": 171,
+  "Birthdate ": "16-Feb-93",
+  "Students Name": "pritesh behra",
+  "Conatct No": 8770614301
+ },
+ {
+  "Sr. No": 172,
+  "Birthdate ": "03-Jan-94",
+  "Students Name": "Mr Mahesh jadhav",
+  "Conatct No": 8007955959
+ },
+ {
+  "Sr. No": 173,
+  "Birthdate ": "10-Oct-94",
+  "Students Name": "Aishwarya Desai",
+  "Conatct No": 8855829771
+ },
+ {
+  "Sr. No": 174,
+  "Birthdate ": "31-Mar-95",
+  "Students Name": "Tanvi Paliwal",
+  "Conatct No": 8788498830
+ },
+ {
+  "Sr. No": 175,
+  "Birthdate ": "18-Feb-94",
+  "Students Name": " Mr Mehul  dubey",
+  "Conatct No": 8329549554
+ },
+ {
+  "Sr. No": 176,
+  "Birthdate ": "16-Jun-94",
+  "Students Name": "Anup Tiwari",
+  "Conatct No": 7620935818
+ },
+ {
+  "Sr. No": 177,
+  "Birthdate ": "17-Jan-91",
+  "Students Name": "Anand Kulkarni",
+  "Conatct No": 8669167459
+ },
+ {
+  "Sr. No": 178,
+  "Birthdate ": "05-Jul-97",
+  "Students Name": "Prajakta Liman",
+  "Conatct No": 9762215817
+ },
+ {
+  "Sr. No": 179,
+  "Birthdate ": "01-Nov-89",
+  "Students Name": "Preeti gangarde",
+  "Conatct No": 9405581608
+ },
+ {
+  "Sr. No": 180,
+  "Birthdate ": "22-Jan-92",
+  "Students Name": "Mayuri Sonawane",
+  "Conatct No": 9112862828
+ },
+ {
+  "Sr. No": 181,
+  "Birthdate ": "29-Feb-96",
+  "Students Name": "Vaibhav Sawant",
+  "Conatct No": 9130805542
+ },
+ {
+  "Sr. No": 182,
+  "Birthdate ": "21-Apr-97",
+  "Students Name": "Machindra Chikhale",
+  "Conatct No": 8668618404
+ },
+ {
+  "Sr. No": 183,
+  "Birthdate ": "15-Feb-87",
+  "Students Name": "Rahul Rathod",
+  "Conatct No": 8668316929
+ },
+ {
+  "Sr. No": 184,
+  "Birthdate ": "26-Jan-96",
+  "Students Name": "Vikram Shinde",
+  "Conatct No": 7262849989
+ },
+ {
+  "Sr. No": 185,
+  "Birthdate ": "19-Aug-95",
+  "Students Name": "Rekha Takalkar",
+  "Conatct No": 9604437210
+ },
+ {
+  "Sr. No": 186,
+  "Birthdate ": "19-Dec-94",
+  "Students Name": "Seeta Chandkote",
+  "Conatct No": 9823793119
+ },
+ {
+  "Sr. No": 187,
+  "Birthdate ": "03-Aug-96",
+  "Students Name": "Kalyan Ghadage",
+  "Conatct No": 9552630399
+ },
+ {
+  "Sr. No": 188,
+  "Birthdate ": "12-Mar-98",
+  "Students Name": "Vaijanath Gawade",
+  "Conatct No": 7769060322
+ },
+ {
+  "Sr. No": 189,
+  "Birthdate ": "10-Aug-96",
+  "Students Name": "Ketakee Ramesh Joshi",
+  "Conatct No": 9763235523
+ },
+ {
+  "Sr. No": 190,
+  "Birthdate ": "21-Oct-79",
+  "Students Name": "Vishnu Karmarkar",
+  "Conatct No": 7709581059
+ },
+ {
+  "Sr. No": 191,
+  "Birthdate ": "06-Feb-96",
+  "Students Name": "Aishwarya Donta",
+  "Conatct No": 8605061806
+ },
+ {
+  "Sr. No": 192,
+  "Birthdate ": "05-Jan-91",
+  "Students Name": "Pradnyawant Rahul",
+  "Conatct No": 8600157776
+ },
+ {
+  "Sr. No": 193,
+  "Birthdate ": "19-May-90",
+  "Students Name": "Anusha karale",
+  "Conatct No": 9075011890
+ },
+ {
+  "Sr. No": 194,
+  "Birthdate ": "07-Nov-95",
+  "Students Name": "Shahuraj Ghuge",
+  "Conatct No": 8888040069
+ },
+ {
+  "Sr. No": 195,
+  "Birthdate ": "17-Aug-99",
+  "Students Name": "Abhishek Thite",
+  "Conatct No": 9561549886
+ },
+ {
+  "Sr. No": 196,
+  "Birthdate ": "20-Feb-96",
+  "Students Name": "Sukhdevi Naik ",
+  "Conatct No": 7517269798
+ },
+ {
+  "Sr. No": 197,
+  "Birthdate ": "25-Jul-96",
+  "Students Name": "Geeta Kalkhambkar",
+  "Conatct No": 7387286445
+ },
+ {
+  "Sr. No": 198,
+  "Birthdate ": "07-May-96",
+  "Students Name": "Trupti Maragunri",
+  "Conatct No": 7057046408
+ },
+ {
+  "Sr. No": 199,
+  "Birthdate ": "11-Aug-96",
+  "Students Name": "Piyusha Kadu",
+  "Conatct No": 7875665456
+ },
+ {
+  "Sr. No": 200,
+  "Birthdate ": "06-Mar-93",
+  "Students Name": "Rakesh Thakur",
+  "Conatct No": 8839880925
+ },
+ {
+  "Sr. No": 201,
+  "Birthdate ": "04-Dec-96",
+  "Students Name": "Shamli Gilbile",
+  "Conatct No": 7387841817
+ },
+ {
+  "Sr. No": 202,
+  "Birthdate ": "04-Jul-96",
+  "Students Name": "Antara Das",
+  "Conatct No": 7000013819
+ },
+ {
+  "Sr. No": 203,
+  "Birthdate ": "02-Aug-93",
+  "Students Name": "Poonam Mandekar",
+  "Conatct No": 9075236782
+ },
+ {
+  "Sr. No": 204,
+  "Birthdate ": "30-Oct-95",
+  "Students Name": "Onkar Jagnum",
+  "Conatct No": 7028399359
+ },
+ {
+  "Sr. No": 205,
+  "Birthdate ": "05-Mar-95",
+  "Students Name": "Akshay Salve",
+  "Conatct No": 9960180854
+ },
+ {
+  "Sr. No": 206,
+  "Birthdate ": "05-Oct-94",
+  "Students Name": "Premala Khot",
+  "Conatct No": 8975169108
+ },
+ {
+  "Sr. No": 207,
+  "Birthdate ": "01-Jul-95",
+  "Students Name": "Ganesh Chevale",
+  "Conatct No": 7620320431
+ },
+ {
+  "Sr. No": 208,
+  "Birthdate ": "23-Nov-96",
+  "Students Name": "Snehal Gole ",
+  "Conatct No": 8805244933
+ },
+ {
+  "Sr. No": 209,
+  "Birthdate ": "23-Nov-97",
+  "Students Name": "Mahesh Patil",
+  "Conatct No": 8805290539
+ },
+ {
+  "Sr. No": 210,
+  "Birthdate ": "21-Aug-94",
+  "Students Name": "Gourav Nagthanekar",
+  "Conatct No": 8378978718
+ },
+ {
+  "Sr. No": 211,
+  "Birthdate ": "18-Apr-94",
+  "Students Name": "Swapnil Gajghate",
+  "Conatct No": 9689063263
+ },
+ {
+  "Sr. No": 212,
+  "Birthdate ": "02-Nov-96",
+  "Students Name": "Adarsh Kumar",
+  "Conatct No": 9473429826
+ },
+ {
+  "Sr. No": 213,
+  "Birthdate ": "13-Nov-96",
+  "Students Name": "Abhaya Apte",
+  "Conatct No": 9881374615
+ },
+ {
+  "Sr. No": 214,
+  "Birthdate ": "14-Nov-96",
+  "Students Name": "Ashwini Sutar",
+  "Conatct No": 7057177659
+ },
+ {
+  "Sr. No": 215,
+  "Birthdate ": "24-Jul-96",
+  "Students Name": "Shivani deshmukh",
+  "Conatct No": 9552306450
+ },
+ {
+  "Sr. No": 216,
+  "Birthdate ": "04-Jan-99",
+  "Students Name": "Akshada Gaikwad",
+  "Conatct No": 7841928721
+ },
+ {
+  "Sr. No": 217,
+  "Birthdate ": "05-May-90",
+  "Students Name": "Amol Jewalikar",
+  "Conatct No": 9021566640
+ },
+ {
+  "Sr. No": 218,
+  "Birthdate ": "10-Sep-93",
+  "Students Name": "Anagha Rathod",
+  "Conatct No": 9823516270
+ },
+ {
+  "Sr. No": 219,
+  "Birthdate ": "19-Aug-98",
+  "Students Name": "Tanavi Rathod",
+  "Conatct No": 9823516270
+ },
+ {
+  "Sr. No": 220,
+  "Birthdate ": "11-Apr-95",
+  "Students Name": "Mayank Dubey",
+  "Conatct No": 7021563020
+ },
+ {
+  "Sr. No": 221,
+  "Birthdate ": "29-Dec-97",
+  "Students Name": "Bhushan Patil",
+  "Conatct No": 8208424349
+ },
+ {
+  "Sr. No": 222,
+  "Birthdate ": "27-Feb-99",
+  "Students Name": "Yashashri Giri",
+  "Conatct No": 9067011761
+ },
+ {
+  "Sr. No": 223,
+  "Birthdate ": "05-Jun-97",
+  "Students Name": "Sapana Jadhav",
+  "Conatct No": 9970580917
+ },
+ {
+  "Sr. No": 224,
+  "Birthdate ": "12-Nov-95",
+  "Students Name": "Aishwarya Mandlik",
+  "Conatct No": 9359216202
+ },
+ {
+  "Sr. No": 225,
+  "Birthdate ": "01-Feb-95",
+  "Students Name": "Shruti Garkad",
+  "Conatct No": 7028666157
+ },
+ {
+  "Sr. No": 226,
+  "Birthdate ": "07-Mar-92",
+  "Students Name": "Utkarsha Shelke",
+  "Conatct No": 8796397149
+ },
+ {
+  "Sr. No": 227,
+  "Birthdate ": "01-Nov-96",
+  "Students Name": "Madhuri Mahale",
+  "Conatct No": 8308680572
+ },
+ {
+  "Sr. No": 228,
+  "Birthdate ": "09-Jan-99",
+  "Students Name": "Pratiksha Doke",
+  "Conatct No": 7387888896
+ },
+ {
+  "Sr. No": 229,
+  "Birthdate ": "04-Feb-96",
+  "Students Name": "Shweta jadhav",
+  "Conatct No": 8605430924
+ },
+ {
+  "Sr. No": 230,
+  "Birthdate ": "21-Jul-97",
+  "Students Name": "Vaibhav Dhawale",
+  "Conatct No": 9021411500
+ },
+ {
+  "Sr. No": 231,
+  "Birthdate ": "09-Apr-99",
+  "Students Name": "Kshitija Tapsi",
+  "Conatct No": 8378885030
+ },
+ {
+  "Sr. No": 232,
+  "Birthdate ": "10-Dec-95",
+  "Students Name": "Suraj Suryawanshi",
+  "Conatct No": 7507468459
+ },
+ {
+  "Sr. No": 233,
+  "Birthdate ": "13-Mar-98",
+  "Students Name": "Aditi Sutar",
+  "Conatct No": 7720891790
+ },
+ {
+  "Sr. No": 234,
+  "Birthdate ": "14-Dec-98",
+  "Students Name": "Prajakta Apte",
+  "Conatct No": 7276281825
+ },
+ {
+  "Sr. No": 235,
+  "Birthdate ": "05-Oct-98",
+  "Students Name": "Sanaya Shah",
+  "Conatct No": 7447300978
+ },
+ {
+  "Sr. No": 236,
+  "Birthdate ": "09-Jan-94",
+  "Students Name": "Santosh Saibal",
+  "Conatct No": 8793743101
+ },
+ {
+  "Sr. No": 237,
+  "Birthdate ": "01-Apr-95",
+  "Students Name": "  Priyanka nichit",
+  "Conatct No": 9890236051
+ },
+ {
+  "Sr. No": 238,
+  "Birthdate ": "08-Aug-95",
+  "Students Name": "Sanket Tambolkar",
+  "Conatct No": 9763629026
+ },
+ {
+  "Sr. No": 239,
+  "Birthdate ": "30-Apr-97",
+  "Students Name": "Jinal Vora",
+  "Conatct No": 9765076513
+ },
+ {
+  "Sr. No": 240,
+  "Birthdate ": "04-Sep-97",
+  "Students Name": "Pratiksha Joshi",
+  "Conatct No": 7775802661
+ },
+ {
+  "Sr. No": 241,
+  "Birthdate ": "10-Nov-97",
+  "Students Name": "Akshay Newaskar",
+  "Conatct No": 8208103869
+ },
+ {
+  "Sr. No": 242,
+  "Birthdate ": "25-Mar-97",
+  "Students Name": "Rutuja Rajmane",
+  "Conatct No": 7038002336
+ },
+ {
+  "Sr. No": 243,
+  "Birthdate ": "11-Oct-95",
+  "Students Name": "Aditya saitwal",
+  "Conatct No": 7507848828
+ },
+ {
+  "Sr. No": 244,
+  "Birthdate ": "13-Nov-98",
+  "Students Name": "Vaishanavi Ghodke",
+  "Conatct No": 9175556598
+ },
+ {
+  "Sr. No": 245,
+  "Birthdate ": "28-Feb-96",
+  "Students Name": "Lovepreet Gill",
+  "Conatct No": 7088881179
+ },
+ {
+  "Sr. No": 246,
+  "Birthdate ": "12-Sep-95",
+  "Students Name": "  Akshay dhobale",
+  "Conatct No": 8007631106
+ },
+ {
+  "Sr. No": 247,
+  "Birthdate ": "16-Dec-95",
+  "Students Name": "Shraddha Gulhane",
+  "Conatct No": 7620273775
+ },
+ {
+  "Sr. No": 248,
+  "Birthdate ": "24-Jul-97",
+  "Students Name": "Shivani sahay",
+  "Conatct No": 8210826560
+ },
+ {
+  "Sr. No": 249,
+  "Birthdate ": "04-Jun-95",
+  "Students Name": "Shubhangi Kapure",
+  "Conatct No": 8329893440
+ },
+ {
+  "Sr. No": 250,
+  "Birthdate ": "18-Dec-96",
+  "Students Name": "Pournima Maske",
+  "Conatct No": 7218263273
+ },
+ {
+  "Sr. No": 251,
+  "Birthdate ": "28-Dec-95",
+  "Students Name": "Prasad Pawar",
+  "Conatct No": 9561606263
+ },
+ {
+  "Sr. No": 252,
+  "Birthdate ": "27-Aug-97",
+  "Students Name": "Pallavi Fattepure ",
+  "Conatct No": 7219480497
+ },
+ {
+  "Sr. No": 253,
+  "Birthdate ": "25-Apr-98",
+  "Students Name": "Shubhada Pawar",
+  "Conatct No": 8378835335
+ },
+ {
+  "Sr. No": 254,
+  "Birthdate ": "12-Oct-89",
+  "Students Name": "Neeta Kulkarni",
+  "Conatct No": 9970373754
+ },
+ {
+  "Sr. No": 255,
+  "Birthdate ": "26-Mar-96",
+  "Students Name": "Suraj Chopde",
+  "Conatct No": 7745007036
+ },
+ {
+  "Sr. No": 256,
+  "Birthdate ": "04-Mar-95",
+  "Students Name": "Ganesh Kavhar",
+  "Conatct No": 8888203884
+ },
+ {
+  "Sr. No": 257,
+  "Birthdate ": "08-Jun-98",
+  "Students Name": "Dhanashree Jadhav",
+  "Conatct No": 7066172898
+ },
+ {
+  "Sr. No": 258,
+  "Birthdate ": "17-Nov-95",
+  "Students Name": "Shubham Chavan",
+  "Conatct No": 8355853797
+ },
+ {
+  "Sr. No": 259,
+  "Birthdate ": "28-Jun-94",
+  "Students Name": "Mohit Deshmukh",
+  "Conatct No": 8806292430
+ },
+ {
+  "Sr. No": 260,
+  "Birthdate ": "10-Nov-99",
+  "Students Name": "Abhishek Gawade",
+  "Conatct No": 9960518961
+ },
+ {
+  "Sr. No": 261,
+  "Birthdate ": "10-Aug-94",
+  "Students Name": "Diksha Kulkarni",
+  "Conatct No": 9096802737
+ },
+ {
+  "Sr. No": 262,
+  "Birthdate ": "19-Sep-91",
+  "Students Name": "Sameer Londhe",
+  "Conatct No": 9146647070
+ },
+ {
+  "Sr. No": 263,
+  "Birthdate ": "09-Jun-95",
+  "Students Name": "Apeksha Kale",
+  "Conatct No": 8007320791
+ },
+ {
+  "Sr. No": 264,
+  "Birthdate ": "08-May-96",
+  "Students Name": "Sneha chetan shelar",
+  "Conatct No": 8625099065
+ },
+ {
+  "Sr. No": 265,
+  "Birthdate ": "31-Jan-95",
+  "Students Name": "satyajeet Mujgule",
+  "Conatct No": 8668700190
+ },
+ {
+  "Sr. No": 266,
+  "Birthdate ": "23-May-97",
+  "Students Name": "Prajakta Nimbalkar",
+  "Conatct No": 9503680949
+ },
+ {
+  "Sr. No": 267,
+  "Birthdate ": "31-Jan-91",
+  "Students Name": "Pornima Kinge",
+  "Conatct No": 9890407798
+ },
+ {
+  "Sr. No": 268,
+  "Birthdate ": "18-Jun-96",
+  "Students Name": "Nilesh jagtap",
+  "Conatct No": 9284925705
+ },
+ {
+  "Sr. No": 269,
+  "Birthdate ": "20-May-78",
+  "Students Name": "Rahul Bihade",
+  "Conatct No": 9822234878
+ },
+ {
+  "Sr. No": 270,
+  "Birthdate ": "27-Oct-93",
+  "Students Name": "Devendra Bharamhe",
+  "Conatct No": 9284146449
+ },
+ {
+  "Sr. No": 271,
+  "Birthdate ": "18-May-96",
+  "Students Name": "Abhishek Akewar",
+  "Conatct No": 9096885793
+ },
+ {
+  "Sr. No": 272,
+  "Birthdate ": "18-Feb-96",
+  "Students Name": "Samata",
+  "Conatct No": 7837077087
+ },
+ {
+  "Sr. No": 273,
+  "Birthdate ": "04-Feb-96",
+  "Students Name": "Poonam Jadhav",
+  "Conatct No": 8308491416
+ },
+ {
+  "Sr. No": 274,
+  "Birthdate ": "02-Mar-96",
+  "Students Name": "Pranav Shinde",
+  "Conatct No": 7875269775
+ },
+ {
+  "Sr. No": 275,
+  "Birthdate ": "14-Sep-92",
+  "Students Name": "Mohd Ameen Khan",
+  "Conatct No": 9822650301
+ },
+ {
+  "Sr. No": 276,
+  "Birthdate ": "24-Dec-19",
+  "Students Name": "Shaikh Mosin",
+  "Conatct No": 8796915438
+ },
+ {
+  "Sr. No": 277,
+  "Birthdate ": "06-Aug-96",
+  "Students Name": "Vivek Joshi",
+  "Conatct No": 9689995708
+ },
+ {
+  "Sr. No": 278,
+  "Birthdate ": "24-Feb-94",
+  "Students Name": "Rahul Gavhane ",
+  "Conatct No": 9762642048
+ },
+ {
+  "Sr. No": 279,
+  "Birthdate ": "02-Jan-95",
+  "Students Name": "Vishal Chavan",
+  "Conatct No": 7020093765
+ },
+ {
+  "Sr. No": 280,
+  "Birthdate ": "11-Jul-95",
+  "Students Name": "KAZIM HASSAN",
+  "Conatct No": 9627787444
+ },
+ {
+  "Sr. No": 281,
+  "Birthdate ": "21-Nov-98",
+  "Students Name": "Sachin Mohite",
+  "Conatct No": 7020904923
+ },
+ {
+  "Sr. No": 282,
+  "Birthdate ": "29-Jan-95",
+  "Students Name": "Divyani Ganta",
+  "Conatct No": 9131064906
+ },
+ {
+  "Sr. No": 283,
+  "Birthdate ": "26-Feb-90",
+  "Students Name": "Priyanka Mahamuni",
+  "Conatct No": 9766251769
+ },
+ {
+  "Sr. No": 284,
+  "Birthdate ": "01-Feb-97",
+  "Students Name": "Monika Arkade",
+  "Conatct No": 8975501392
+ },
+ {
+  "Sr. No": 285,
+  "Birthdate ": "04-Jun-96",
+  "Students Name": "Bhagyashri banarase",
+  "Conatct No": 9970098027
+ },
+ {
+  "Sr. No": 286,
+  "Birthdate ": "22-Oct-98",
+  "Students Name": "Rohit Raut",
+  "Conatct No": 8600300910
+ },
+ {
+  "Sr. No": 287,
+  "Birthdate ": "29-Jul-99",
+  "Students Name": "Shrikant Walke",
+  "Conatct No": 9890193736
+ },
+ {
+  "Sr. No": 288,
+  "Birthdate ": "27-Nov-93",
+  "Students Name": "Abhijeet pawar",
+  "Conatct No": 8149634986
+ },
+ {
+  "Sr. No": 289,
+  "Birthdate ": "04-Apr-95",
+  "Students Name": "Mounika Pulikanti",
+  "Conatct No": 8790860167
+ },
+ {
+  "Sr. No": 290,
+  "Birthdate ": "17-Sep-98",
+  "Students Name": "Aditya varal",
+  "Conatct No": 7038171169
+ },
+ {
+  "Sr. No": 291,
+  "Birthdate ": "10-Jul-93",
+  "Students Name": "Rasika Patil",
+  "Conatct No": 9975368400
+ },
+ {
+  "Sr. No": 292,
+  "Birthdate ": "17-Jul-99",
+  "Students Name": "Nitin Tathe",
+  "Conatct No": 9284670085
+ },
+ {
+  "Sr. No": 293,
+  "Birthdate ": "19-May-99",
+  "Students Name": "Shreya Gore",
+  "Conatct No": 7744099824
+ },
+ {
+  "Sr. No": 294,
+  "Birthdate ": "10-May-00",
+  "Students Name": "Dadasaheb Surase",
+  "Conatct No": 8411811364
+ },
+ {
+  "Sr. No": 295,
+  "Birthdate ": "24-Jun-98",
+  "Students Name": "Ijaj sayyad",
+  "Conatct No": 8177972888
+ },
+ {
+  "Sr. No": 296,
+  "Birthdate ": "13-Feb-98",
+  "Students Name": "Mohini Nagpure",
+  "Conatct No": 9850772799
+ },
+ {
+  "Sr. No": 297,
+  "Birthdate ": "12-Feb-96",
+  "Students Name": "Akshay Kalekar",
+  "Conatct No": 9763616664
+ },
+ {
+  "Sr. No": 298,
+  "Birthdate ": "02-Jun-99",
+  "Students Name": "Pranav Dani",
+  "Conatct No": 8329146263
+ },
+ {
+  "Sr. No": 299,
+  "Birthdate ": "27-Dec-95",
+  "Students Name": "Kishor Mojad",
+  "Conatct No": 8308558727
+ },
+ {
+  "Sr. No": 300,
+  "Birthdate ": "24-Oct-97",
+  "Students Name": "Sahdev Duraphe",
+  "Conatct No": 9284146355
+ },
+ {
+  "Sr. No": 301,
+  "Birthdate ": "27-Jul-98",
+  "Students Name": "Ashutosh Pawar",
+  "Conatct No": 7028100208
+ },
+ {
+  "Sr. No": 302,
+  "Birthdate ": "17-Jul-97",
+  "Students Name": "Ashish Batwal",
+  "Conatct No": 9284268142
+ },
+ {
+  "Sr. No": 303,
+  "Birthdate ": "04-Dec-87",
+  "Students Name": "Yogesh Gawande",
+  "Conatct No": 9131168090
+ },
+ {
+  "Sr. No": 304,
+  "Birthdate ": "03-Mar-00",
+  "Students Name": "Vaibhav Sonawane",
+  "Conatct No": 9604218670
+ },
+ {
+  "Sr. No": 305,
+  "Birthdate ": "21-Feb-94",
+  "Students Name": "Shubhangi Gaikwad",
+  "Conatct No": 7030223673
+ },
+ {
+  "Sr. No": 306,
+  "Birthdate ": "03-Mar-98",
+  "Students Name": "Uday Bachal",
+  "Conatct No": 9545950497
+ },
+ {
+  "Sr. No": 307,
+  "Birthdate ": "04-Jan-95",
+  "Students Name": "Maruti Garad",
+  "Conatct No": 9021359511
+ },
+ {
+  "Sr. No": 308,
+  "Birthdate ": "04-Jun-94",
+  "Students Name": "Nikhil Nile",
+  "Conatct No": 8446214103
+ },
+ {
+  "Sr. No": 309,
+  "Birthdate ": "06-May-99",
+  "Students Name": "Pranita Shinde",
+  "Conatct No": 9527947690
+ },
+ {
+  "Sr. No": 310,
+  "Birthdate ": "22-Jun-97",
+  "Students Name": "Prathamesh Amble",
+  "Conatct No": 9158511896
+ },
+ {
+  "Sr. No": 311,
+  "Birthdate ": "10-Mar-97",
+  "Students Name": "Shubham Mane",
+  "Conatct No": 9552035568
+ },
+ {
+  "Sr. No": 312,
+  "Birthdate ": "28-Aug-99",
+  "Students Name": "Pooja Devtarshe",
+  "Conatct No": 9922704370
+ },
+ {
+  "Sr. No": 313,
+  "Birthdate ": "27-Feb-93",
+  "Students Name": "Shashank Ghodke",
+  "Conatct No": 9503949069
+ },
+ {
+  "Sr. No": 314,
+  "Birthdate ": "25-Jan-98",
+  "Students Name": "Prasanna Jangam",
+  "Conatct No": 9579101538
+ },
+ {
+  "Sr. No": 315,
+  "Birthdate ": "15-Jul-95",
+  "Students Name": "Rajat Bhat",
+  "Conatct No": 9682545535
+ },
+ {
+  "Sr. No": 316,
+  "Birthdate ": "15-Feb-96",
+  "Students Name": "Kishan Battise",
+  "Conatct No": 7276030150
+ },
+ {
+  "Sr. No": 317,
+  "Birthdate ": "26-Jul-95",
+  "Students Name": "Swapnil Gaonkar",
+  "Conatct No": 9028659327
+ },
+ {
+  "Sr. No": 318,
+  "Birthdate ": "30-Apr-92",
+  "Students Name": "Nikhil Patil",
+  "Conatct No": 9503143033
+ },
+ {
+  "Sr. No": 319,
+  "Birthdate ": "13-Jun-94",
+  "Students Name": "Vaibhav Jadhav",
+  "Conatct No": 9405401302
+ },
+ {
+  "Sr. No": 320,
+  "Birthdate ": "27-May-99",
+  "Students Name": "Sanyogita Ingawale",
+  "Conatct No": 8625896349
+ },
+ {
+  "Sr. No": 321,
+  "Birthdate ": "24-Apr-99",
+  "Students Name": "Mrudula Jagtap",
+  "Conatct No": 9130507872
+ },
+ {
+  "Sr. No": 322,
+  "Birthdate ": "11-Feb-99",
+  "Students Name": "Ankita Gaikwad",
+  "Conatct No": 9834146895
+ },
+ {
+  "Sr. No": 323,
+  "Birthdate ": "14-Feb-98",
+  "Students Name": "Sharad Shinde",
+  "Conatct No": 9143729595
+ },
+ {
+  "Sr. No": 324,
+  "Birthdate ": "22-Jun-99",
+  "Students Name": "Rajashree Takale",
+  "Conatct No": 8623828140
+ },
+ {
+  "Sr. No": 325,
+  "Birthdate ": "17-Nov-99",
+  "Students Name": "Nisha Pisal",
+  "Conatct No": 8482861414
+ },
+ {
+  "Sr. No": 326,
+  "Birthdate ": "17-Apr-98",
+  "Students Name": "Yogita Palve",
+  "Conatct No": 7499180229
+ },
+ {
+  "Sr. No": 327,
+  "Birthdate ": "26-Jun-97",
+  "Students Name": "Shubhangi Tenkale",
+  "Conatct No": 7972545354
+ },
+ {
+  "Sr. No": 328,
+  "Birthdate ": "20-Mar-99",
+  "Students Name": "Sanwad Patil ",
+  "Conatct No": 8378826499
+ },
+ {
+  "Sr. No": 329,
+  "Birthdate ": "11-Jun-99",
+  "Students Name": "Renuka Jadhav",
+  "Conatct No": 8007034169
+ },
+ {
+  "Sr. No": 330,
+  "Birthdate ": "28-Aug-98",
+  "Students Name": "Pooja Patil",
+  "Conatct No": 9373069212
+ },
+ {
+  "Sr. No": 331,
+  "Birthdate ": "20-Dec-97",
+  "Students Name": "Pooja Dahibhate",
+  "Conatct No": 9823093756
+ },
+ {
+  "Sr. No": 332,
+  "Birthdate ": "05-Aug-98",
+  "Students Name": "Srushti Nikam ",
+  "Conatct No": 8308443030
+ },
+ {
+  "Sr. No": 333,
+  "Birthdate ": "12-Mar-97",
+  "Students Name": "Akshay Daundkar",
+  "Conatct No": 9552268372
+ },
+ {
+  "Sr. No": 334,
+  "Birthdate ": "07-Sep-98",
+  "Students Name": "Saurabh Kshirsagar",
+  "Conatct No": 7499962518
+ },
+ {
+  "Sr. No": 335,
+  "Birthdate ": "11-Nov-93",
+  "Students Name": "Piyush Rajeshinde",
+  "Conatct No": 9673092647
+ },
+ {
+  "Sr. No": 336,
+  "Birthdate ": "03-Oct-98",
+  "Students Name": "Sayali Borate",
+  "Conatct No": 9730830120
+ },
+ {
+  "Sr. No": 337,
+  "Birthdate ": "26-Feb-99",
+  "Students Name": "Pramila Gaikwad",
+  "Conatct No": 8208233040
+ },
+ {
+  "Sr. No": 338,
+  "Birthdate ": "07-Mar-98",
+  "Students Name": "Vipul Naik",
+  "Conatct No": 7798514205
+ },
+ {
+  "Sr. No": 339,
+  "Birthdate ": "29-May-96",
+  "Students Name": "Atul Pawar",
+  "Conatct No": 7774999455
+ },
+ {
+  "Sr. No": 340,
+  "Birthdate ": "01-Dec-98",
+  "Students Name": "Adikavya Gupta",
+  "Conatct No": 9712113164
+ },
+ {
+  "Sr. No": 341,
+  "Birthdate ": "10-Feb-99",
+  "Students Name": "Yash Bakshi",
+  "Conatct No": 9653701848
+ },
+ {
+  "Sr. No": 342,
+  "Birthdate ": "10-Aug-98",
+  "Students Name": "Santosh Dhage",
+  "Conatct No": 7083030144
+ },
+ {
+  "Sr. No": 343,
+  "Birthdate ": "23-Sep-97",
+  "Students Name": "Ajinkya Kote",
+  "Conatct No": 9022604018
+ },
+ {
+  "Sr. No": 344,
+  "Birthdate ": "29-May-98",
+  "Students Name": "Arati Godse",
+  "Conatct No": 8956496957
+ },
+ {
+  "Sr. No": 345,
+  "Birthdate ": "27-Nov-93",
+  "Students Name": "Ashwini Patil",
+  "Conatct No": 9404289488
+ },
+ {
+  "Sr. No": 346,
+  "Birthdate ": "01-Jul-98",
+  "Students Name": "Swapnali Khatile",
+  "Conatct No": 9518943517
+ },
+ {
+  "Sr. No": 347,
+  "Birthdate ": "11-Jul-98",
+  "Students Name": "Saloni Pawar",
+  "Conatct No": 8484969509
+ },
+ {
+  "Sr. No": 348,
+  "Birthdate ": "03-Mar-87",
+  "Students Name": "Vikas Pawade",
+  "Conatct No": 9604411599
+ },
+ {
+  "Sr. No": 349,
+  "Birthdate ": "23-Aug-98",
+  "Students Name": "Mayuri Thakur",
+  "Conatct No": 9284492204
+ },
+ {
+  "Sr. No": 350,
+  "Birthdate ": "18-Jun-99",
+  "Students Name": "Akshat Pahwa",
+  "Conatct No": 7688888568
+ },
+ {
+  "Sr. No": 351,
+  "Birthdate ": "26-Jan-95",
+  "Students Name": "Neelam Rasal",
+  "Conatct No": 7276446984
+ },
+ {
+  "Sr. No": 352,
+  "Birthdate ": "20-Jul-98",
+  "Students Name": "Ganesh Phadtare",
+  "Conatct No": 7028081234
+ },
+ {
+  "Sr. No": 353,
+  "Birthdate ": "21-Mar-96",
+  "Students Name": "Akash Gole",
+  "Conatct No": 7350379155
+ },
+ {
+  "Sr. No": 354,
+  "Birthdate ": "02-Dec-94",
+  "Students Name": "Tejas Nimkar",
+  "Conatct No": 9665333513
+ },
+ {
+  "Sr. No": 355,
+  "Birthdate ": "16-May-97",
+  "Students Name": "Sindhu Patil",
+  "Conatct No": 9518794767
+ },
+ {
+  "Sr. No": 356,
+  "Birthdate ": "04-Mar-96",
+  "Students Name": "Ketaki Kulkarni",
+  "Conatct No": 8378836316
+ },
+ {
+  "Sr. No": 357,
+  "Birthdate ": "28-Nov-98",
+  "Students Name": "Shubhada Kardile",
+  "Conatct No": 7038736957
+ },
+ {
+  "Sr. No": 358,
+  "Birthdate ": "20-Jun-99",
+  "Students Name": "Radheshyam Shiraskar",
+  "Conatct No": 8668437494
+ },
+ {
+  "Sr. No": 359,
+  "Birthdate ": "28-Apr-98",
+  "Students Name": "akshata kedgoni",
+  "Conatct No": 7798888419
+ },
+ {
+  "Sr. No": 360,
+  "Birthdate ": "14-Feb-97",
+  "Students Name": "Aishwarya nalawade",
+  "Conatct No": 9657668799
+ },
+ {
+  "Sr. No": 361,
+  "Birthdate ": "11-Nov-97",
+  "Students Name": "Shivani Khanvilkar",
+  "Conatct No": 9960343797
+ },
+ {
+  "Sr. No": 362,
+  "Birthdate ": "01-Jun-98",
+  "Students Name": "Mrunal Arkade",
+  "Conatct No": 9834301183
+ },
+ {
+  "Sr. No": 363,
+  "Birthdate ": "30-Nov-97",
+  "Students Name": "Yogita Shinde",
+  "Conatct No": 8007069235
+ },
+ {
+  "Sr. No": 364,
+  "Birthdate ": "10-Apr-97",
+  "Students Name": "Vrushali Chaudhari",
+  "Conatct No": 9552464625
+ },
+ {
+  "Sr. No": 365,
+  "Birthdate ": "27-Oct-97",
+  "Students Name": "Dhanashri Sanjay Narkhede",
+  "Conatct No": 9960655103
+ },
+ {
+  "Sr. No": 366,
+  "Birthdate ": "10-Dec-97",
+  "Students Name": "Harshada",
+  "Conatct No": 7972350870
+ },
+ {
+  "Sr. No": 367,
+  "Birthdate ": "21-May-98",
+  "Students Name": "Swapnil Swami ",
+  "Conatct No": 8329777928
+ },
+ {
+  "Sr. No": 368,
+  "Birthdate ": "22-Apr-93",
+  "Students Name": "Swati Deshmukh",
+  "Conatct No": 9527699005
+ },
+ {
+  "Sr. No": 369,
+  "Birthdate ": "20-Jan-99",
+  "Students Name": "Rutuja Chavan",
+  "Conatct No": 9767459825
+ },
+ {
+  "Sr. No": 370,
+  "Birthdate ": "30-Oct-97",
+  "Students Name": "Kumar Saksham",
+  "Conatct No": 9975716039
+ },
+ {
+  "Sr. No": 371,
+  "Birthdate ": "12-Jun-97",
+  "Students Name": "Mrunmayee",
+  "Conatct No": 9767789288
+ },
+ {
+  "Sr. No": 372,
+  "Birthdate ": "17-Jun-96",
+  "Students Name": "Shubham Beldare",
+  "Conatct No": 9518332475
+ },
+ {
+  "Sr. No": 373,
+  "Birthdate ": "03-Dec-96",
+  "Students Name": "Parag Lande",
+  "Conatct No": 7350352075
+ },
+ {
+  "Sr. No": 374,
+  "Birthdate ": "11-Nov-97",
+  "Students Name": "Pravin  Taware",
+  "Conatct No": 9970194916
+ },
+ {
+  "Sr. No": 375,
+  "Birthdate ": "17-Jul-95",
+  "Students Name": "Sagar Gaikwad",
+  "Conatct No": 7387152717
+ },
+ {
+  "Sr. No": 376,
+  "Birthdate ": "18-Apr-93",
+  "Students Name": "Ms Aditya",
+  "Conatct No": 7667754386
+ },
+ {
+  "Sr. No": 377,
+  "Birthdate ": "22-Feb-97",
+  "Students Name": "Supriya Shinde",
+  "Conatct No": 7666989220
+ },
+ {
+  "Sr. No": 378,
+  "Birthdate ": "07-Jul-95",
+  "Students Name": "Laxman Adhav",
+  "Conatct No": 7448023871
+ },
+ {
+  "Sr. No": 379,
+  "Birthdate ": "01-Jul-98",
+  "Students Name": "Priyanka Salunkhe",
+  "Conatct No": 7843063116
+ },
+ {
+  "Sr. No": 380,
+  "Birthdate ": "29-Jan-99",
+  "Students Name": "Sarita Kamlakar",
+  "Conatct No": 8007748618
+ },
+ {
+  "Sr. No": 381,
+  "Birthdate ": "28-Nov-96",
+  "Students Name": "Shivanand More",
+  "Conatct No": 7028533310
+ },
+ {
+  "Sr. No": 382,
+  "Birthdate ": "03-Feb-97",
+  "Students Name": "Pratik Khandpasole",
+  "Conatct No": 9604268032
+ },
+ {
+  "Sr. No": 383,
+  "Birthdate ": "24-Oct-97",
+  "Students Name": "Nikita Chavan",
+  "Conatct No": 9146823078
+ },
+ {
+  "Sr. No": 384,
+  "Birthdate ": "13-Dec-98",
+  "Students Name": "Namarata Salunkhe"
+ },
+ {
+  "Sr. No": 385,
+  "Birthdate ": "11-Dec-96",
+  "Students Name": "Gorakh",
+  "Conatct No": 8698109019
+ },
+ {
+  "Sr. No": 386,
+  "Birthdate ": "25-Oct-98",
+  "Students Name": "Apurva Rudrawar",
+  "Conatct No": 9764230231
+ },
+ {
+  "Sr. No": 387,
+  "Birthdate ": "07-Mar-99",
+  "Students Name": "Shubham Kapse",
+  "Conatct No": 8888653327
+ },
+ {
+  "Sr. No": 388,
+  "Birthdate ": "31-Aug-98",
+  "Students Name": "Neha Gunjal",
+  "Conatct No": 7507740572
+ },
+ {
+  "Sr. No": 389,
+  "Birthdate ": "14-Apr-98",
+  "Students Name": "Yojana Pawar",
+  "Conatct No": 8600991431
+ },
+ {
+  "Sr. No": 390,
+  "Birthdate ": "13-Jul-98",
+  "Students Name": "Gauri babar",
+  "Conatct No": 9689393775
+ },
+ {
+  "Sr. No": 391,
+  "Birthdate ": "05-Oct-98",
+  "Students Name": "Sujata Ghare",
+  "Conatct No": 7083919649
+ },
+ {
+  "Sr. No": 392,
+  "Birthdate ": "24-Jan-99",
+  "Students Name": "Pritam Khartode",
+  "Conatct No": 7219402624
+ },
+ {
+  "Sr. No": 393,
+  "Birthdate ": "09-Apr-98",
+  "Students Name": "Puja Sathe",
+  "Conatct No": 9527757843
+ },
+ {
+  "Sr. No": 394,
+  "Birthdate ": "27-Jan-99",
+  "Students Name": "Sarvesh Shivprasad",
+  "Conatct No": 8999631177
+ },
+ {
+  "Sr. No": 395,
+  "Birthdate ": "31-Mar-96",
+  "Students Name": "Anmol bhoyar",
+  "Conatct No": 9552657044
+ },
+ {
+  "Sr. No": 396,
+  "Birthdate ": "24-Apr-98",
+  "Students Name": "Akshada Bhujbal",
+  "Conatct No": 9503417427
+ },
+ {
+  "Sr. No": 397,
+  "Birthdate ": "09-Jan-98",
+  "Students Name": "Akshada Chavan",
+  "Conatct No": 9503417427
+ },
+ {
+  "Sr. No": 398,
+  "Birthdate ": "07-Oct-97",
+  "Students Name": "Aniruddha Bandal ",
+  "Conatct No": 9011530926
+ },
+ {
+  "Sr. No": 399,
+  "Birthdate ": "21-Oct-96",
+  "Students Name": "Abhishek Rotake",
+  "Conatct No": 9049798538
+ },
+ {
+  "Sr. No": 400,
+  "Birthdate ": "27-Jul-96",
+  "Students Name": "Pankaj Selokar",
+  "Conatct No": 8208064621
+ },
+ {
+  "Sr. No": 401,
+  "Birthdate ": "15-Feb-89",
+  "Students Name": "Bhushan Patil",
+  "Conatct No": 7620260099
+ },
+ {
+  "Sr. No": 402,
+  "Birthdate ": "18-Jul-98",
+  "Students Name": "Mitali Paldewar",
+  "Conatct No": 8446670986
+ },
+ {
+  "Sr. No": 403,
+  "Birthdate ": "09-Jul-97",
+  "Students Name": "Aniket Chorghe",
+  "Conatct No": 9834182773
+ },
+ {
+  "Sr. No": 404,
+  "Birthdate ": "07-Jun-95",
+  "Students Name": "Karan Chavan",
+  "Conatct No": 8796673794
+ },
+ {
+  "Sr. No": 405,
+  "Birthdate ": "22-Jul-98",
+  "Students Name": "Kedar Gorphade",
+  "Conatct No": 7758022035
+ },
+ {
+  "Sr. No": 406,
+  "Birthdate ": "24-Feb-98",
+  "Students Name": "Jayesh Khandare",
+  "Conatct No": 7774030424
+ },
+ {
+  "Sr. No": 407,
+  "Birthdate ": "09-Jun-99",
+  "Students Name": "Mansi Jagtap",
+  "Conatct No": 7410751964
+ },
+ {
+  "Sr. No": 408,
+  "Birthdate ": "12-Jul-92",
+  "Students Name": "Dhananjai Karpe",
+  "Conatct No": 9518528279
+ },
+ {
+  "Sr. No": 409,
+  "Birthdate ": "04-Jan-95",
+  "Students Name": "Gaurav Pawar",
+  "Conatct No": 9763006930
+ },
+ {
+  "Sr. No": 410,
+  "Birthdate ": "30-Apr-94",
+  "Students Name": "Akshay Borugale",
+  "Conatct No": 8308955804
+ },
+ {
+  "Sr. No": 411,
+  "Birthdate ": "09-Sep-94",
+  "Students Name": "Gaurav Charjan",
+  "Conatct No": 8275229875
+ },
+ {
+  "Sr. No": 412,
+  "Birthdate ": "12-Oct-99",
+  "Students Name": "Shivani Bibve",
+  "Conatct No": 9921498554
+ },
+ {
+  "Sr. No": 413,
+  "Birthdate ": "27-Nov-99",
+  "Students Name": "Rutuja Dilpak",
+  "Conatct No": 9146909927
+ },
+ {
+  "Sr. No": 414,
+  "Birthdate ": "17-May-97",
+  "Students Name": "Pankaj Chandrawanshi",
+  "Conatct No": 9340530075
+ },
+ {
+  "Sr. No": 415,
+  "Birthdate ": "24-Apr-99",
+  "Students Name": "Anuj Date",
+  "Conatct No": 7030440266
+ },
+ {
+  "Sr. No": 416,
+  "Birthdate ": "04-Oct-93",
+  "Students Name": "Chaitanya Kaware",
+  "Conatct No": 9890938411
+ },
+ {
+  "Sr. No": 417,
+  "Birthdate ": "18-Oct-00",
+  "Students Name": "Inzamam Siddqui"
+ },
+ {
+  "Sr. No": 418,
+  "Birthdate ": "30-Nov-97",
+  "Students Name": "Arjun V",
+  "Conatct No": 9527049149
+ },
+ {
+  "Sr. No": 419,
+  "Birthdate ": "25-Oct-98",
+  "Students Name": "Ravindra Ambhore",
+  "Conatct No": 9518314824
+ },
+ {
+  "Sr. No": 420,
+  "Birthdate ": "02-Feb-92",
+  "Students Name": "Akansha Shiraskar",
+  "Conatct No": 7588549228
+ },
+ {
+  "Sr. No": 421,
+  "Birthdate ": "10-Dec-01",
+  "Students Name": "Archana Pradhan",
+  "Conatct No": 9089345409
+ },
+ {
+  "Sr. No": 422,
+  "Birthdate ": "07-Jul-01",
+  "Students Name": "Saloni Ghatage",
+  "Conatct No": 9307234459
+ },
+ {
+  "Sr. No": 423,
+  "Birthdate ": "03-Mar-95",
+  "Students Name": "Sayali Komalwar",
+  "Conatct No": 9766234462
+ },
+ {
+  "Sr. No": 424,
+  "Birthdate ": "03-Jul-96",
+  "Students Name": "Mrunali Salve",
+  "Conatct No": 7507426691
+ },
+ {
+  "Sr. No": 425,
+  "Birthdate ": "02-Jan-94",
+  "Students Name": "Rasika Chavan ",
+  "Conatct No": 8390005740
+ },
+ {
+  "Sr. No": 426,
+  "Birthdate ": "02-Jun-96",
+  "Students Name": "Harshada gadekar",
+  "Conatct No": 9284750321
+ },
+ {
+  "Sr. No": 427,
+  "Birthdate ": "01-Feb-97",
+  "Students Name": "Tejaswiny s hadapad",
+  "Conatct No": 7767020594
+ },
+ {
+  "Sr. No": 428,
+  "Birthdate ": "03-Jul-97",
+  "Students Name": "Shriya Gawas",
+  "Conatct No": 7057970288
+ },
+ {
+  "Sr. No": 429,
+  "Birthdate ": "05-Jun-85",
+  "Students Name": "Vijay Londhe",
+  "Conatct No": 7972448586
+ },
+ {
+  "Sr. No": 430,
+  "Birthdate ": "24-Dec-96",
+  "Students Name": "Wasim Shaikh",
+  "Conatct No": 9922646958
+ },
+ {
+  "Sr. No": 431,
+  "Birthdate ": "03-Aug-97",
+  "Students Name": "Akash Phapale",
+  "Conatct No": 7387329151
+ },
+ {
+  "Sr. No": 432,
+  "Birthdate ": "19-Sep-96",
+  "Students Name": "Nayan Mandlik",
+  "Conatct No": 9552569659
+ },
+ {
+  "Sr. No": 433,
+  "Birthdate ": "20-Sep-96",
+  "Students Name": "Jamir Shah",
+  "Conatct No": 8446593663
+ },
+ {
+  "Sr. No": 434,
+  "Birthdate ": "27-Oct-96",
+  "Students Name": "Priyanka Jawalkar",
+  "Conatct No": 8888408374
+ },
+ {
+  "Sr. No": 435,
+  "Birthdate ": "25-Mar-97",
+  "Students Name": "Rushikesh Jahagirdar",
+  "Conatct No": 9209090960
+ },
+ {
+  "Sr. No": 436,
+  "Birthdate ": "16-Mar-94",
+  "Students Name": "Suraj Gaikwad",
+  "Conatct No": 7038973431
+ },
+ {
+  "Sr. No": 437,
+  "Birthdate ": "20-Jul-91",
+  "Students Name": "Raju Shinde",
+  "Conatct No": 9665639664
+ },
+ {
+  "Sr. No": 438,
+  "Birthdate ": "10-Dec-95",
+  "Students Name": "Ganesh Pathak",
+  "Conatct No": 9890590769
+ },
+ {
+  "Sr. No": 439,
+  "Birthdate ": "06-Jul-97",
+  "Students Name": "Amit Khandare",
+  "Conatct No": 8208142522
+ },
+ {
+  "Sr. No": 440,
+  "Birthdate ": "18-Jun-95",
+  "Students Name": "Krishnai Jirange",
+  "Conatct No": 7588061416
+ },
+ {
+  "Sr. No": 441,
+  "Birthdate ": "01-Aug-92",
+  "Students Name": "Nikita Ghodke",
+  "Conatct No": 8411809992
+ },
+ {
+  "Sr. No": 442,
+  "Birthdate ": "10-May-96",
+  "Students Name": " Ismail Sayyad",
+  "Conatct No": 7620165317
+ },
+ {
+  "Sr. No": 443,
+  "Birthdate ": "23-Jul-97",
+  "Students Name": "Omkar Patil",
+  "Conatct No": 8830246958
+ },
+ {
+  "Sr. No": 444,
+  "Birthdate ": "18-Oct-96",
+  "Students Name": "Rakshanda Jadhav",
+  "Conatct No": 8605151224
+ },
+ {
+  "Sr. No": 445,
+  "Birthdate ": "11-Mar-97",
+  "Students Name": "Akshay Balkawade",
+  "Conatct No": 7276507065
+ },
+ {
+  "Sr. No": 446,
+  "Birthdate ": "29-May-95",
+  "Students Name": "Shubhangi Bhandare",
+  "Conatct No": 8928944463
+ },
+ {
+  "Sr. No": 447,
+  "Birthdate ": "01-Oct-97",
+  "Students Name": "Rashmi Kosale",
+  "Conatct No": 8698268533
+ },
+ {
+  "Sr. No": 448,
+  "Birthdate ": "04-Jun-97",
+  "Students Name": "Rajkanya Dhabekar",
+  "Conatct No": 8459649342
+ },
+ {
+  "Sr. No": 449,
+  "Birthdate ": "13-Mar-99",
+  "Students Name": "Mahima Oswal",
+  "Conatct No": 9403294099
+ },
+ {
+  "Sr. No": 450,
+  "Birthdate ": "10-Mar-95",
+  "Students Name": "Dhondiba Tadkule",
+  "Conatct No": 8329489721
+ },
+ {
+  "Sr. No": 451,
+  "Birthdate ": "06-Jul-99",
+  "Students Name": "Deepan Jagad",
+  "Conatct No": 7741916492
+ },
+ {
+  "Sr. No": 452,
+  "Birthdate ": "17-Dec-97",
+  "Students Name": "Pratiksha Kale",
+  "Conatct No": 8888333276
+ },
+ {
+  "Sr. No": 453,
+  "Birthdate ": "01-Feb-01",
+  "Students Name": "Santur Dabholkar",
+  "Conatct No": 8262985289
+ },
+ {
+  "Sr. No": 454,
+  "Birthdate ": "07-Jun-96",
+  "Students Name": "Mayur Bhatasona",
+  "Conatct No": 8849818034
+ },
+ {
+  "Sr. No": 455,
+  "Birthdate ": "29-Jun-96",
+  "Students Name": "Mitali Purohit",
+  "Conatct No": 7719848400
+ },
+ {
+  "Sr. No": 456,
+  "Birthdate ": "03-Dec-97",
+  "Students Name": "Gayatri Joshi",
+  "Conatct No": 7499607577
+ },
+ {
+  "Sr. No": 457,
+  "Birthdate ": "04-Jun-00",
+  "Students Name": "Sakshi Sutar ",
+  "Conatct No": 7385504850
+ },
+ {
+  "Sr. No": 458,
+  "Birthdate ": "30-Aug-99",
+  "Students Name": "Vishakha Hande",
+  "Conatct No": 7741002385
+ },
+ {
+  "Sr. No": 459,
+  "Birthdate ": "03-Nov-99",
+  "Students Name": "Manasi Auti",
+  "Conatct No": 9022495938
+ },
+ {
+  "Sr. No": 460,
+  "Birthdate ": "06-Feb-98",
+  "Students Name": "Vaishnavi Vasmatkar",
+  "Conatct No": 9075838380
+ },
+ {
+  "Sr. No": 461,
+  "Birthdate ": "07-Sep-96",
+  "Students Name": "Prajakta Panddkar ",
+  "Conatct No": 8378997280
+ },
+ {
+  "Sr. No": 462,
+  "Birthdate ": "27-Apr-97",
+  "Students Name": "Kaushal Sapre",
+  "Conatct No": 9604057331
+ },
+ {
+  "Sr. No": 463,
+  "Birthdate ": "27-Mar-94",
+  "Students Name": "shekhar podutwar",
+  "Conatct No": 9834957585
+ },
+ {
+  "Sr. No": 464,
+  "Birthdate ": "22-Jul-99",
+  "Students Name": "Ankush Rathore",
+  "Conatct No": 9424608482
+ },
+ {
+  "Sr. No": 465,
+  "Birthdate ": "05-Aug-96",
+  "Students Name": "Shubham Potekar",
+  "Conatct No": 8380918442
+ },
+ {
+  "Sr. No": 466,
+  "Birthdate ": "31-Jul-97",
+  "Students Name": "Akash Ingulkar",
+  "Conatct No": 8329842109
+ },
+ {
+  "Sr. No": 467,
+  "Birthdate ": "26-Jan-93",
+  "Students Name": "Snehal kamble",
+  "Conatct No": 8308159196
+ },
+ {
+  "Sr. No": 468,
+  "Birthdate ": "07-Oct-96",
+  "Students Name": "Dimpal Chaudhari",
+  "Conatct No": 9960933818
+ },
+ {
+  "Sr. No": 469,
+  "Birthdate ": "14-Oct-91",
+  "Students Name": "Kishor Kumar Mali",
+  "Conatct No": 9146726853
+ },
+ {
+  "Sr. No": 470,
+  "Birthdate ": "11-Apr-99",
+  "Students Name": "Hrishikesh Hadawale",
+  "Conatct No": 7218908988
+ },
+ {
+  "Sr. No": 471,
+  "Birthdate ": "17-May-95",
+  "Students Name": "Nitesh Asale",
+  "Conatct No": 8999398694
+ },
+ {
+  "Sr. No": 472,
+  "Birthdate ": "22-Mar-98",
+  "Students Name": " Rohit Kharkhile",
+  "Conatct No": 9096028179
+ },
+ {
+  "Sr. No": 473,
+  "Birthdate ": "13-Mar-93",
+  "Students Name": "Vikram Bhalerao",
+  "Conatct No": 7040433396
+ },
+ {
+  "Sr. No": 474,
+  "Birthdate ": "29-Aug-97",
+  "Students Name": "Kishan Kachrola",
+  "Conatct No": 9104083068
+ },
+ {
+  "Sr. No": 475,
+  "Birthdate ": "08-May-93",
+  "Students Name": "Sarang Gaikwad",
+  "Conatct No": 9309765683
+ },
+ {
+  "Sr. No": 476,
+  "Birthdate ": "09-Sep-97",
+  "Students Name": "Akshay Gorkar",
+  "Conatct No": 8805197597
+ },
+ {
+  "Sr. No": 477,
+  "Birthdate ": "08-Dec-01",
+  "Students Name": "Mihir Konojia",
+  "Conatct No": 9518973802
+ },
+ {
+  "Sr. No": 478,
+  "Birthdate ": "17-Dec-96",
+  "Students Name": "Tejaswini Jagdale ",
+  "Conatct No": 9764523617
+ },
+ {
+  "Sr. No": 479,
+  "Birthdate ": "14-Apr-97",
+  "Students Name": "Suyesha Marathe",
+  "Conatct No": 7083391854
+ },
+ {
+  "Sr. No": 480,
+  "Birthdate ": "26-Feb-97",
+  "Students Name": "Aditya Sharma",
+  "Conatct No": 9413731807
+ },
+ {
+  "Sr. No": 481,
+  "Birthdate ": "21-Feb-96",
+  "Students Name": "Shad Akhtar",
+  "Conatct No": 9657495983
+ },
+ {
+  "Sr. No": 482,
+  "Birthdate ": "26-May-93",
+  "Students Name": "Nitin Panchal",
+  "Conatct No": 7387032352
+ },
+ {
+  "Sr. No": 483,
+  "Birthdate ": "23-Apr-95",
+  "Students Name": "Sanjivani Marathe",
+  "Conatct No": 7083391854
+ },
+ {
+  "Sr. No": 484,
+  "Birthdate ": "16-Mar-99",
+  "Students Name": "Ankita Deshmane",
+  "Conatct No": 9767622709
+ },
+ {
+  "Sr. No": 485,
+  "Birthdate ": "10-Jun-97",
+  "Students Name": "Rushikesh Gore",
+  "Conatct No": 9766800870
+ },
+ {
+  "Sr. No": 486,
+  "Birthdate ": "07-Apr-97",
+  "Students Name": " Mr Nehal Deshmukh",
+  "Conatct No": 7709810416
+ },
+ {
+  "Sr. No": 487,
+  "Birthdate ": "25-Jul-96",
+  "Students Name": "Manali Waikar ",
+  "Conatct No": 9168112944
+ },
+ {
+  "Sr. No": 488,
+  "Birthdate ": "08-Mar-92",
+  "Students Name": "Aziz Tinawala",
+  "Conatct No": 7017168750
+ },
+ {
+  "Sr. No": 489,
+  "Birthdate ": "29-Sep-95",
+  "Students Name": "Abhishek Shrinath ",
+  "Conatct No": 8446547622
+ },
+ {
+  "Sr. No": 490,
+  "Birthdate ": "07-Jun-97",
+  "Students Name": "Shreya Kulkarni",
+  "Conatct No": 9168477685
+ },
+ {
+  "Sr. No": 491,
+  "Birthdate ": "22-Dec-97",
+  "Students Name": "Aribumer khan",
+  "Conatct No": 8421568236
+ },
+ {
+  "Sr. No": 492,
+  "Birthdate ": "09-Jan-98",
+  "Students Name": "Karan Mahto",
+  "Conatct No": 9820188620
+ },
+ {
+  "Sr. No": 493,
+  "Birthdate ": "11-Jan-93",
+  "Students Name": "Rishi Mehrotra",
+  "Conatct No": 9765415053
+ },
+ {
+  "Sr. No": 494,
+  "Birthdate ": "20-Mar-97",
+  "Students Name": "Priyanka Mate ",
+  "Conatct No": 7507440311
+ },
+ {
+  "Sr. No": 495,
+  "Birthdate ": "06-Apr-96",
+  "Students Name": "Harshal Gome",
+  "Conatct No": 8208717181
+ },
+ {
+  "Sr. No": 496,
+  "Birthdate ": "02-Oct-98",
+  "Students Name": "Satyam Yadav",
+  "Conatct No": 8308562987
+ },
+ {
+  "Sr. No": 497,
+  "Birthdate ": "14-Jan-98",
+  "Students Name": "Vaishnavi  Shirke",
+  "Conatct No": 8983707071
+ },
+ {
+  "Sr. No": 498,
+  "Birthdate ": "25-May-96",
+  "Students Name": "Nikhil Kadu",
+  "Conatct No": 8421256495
+ },
+ {
+  "Sr. No": 499,
+  "Birthdate ": "23-Jul-97",
+  "Students Name": "Sameer Mohurle",
+  "Conatct No": 9881174602
+ },
+ {
+  "Sr. No": 500,
+  "Birthdate ": "26-May-97",
+  "Students Name": "Riya Gupta",
+  "Conatct No": 8459354162
+ },
+ {
+  "Sr. No": 501,
+  "Birthdate ": "29-Jan-98",
+  "Students Name": "Rushikesh Kulkarni",
+  "Conatct No": 8329813516
+ },
+ {
+  "Sr. No": 502,
+  "Birthdate ": "12-Feb-97",
+  "Students Name": "Nikita Bhor",
+  "Conatct No": 9960251635
+ },
+ {
+  "Sr. No": 503,
+  "Birthdate ": "27-Oct-93",
+  "Students Name": "Darshana Thakur",
+  "Conatct No": 8805563002
+ },
+ {
+  "Sr. No": 504,
+  "Birthdate ": "26-Oct-96",
+  "Students Name": "Chaitanya Khandale",
+  "Conatct No": 9158755453
+ },
+ {
+  "Sr. No": 505,
+  "Birthdate ": "15-Dec-97",
+  "Students Name": "Kajal Mane",
+  "Conatct No": 9022345717
+ },
+ {
+  "Sr. No": 506,
+  "Birthdate ": "17-Nov-93",
+  "Students Name": "Bhushan Bawane",
+  "Conatct No": 8600361962
+ },
+ {
+  "Sr. No": 507,
+  "Birthdate ": "27-Feb-95",
+  "Students Name": "Siddhant Dhande ",
+  "Conatct No": 8888242618
+ },
+ {
+  "Sr. No": 508,
+  "Birthdate ": "16-Jun-91",
+  "Students Name": "Akash Rathod ",
+  "Conatct No": 9834129728
+ },
+ {
+  "Sr. No": 509,
+  "Birthdate ": "07-Oct-93",
+  "Students Name": "Ankur Hemane",
+  "Conatct No": 8087239677
+ },
+ {
+  "Sr. No": 510,
+  "Birthdate ": "16-Sep-97",
+  "Students Name": "Kajal Pasalkar ",
+  "Conatct No": 9923509662
+ },
+ {
+  "Sr. No": 511,
+  "Birthdate ": "20-Jul-00",
+  "Students Name": "Ganesh Sonawane ",
+  "Conatct No": 9511794432
+ },
+ {
+  "Sr. No": 512,
+  "Birthdate ": "15-Apr-00",
+  "Students Name": "Ramhari Ghayal",
+  "Conatct No": 7263889567
+ },
+ {
+  "Sr. No": 513,
+  "Birthdate ": "28-Nov-96",
+  "Students Name": "Sagar Narayan Patil",
+  "Conatct No": 8484805206
+ },
+ {
+  "Sr. No": 514,
+  "Birthdate ": "15-May-95",
+  "Students Name": "Prachi Rajendra Kasar",
+  "Conatct No": 7719819505
+ },
+ {
+  "Sr. No": 515,
+  "Birthdate ": "25-Apr-92",
+  "Students Name": "Swati Kapse",
+  "Conatct No": 8484985883
+ },
+ {
+  "Sr. No": 516,
+  "Birthdate ": "13-Apr-96",
+  "Students Name": "Anita Patil",
+  "Conatct No": 7888244768
+ },
+ {
+  "Sr. No": 517,
+  "Birthdate ": "31-Aug-96",
+  "Students Name": "Sarvesh Tingare",
+  "Conatct No": 8625864626
+ },
+ {
+  "Sr. No": 518,
+  "Birthdate ": "14-Nov-98",
+  "Students Name": "Abhijeet Shegokar",
+  "Conatct No": 7387348305
+ },
+ {
+  "Sr. No": 519,
+  "Birthdate ": "29-Mar-98",
+  "Students Name": "Gaurav Hiwase",
+  "Conatct No": 9096937879
+ },
+ {
+  "Sr. No": 520,
+  "Birthdate ": "29-Apr-99",
+  "Students Name": "Pallavi Rajgure",
+  "Conatct No": 8411822766
+ },
+ {
+  "Sr. No": 521,
+  "Birthdate ": "08-May-98",
+  "Students Name": "Indrakumar Hole",
+  "Conatct No": 9145688161
+ },
+ {
+  "Sr. No": 522,
+  "Birthdate ": "30-Oct-98",
+  "Students Name": "Prajakta Aher",
+  "Conatct No": 7447573160
+ },
+ {
+  "Sr. No": 523,
+  "Birthdate ": "22-Jan-02",
+  "Students Name": "Shruti Velhal",
+  "Conatct No": 9834671630
+ },
+ {
+  "Sr. No": 524,
+  "Birthdate ": "22-Oct-97",
+  "Students Name": "Onkar Kulkarni",
+  "Conatct No": 8329974103
+ },
+ {
+  "Sr. No": 525,
+  "Birthdate ": "04-May-98",
+  "Students Name": "Pranali Shelke",
+  "Conatct No": 9665677802
+ },
+ {
+  "Sr. No": 526,
+  "Birthdate ": "27-Jul-95",
+  "Students Name": "Akshay Patil",
+  "Conatct No": 9049508149
+ },
+ {
+  "Sr. No": 527,
+  "Birthdate ": "06-Jan-94",
+  "Students Name": "Ashutosh shivde",
+  "Conatct No": 9881242455
+ },
+ {
+  "Sr. No": 528,
+  "Birthdate ": "13-Feb-99",
+  "Students Name": "Divya Gugale",
+  "Conatct No": 8600951458
+ },
+ {
+  "Sr. No": 529,
+  "Birthdate ": "24-Jun-98",
+  "Students Name": "Ashraf Shaikh",
+  "Conatct No": 7387982939
+ },
+ {
+  "Sr. No": 530,
+  "Birthdate ": "16-Jun-92",
+  "Students Name": "Pratik Jadhav",
+  "Conatct No": 9922131789
+ },
+ {
+  "Sr. No": 531,
+  "Birthdate ": "28-Jan-97",
+  "Students Name": "Divya dipak sahare",
+  "Conatct No": 8390176435
+ },
+ {
+  "Sr. No": 532,
+  "Birthdate ": "04-Mar-97",
+  "Students Name": "Atika Khan",
+  "Conatct No": 9763479491
+ },
+ {
+  "Sr. No": 533,
+  "Birthdate ": "05-Oct-97",
+  "Students Name": "Tejas Yeole",
+  "Conatct No": 9527763432
+ },
+ {
+  "Sr. No": 534,
+  "Birthdate ": "12-Jul-97",
+  "Students Name": "Pravin Pimpale",
+  "Conatct No": 9552344220
+ },
+ {
+  "Sr. No": 535,
+  "Birthdate ": "21-Apr-01",
+  "Students Name": "Pranav kumbhar",
+  "Conatct No": 9075100762
+ },
+ {
+  "Sr. No": 536,
+  "Birthdate ": "18-May-01",
+  "Students Name": "Prashant Patil",
+  "Conatct No": 7020980890
+ },
+ {
+  "Sr. No": 537,
+  "Birthdate ": "15-Jan-96",
+  "Students Name": "Niketan Mule",
+  "Conatct No": 8600072342
+ },
+ {
+  "Sr. No": 538,
+  "Birthdate ": "29-Jul-94",
+  "Students Name": "Shubham Tiwari",
+  "Conatct No": 8552063613
+ },
+ {
+  "Sr. No": 539,
+  "Birthdate ": "18-May-95",
+  "Students Name": "Aishwarya Bhadane",
+  "Conatct No": 7276975009
+ },
+ {
+  "Sr. No": 540,
+  "Birthdate ": "25-Feb-00",
+  "Students Name": "Mayur Atole",
+  "Conatct No": 9561625713
+ },
+ {
+  "Sr. No": 541,
+  "Birthdate ": "27-Jun-95",
+  "Students Name": "Akshay Bansode",
+  "Conatct No": 7276672748
+ },
+ {
+  "Sr. No": 542,
+  "Birthdate ": "20-Apr-03",
+  "Students Name": "Rushita Kolekar",
+  "Conatct No": 8080592461
+ },
+ {
+  "Sr. No": 543,
+  "Birthdate ": "25-Dec-99",
+  "Students Name": "kiran murkute",
+  "Conatct No": 7218529583
+ },
+ {
+  "Sr. No": 544,
+  "Birthdate ": "09-Feb-00",
+  "Students Name": "Shubham panchal",
+  "Conatct No": 9011543048
+ },
+ {
+  "Sr. No": 545,
+  "Birthdate ": "17-Apr-00",
+  "Students Name": "Sameer Dukare",
+  "Conatct No": 7875291032
+ },
+ {
+  "Sr. No": 546,
+  "Birthdate ": "22-Aug-98",
+  "Students Name": "Sanket Manne",
+  "Conatct No": 8275325449
+ },
+ {
+  "Sr. No": 547,
+  "Birthdate ": "18-Apr-99",
+  "Students Name": "Akshay Karpe",
+  "Conatct No": 9834737007
+ },
+ {
+  "Sr. No": 548,
+  "Birthdate ": "07-Sep-01",
+  "Students Name": "Aboli Mundralkar",
+  "Conatct No": 9022026860
+ },
+ {
+  "Sr. No": 549,
+  "Birthdate ": "20-Apr-00",
+  "Students Name": "Kajal Parmal",
+  "Conatct No": 7756918022
+ },
+ {
+  "Sr. No": 550,
+  "Birthdate ": "25-Aug-00",
+  "Students Name": "Pranjali Jadhav",
+  "Conatct No": 9307896518
+ },
+ {
+  "Sr. No": 551,
+  "Birthdate ": "08-Dec-94",
+  "Students Name": "Anurag Thakre",
+  "Conatct No": 9307471626
+ },
+ {
+  "Sr. No": 552,
+  "Birthdate ": "29-Jan-98",
+  "Students Name": "Gaurav Patil",
+  "Conatct No": 7066848944
+ },
+ {
+  "Sr. No": 553,
+  "Birthdate ": "12-Jan-99",
+  "Students Name": "Abhijeet Randive",
+  "Conatct No": 8668713063
+ },
+ {
+  "Sr. No": 554,
+  "Birthdate ": "25-Mar-00",
+  "Students Name": "Kiran Dhobale",
+  "Conatct No": 9975012327
+ },
+ {
+  "Sr. No": 555,
+  "Birthdate ": "03-Nov-99",
+  "Students Name": "Sakshi Bhumkar",
+  "Conatct No": 8446684398
+ },
+ {
+  "Sr. No": 556,
+  "Birthdate ": "15-Oct-98",
+  "Students Name": "Shubham Kekane",
+  "Conatct No": 7219260413
+ },
+ {
+  "Sr. No": 557,
+  "Birthdate ": "02-Sep-98",
+  "Students Name": "Omkar Aher",
+  "Conatct No": 7756921230
+ },
+ {
+  "Sr. No": 558,
+  "Birthdate ": "14-May-96",
+  "Students Name": "Rushikesh Randive",
+  "Conatct No": 8605938591
+ },
+ {
+  "Sr. No": 559,
+  "Birthdate ": "17-Aug-98",
+  "Students Name": "Omkar Karale",
+  "Conatct No": 9921374887
+ },
+ {
+  "Sr. No": 560,
+  "Birthdate ": "23-Jun-99",
+  "Students Name": "Chaitanya Kadam",
+  "Conatct No": 9423137293
+ },
+ {
+  "Sr. No": 561,
+  "Birthdate ": "22-May-00",
+  "Students Name": "Satyam Kute ",
+  "Conatct No": 8956379423
+ },
+ {
+  "Sr. No": 562,
+  "Birthdate ": "15-Dec-99",
+  "Students Name": "Rushikesh Bhopale",
+  "Conatct No": 7071310707
+ },
+ {
+  "Sr. No": 563,
+  "Birthdate ": "05-Dec-00",
+  "Students Name": "Mayur Divekar",
+  "Conatct No": 7666004720
+ },
+ {
+  "Sr. No": 564,
+  "Birthdate ": "22-Nov-00",
+  "Students Name": "Pallavi Gaikwad",
+  "Conatct No": 9322102070
+ },
+ {
+  "Sr. No": 565,
+  "Birthdate ": "24-Aug-96",
+  "Students Name": "Ashish Darode",
+  "Conatct No": 8605349070
+ },
+ {
+  "Sr. No": 566,
+  "Birthdate ": "12-Nov-00",
+  "Students Name": "Satyajeet Sawant",
+  "Conatct No": 7972740745
+ },
+ {
+  "Sr. No": 567,
+  "Birthdate ": "09-Sep-97",
+  "Students Name": "Sahadev Jadhav",
+  "Conatct No": 9158104652
+ },
+ {
+  "Sr. No": 568,
+  "Birthdate ": "16-Jul-92",
+  "Students Name": "Rohit Kalkar",
+  "Conatct No": 8983222164
+ },
+ {
+  "Sr. No": 569,
+  "Birthdate ": "09-Jan-99",
+  "Students Name": "Sachin Chavan",
+  "Conatct No": 7796281348
+ },
+ {
+  "Sr. No": 570,
+  "Birthdate ": "30-Jan-01",
+  "Students Name": "Chetan Marathe",
+  "Conatct No": 9175645891
+ },
+ {
+  "Sr. No": 571,
+  "Birthdate ": "21-Oct-99",
+  "Students Name": "Ritika Pujari",
+  "Conatct No": 8793991566
+ },
+ {
+  "Sr. No": 572,
+  "Birthdate ": "16-Apr-01",
+  "Students Name": "Jayesh Patil ",
+  "Conatct No": 7888105764
+ },
+ {
+  "Sr. No": 573,
+  "Birthdate ": "04-Aug-99",
+  "Students Name": "Akshay Bandge",
+  "Conatct No": 8830743346
+ },
+ {
+  "Sr. No": 574,
+  "Birthdate ": "05-Mar-96",
+  "Students Name": "Prachi Waskar",
+  "Conatct No": 9307747878
+ },
+ {
+  "Sr. No": 575,
+  "Birthdate ": "06-Dec-97",
+  "Students Name": "Gaurav Jawale",
+  "Conatct No": 9145308010
+ },
+ {
+  "Sr. No": 576,
+  "Birthdate ": "11-Apr-98",
+  "Students Name": "Sachin Rathod",
+  "Conatct No": 9158899476
+ },
+ {
+  "Sr. No": 577,
+  "Birthdate ": "11-Jan-96",
+  "Students Name": "Sagar Magar",
+  "Conatct No": 8796569216
+ },
+ {
+  "Sr. No": 578,
+  "Birthdate ": "29-Jul-01",
+  "Students Name": "Pooja Hande",
+  "Conatct No": 7387410110
+ },
+ {
+  "Sr. No": 579,
+  "Birthdate ": "16-Oct-97",
+  "Students Name": "Rohit Joshi",
+  "Conatct No": 7588387007
+ },
+ {
+  "Sr. No": 580,
+  "Birthdate ": "02-Oct-99",
+  "Students Name": "Kalpesh Ahirrao",
+  "Conatct No": 9673706403
+ },
+ {
+  "Sr. No": 581,
+  "Birthdate ": "27-Aug-97",
+  "Students Name": "Sanket Gunjekar",
+  "Conatct No": 8888988199
+ },
+ {
+  "Sr. No": 582,
+  "Birthdate ": "07-Jan-99",
+  "Students Name": "Yogesh Aghav",
+  "Conatct No": 7218333981
+ },
+ {
+  "Sr. No": 583,
+  "Birthdate ": "28-Sep-99",
+  "Students Name": "Saurabh Gaikwad",
+  "Conatct No": 9139503716
+ },
+ {
+  "Sr. No": 584,
+  "Birthdate ": "28-Oct-93",
+  "Students Name": "Deepali Dudhal",
+  "Conatct No": 9209849626
+ },
+ {
+  "Sr. No": 585,
+  "Birthdate ": "26-Nov-97",
+  "Students Name": "Rohit Kate",
+  "Conatct No": 7972687598
+ },
+ {
+  "Sr. No": 586,
+  "Birthdate ": "02-Sep-00",
+  "Students Name": "Rohit Lagade",
+  "Conatct No": 9284800961
+ },
+ {
+  "Sr. No": 587,
+  "Birthdate ": "04-May-95",
+  "Students Name": "Madhuri Golde",
+  "Conatct No": 7875609239
+ },
+ {
+  "Sr. No": 588,
+  "Birthdate ": "06-Sep-96",
+  "Students Name": "Nutan Thakre",
+  "Conatct No": 9673634225
+ },
+ {
+  "Sr. No": 589,
+  "Birthdate ": "04-Dec-74",
+  "Students Name": "Kavita Birari",
+  "Conatct No": 9422707202
+ },
+ {
+  "Sr. No": 590,
+  "Birthdate ": "22-Aug-00",
+  "Students Name": "Saloni Salunkhe",
+  "Conatct No": 7798644844
+ },
+ {
+  "Sr. No": 591,
+  "Birthdate ": "17-Jul-01",
+  "Students Name": "Urvi Mudliar",
+  "Conatct No": 7517648725
+ },
+ {
+  "Sr. No": 592,
+  "Birthdate ": "06-Jan-99",
+  "Students Name": "Aditya Raikwar",
+  "Conatct No": 8446169522
+ },
+ {
+  "Sr. No": 593,
+  "Birthdate ": "17-Nov-97",
+  "Students Name": "Atharva Peshave",
+  "Conatct No": 9511746410
+ },
+ {
+  "Sr. No": 594,
+  "Birthdate ": "06-Sep-98",
+  "Students Name": "Pemaram Siravi",
+  "Conatct No": 7387701996
+ },
+ {
+  "Sr. No": 595,
+  "Birthdate ": "07-Jun-00",
+  "Students Name": "Nadim Sutar ",
+  "Conatct No": 9172566435
+ },
+ {
+  "Sr. No": 596,
+  "Birthdate ": "09-Oct-00",
+  "Students Name": "Shruti Hande",
+  "Conatct No": 8999936369
+ },
+ {
+  "Sr. No": 597,
+  "Birthdate ": "19-Mar-98",
+  "Students Name": "Soumya Nagpurkar ",
+  "Conatct No": 7820899329
+ },
+ {
+  "Sr. No": 598,
+  "Birthdate ": "07-Dec-98",
+  "Students Name": "Nilesh Mate",
+  "Conatct No": 9067356767
+ },
+ {
+  "Sr. No": 599,
+  "Birthdate ": "24-May-98",
+  "Students Name": "Nikhil Kulkarni",
+  "Conatct No": 9309226426
+ },
+ {
+  "Sr. No": 600,
+  "Birthdate ": "01-May-01",
+  "Students Name": "Mayur Wagh",
+  "Conatct No": 7350394722
+ },
+ {
+  "Sr. No": 601,
+  "Birthdate ": "21-Aug-02",
+  "Students Name": "Aliakbar Culcuttawala",
+  "Conatct No": 7020134193
+ },
+ {
+  "Sr. No": 602,
+  "Birthdate ": "28-Dec-00",
+  "Students Name": "Abhinay Salvi",
+  "Conatct No": 7083165764
+ },
+ {
+  "Sr. No": 603,
+  "Birthdate ": "18-Oct-00",
+  "Students Name": "Prayga Keskar",
+  "Conatct No": 7218971490
+ },
+ {
+  "Sr. No": 604,
+  "Birthdate ": "01-Apr-00",
+  "Students Name": "Tejal Ramdasi",
+  "Conatct No": 7378858389
+ },
+ {
+  "Sr. No": 605,
+  "Birthdate ": "27-May-00",
+  "Students Name": "Ranjeet Budhaneawar ",
+  "Conatct No": 7420808784
+ },
+ {
+  "Sr. No": 606,
+  "Birthdate ": "10-Aug-00",
+  "Students Name": "Tushar Shinde",
+  "Conatct No": 9834026133
+ },
+ {
+  "Sr. No": 607,
+  "Birthdate ": "09-Sep-00",
+  "Students Name": "Pavan Patil",
+  "Conatct No": 8208233150
+ },
+ {
+  "Sr. No": 608,
+  "Birthdate ": "30-Jan-01",
+  "Students Name": "Prathmesh Lohakare",
+  "Conatct No": 8805292910
+ },
+ {
+  "Sr. No": 609,
+  "Birthdate ": "05-Mar-96",
+  "Students Name": "Parag Jadhav",
+  "Conatct No": 8087456372
+ },
+ {
+  "Sr. No": 610,
+  "Birthdate ": "30-Aug-01",
+  "Students Name": "Apeksha Tarate",
+  "Conatct No": 8551985442
+ },
+ {
+  "Sr. No": 611,
+  "Birthdate ": "05-Mar-98",
+  "Students Name": "Vishal Nikam",
+  "Conatct No": 9168117427
+ },
+ {
+  "Sr. No": 612,
+  "Birthdate ": "21-Apr-96",
+  "Students Name": "Swaraj Vittaldas",
+  "Conatct No": 9579602383
+ },
+ {
+  "Sr. No": 613,
+  "Birthdate ": "22-Sep-98",
+  "Students Name": "Shekhar Dudhal",
+  "Conatct No": 9130504493
+ },
+ {
+  "Sr. No": 614,
+  "Birthdate ": "24-Jul-98",
+  "Students Name": "Tejas Agarkar",
+  "Conatct No": 8600556723
+ },
+ {
+  "Sr. No": 615,
+  "Birthdate ": "09-Aug-02",
+  "Students Name": "Mohit Inamke",
+  "Conatct No": 9607751622
+ },
+ {
+  "Sr. No": 616,
+  "Birthdate ": "20-Sep-99",
+  "Students Name": "Sandeep Chape",
+  "Conatct No": 7038649212
+ },
+ {
+  "Sr. No": 617,
+  "Birthdate ": "09-Nov-99",
+  "Students Name": "Sainath Panpatte",
+  "Conatct No": 9552012545
+ },
+ {
+  "Sr. No": 618,
+  "Birthdate ": "19-Sep-99",
+  "Students Name": "Shivam Kamthekar",
+  "Conatct No": 9158391555
+ },
+ {
+  "Sr. No": 619,
+  "Birthdate ": "07-Mar-98",
+  "Students Name": "Kuldip Patil",
+  "Conatct No": 7620466562
+ },
+ {
+  "Sr. No": 620,
+  "Birthdate ": "31-Dec-99",
+  "Students Name": "Rutwik Pande",
+  "Conatct No": "91450 17250"
+ },
+ {
+  "Sr. No": 621,
+  "Birthdate ": "22-Nov-96",
+  "Students Name": "Pranav Wadkar",
+  "Conatct No": 8208647637
+ },
+ {
+  "Sr. No": 622,
+  "Birthdate ": "23-Jul-98",
+  "Students Name": "Shraddha Kale ",
+  "Conatct No": 9130684839
+ },
+ {
+  "Sr. No": 623,
+  "Birthdate ": "22-Jan-96",
+  "Students Name": "Shubham More",
+  "Conatct No": 9156023292
+ },
+ {
+  "Sr. No": 624,
+  "Birthdate ": "24-May-98",
+  "Students Name": "Vishnu Kale",
+  "Conatct No": 7057572597
+ },
+ {
+  "Sr. No": 625,
+  "Birthdate ": "24-Apr-98",
+  "Students Name": "Nishigandha Bagul",
+  "Conatct No": 9527306030
+ },
+ {
+  "Sr. No": 626,
+  "Birthdate ": "23-Aug-98",
+  "Students Name": "Priyanka Kale",
+  "Conatct No": 8407940351
+ },
+ {
+  "Sr. No": 627,
+  "Birthdate ": "01-Mar-00",
+  "Students Name": "Maseera Baig",
+  "Conatct No": 9766343218
+ },
+ {
+  "Sr. No": 628,
+  "Birthdate ": "08-Apr-00",
+  "Students Name": "Maheshwari Pimpale",
+  "Conatct No": 8767877389
+ },
+ {
+  "Sr. No": 629,
+  "Birthdate ": "26-Mar-00",
+  "Students Name": "Sayali Kathare",
+  "Conatct No": 8767594322
+ },
+ {
+  "Sr. No": 630,
+  "Birthdate ": "10-Oct-00",
+  "Students Name": "Shubhangi Kasgikar",
+  "Conatct No": 9529952751
+ },
+ {
+  "Sr. No": 631,
+  "Birthdate ": "11-Jun-99",
+  "Students Name": "Rohan Fattepure",
+  "Conatct No": 7620010049
+ },
+ {
+  "Sr. No": 632,
+  "Birthdate ": "07-Jan-99",
+  "Students Name": "Kiran Bhagat",
+  "Conatct No": 9284159463
+ },
+ {
+  "Sr. No": 633,
+  "Birthdate ": "02-Dec-02",
+  "Students Name": "Shubham Atak",
+  "Conatct No": 9763961643
+ },
+ {
+  "Sr. No": 634,
+  "Birthdate ": "25-Jul-00",
+  "Students Name": "Shreeraj Kolhe",
+  "Conatct No": 7517838158
+ },
+ {
+  "Sr. No": 635,
+  "Birthdate ": "01-Dec-99",
+  "Students Name": "Pratik Dhumal",
+  "Conatct No": 7350547236
+ },
+ {
+  "Sr. No": 636,
+  "Birthdate ": "13-Mar-02",
+  "Students Name": "Mandar Yande",
+  "Conatct No": 8080224603
+ },
+ {
+  "Sr. No": 637,
+  "Birthdate ": "27-Jul-02",
+  "Students Name": "Swayam Bharsakale",
+  "Conatct No": 9890327559
+ },
+ {
+  "Sr. No": 638,
+  "Birthdate ": "05-Jun-02",
+  "Students Name": "Nikhil Nikam",
+  "Conatct No": 7756073369
+ },
+ {
+  "Sr. No": 639,
+  "Birthdate ": "11-Jul-98",
+  "Students Name": "Pallavi Suru",
+  "Conatct No": 7387832773
+ },
+ {
+  "Sr. No": 640,
+  "Birthdate ": "10-Sep-98",
+  "Students Name": "Nikita More",
+  "Conatct No": 8830795426
+ },
+ {
+  "Sr. No": 641,
+  "Birthdate ": "11-Nov-98",
+  "Students Name": "Aniket Gomale",
+  "Conatct No": 7218445812
+ },
+ {
+  "Sr. No": 642,
+  "Birthdate ": "12-Feb-03",
+  "Students Name": "Vaishanavi Patil",
+  "Conatct No": 9834130872
+ },
+ {
+  "Sr. No": 643,
+  "Birthdate ": "20-Aug-00",
+  "Students Name": "Saloni Kamble",
+  "Conatct No": 9309838707
+ },
+ {
+  "Sr. No": 644,
+  "Birthdate ": "28-May-99",
+  "Students Name": "Omkar Nikam",
+  "Conatct No": 9172900337
+ },
+ {
+  "Sr. No": 645,
+  "Birthdate ": "23-Mar-01",
+  "Students Name": "Varsha Yamul",
+  "Conatct No": 7666828136
+ },
+ {
+  "Sr. No": 646,
+  "Birthdate ": "29-May-02",
+  "Students Name": "Omkar Aher",
+  "Conatct No": 7020913068
+ },
+ {
+  "Sr. No": 647,
+  "Birthdate ": "01-Jan-02",
+  "Students Name": "Neha Chavan",
+  "Conatct No": 9209389242
+ },
+ {
+  "Sr. No": 648,
+  "Birthdate ": "15-May-99",
+  "Students Name": "Saurabh Nimse",
+  "Conatct No": 7057144476
+ },
+ {
+  "Sr. No": 649,
+  "Birthdate ": "28-Oct-99",
+  "Students Name": "Akash Deshmukh",
+  "Conatct No": 9359780931
+ },
+ {
+  "Sr. No": 650,
+  "Birthdate ": "11-Jan-97",
+  "Students Name": "Virbhadra Ruikar",
+  "Conatct No": 9604932951
+ },
+ {
+  "Sr. No": 651,
+  "Birthdate ": "26-Aug-00",
+  "Students Name": "Prasanna Patil",
+  "Conatct No": 9765934074
+ },
+ {
+  "Sr. No": 652,
+  "Birthdate ": "03-May-00",
+  "Students Name": "Vaishnavi Giri",
+  "Conatct No": 9067295927
+ },
+ {
+  "Sr. No": 653,
+  "Birthdate ": "01-May-99",
+  "Students Name": "Akshay Nadgire",
+  "Conatct No": 9158585532
+ },
+ {
+  "Sr. No": 654,
+  "Birthdate ": "30-Jan-97",
+  "Students Name": "Mayuri Chede",
+  "Conatct No": 9881257473
+ },
+ {
+  "Sr. No": 655,
+  "Birthdate ": "05-Mar-00",
+  "Students Name": "Shital Pande",
+  "Conatct No": 9623961087
+ },
+ {
+  "Sr. No": 656,
+  "Birthdate ": "05-Oct-97",
+  "Students Name": "Sagar Borse",
+  "Conatct No": 8657491243
+ },
+ {
+  "Sr. No": 657,
+  "Birthdate ": "02-Apr-00",
+  "Students Name": "Abhishek More",
+  "Conatct No": 7030890345
+ },
+ {
+  "Sr. No": 658,
+  "Birthdate ": "29-Feb-00",
+  "Students Name": "Shubham Kalekar",
+  "Conatct No": 7083905097
+ },
+ {
+  "Sr. No": 659,
+  "Birthdate ": "24-Aug-95",
+  "Students Name": "Bhagyashree Phapal",
+  "Conatct No": 8446457013
+ },
+ {
+  "Sr. No": 660,
+  "Birthdate ": "19-Oct-99",
+  "Students Name": "Manish Naik",
+  "Conatct No": 9422974979
+ },
+ {
+  "Sr. No": 661,
+  "Birthdate ": "09-Aug-01",
+  "Students Name": "Shravani Joshi",
+  "Conatct No": 8766436997
+ },
+ {
+  "Sr. No": 662,
+  "Birthdate ": "19-Sep-01",
+  "Students Name": "Rohan Mahadik",
+  "Conatct No": 7040902716
+ },
+ {
+  "Sr. No": 663,
+  "Birthdate ": "09-Oct-00",
+  "Students Name": "Sanjeevkumar",
+  "Conatct No": 8970867528
+ },
+ {
+  "Sr. No": 664,
+  "Birthdate ": "16-Mar-99",
+  "Students Name": "Ashraf Bashir Patel",
+  "Conatct No": 8788339649
+ },
+ {
+  "Sr. No": 665,
+  "Birthdate ": "25-Dec-00",
+  "Students Name": "Mayur Divekar",
+  "Conatct No": 7666004720
+ },
+ {
+  "Sr. No": 666,
+  "Birthdate ": "28-May-02",
+  "Students Name": "Vaishanavi Shinde",
+  "Conatct No": 8010252752
+ },
+ {
+  "Sr. No": 667,
+  "Birthdate ": "28-Oct-01",
+  "Students Name": "Shatabdi Shirtode",
+  "Conatct No": 8856042810
+ },
+ {
+  "Sr. No": 668,
+  "Birthdate ": "26-Aug-97",
+  "Students Name": "Kanchan Gapat",
+  "Conatct No": 9529177868
+ },
+ {
+  "Sr. No": 669,
+  "Birthdate ": "24-Feb-00",
+  "Students Name": "Shradha Salgar",
+  "Conatct No": 8999636351
+ },
+ {
+  "Sr. No": 670,
+  "Birthdate ": "20-Jan-99",
+  "Students Name": "Priyanka Birajdar",
+  "Conatct No": 9370808388
+ },
+ {
+  "Sr. No": 671,
+  "Birthdate ": "30-Aug-99",
+  "Students Name": "Gaurav Awchat",
+  "Conatct No": 7057067427
+ },
+ {
+  "Sr. No": 672,
+  "Birthdate ": "12-Dec-98",
+  "Students Name": "Raman Laturkar",
+  "Conatct No": 8605005651
+ },
+ {
+  "Sr. No": 673,
+  "Birthdate ": "12-Jul-97",
+  "Students Name": "Sheshadri Jamnik",
+  "Conatct No": 7083220036
+ },
+ {
+  "Sr. No": 674,
+  "Birthdate ": "01-Nov-99",
+  "Students Name": "Harish Ayachit",
+  "Conatct No": 7385828003
+ },
+ {
+  "Sr. No": 675,
+  "Birthdate ": "24-Mar-99",
+  "Students Name": "Kosha Gohil",
+  "Conatct No": 7745015387
+ },
+ {
+  "Sr. No": 676,
+  "Birthdate ": "19-Feb-98",
+  "Students Name": "Tarun Pardeshi",
+  "Conatct No": 9665500004
+ },
+ {
+  "Sr. No": 677,
+  "Birthdate ": "16-Jul-96",
+  "Students Name": "Rupesh Dhamdhere",
+  "Conatct No": 9822717575
+ },
+ {
+  "Sr. No": 678,
+  "Birthdate ": "13-Jun-90",
+  "Students Name": "Aashish Chopade",
+  "Conatct No": 8087392432
+ },
+ {
+  "Sr. No": 679,
+  "Birthdate ": "18-Jan-97",
+  "Students Name": "Riddhi Kapse",
+  "Conatct No": 8010890848
+ },
+ {
+  "Sr. No": 680,
+  "Birthdate ": "24-Dec-98",
+  "Students Name": "Amruta Gawali ",
+  "Conatct No": 9579205605
+ },
+ {
+  "Sr. No": 681,
+  "Birthdate ": "20-Dec-96",
+  "Students Name": "Saurabh Upadhye",
+  "Conatct No": 9762538586
+ },
+ {
+  "Sr. No": 682,
+  "Birthdate ": "01-May-91",
+  "Students Name": "Suchita Kedar",
+  "Conatct No": 9899194972
+ },
+ {
+  "Sr. No": 683,
+  "Birthdate ": "19-Feb-94",
+  "Students Name": "Dnyaneshwar Chavan",
+  "Conatct No": 9604882323
+ },
+ {
+  "Sr. No": 684,
+  "Birthdate ": "18-Dec-98",
+  "Students Name": "Sanket Pise",
+  "Conatct No": 7057055373
+ },
+ {
+  "Sr. No": 685,
+  "Birthdate ": "20-Jun-00",
+  "Students Name": "Shehal Koshti",
+  "Conatct No": 9623003001
+ },
+ {
+  "Sr. No": 686,
+  "Birthdate ": "08-Feb-01",
+  "Students Name": "Sandesh Hulawale",
+  "Conatct No": 8788385165
+ },
+ {
+  "Sr. No": 687,
+  "Birthdate ": "09-Oct-00",
+  "Students Name": "Abhishek Shendge",
+  "Conatct No": 8149199596
+ },
+ {
+  "Sr. No": 688,
+  "Birthdate ": "20-Feb-94",
+  "Students Name": "Madhuri Jadhav",
+  "Conatct No": 9307259398
+ },
+ {
+  "Sr. No": 689,
+  "Birthdate ": "28-Aug-00",
+  "Students Name": "Rushikesh Sonawane",
+  "Conatct No": 7447575665
+ },
+ {
+  "Sr. No": 690,
+  "Birthdate ": "25-Jun-00",
+  "Students Name": "Raj Gaikwad",
+  "Conatct No": 9673957214
+ },
+ {
+  "Sr. No": 691,
+  "Birthdate ": "19-Dec-98",
+  "Students Name": "Sanket Kadam",
+  "Conatct No": 9075688529
+ },
+ {
+  "Sr. No": 692,
+  "Birthdate ": "21-Apr-00",
+  "Students Name": "Nikhil Gaikwad",
+  "Conatct No": 9146713898
+ },
+ {
+  "Sr. No": 693,
+  "Birthdate ": "21-Aug-99",
+  "Students Name": "Suraj Sonawane",
+  "Conatct No": 7719943277
+ },
+ {
+  "Sr. No": 694,
+  "Birthdate ": "25-Sep-97",
+  "Students Name": "Sneha Dadmal",
+  "Conatct No": 8390924583
+ },
+ {
+  "Sr. No": 695,
+  "Birthdate ": "18-Aug-98",
+  "Students Name": "Dhiraj Barkul",
+  "Conatct No": 7218501858
+ },
+ {
+  "Sr. No": 696,
+  "Birthdate ": "12-May-97",
+  "Students Name": "Ajaysigh Thakur",
+  "Conatct No": 9834401403
+ },
+ {
+  "Sr. No": 697,
+  "Birthdate ": "18-Dec-98",
+  "Students Name": "Priyanka Jatale",
+  "Conatct No": 7841960916
+ },
+ {
+  "Sr. No": 698,
+  "Birthdate ": "04-Oct-96",
+  "Students Name": "Pooja Pawar",
+  "Conatct No": 8793265697
+ },
+ {
+  "Sr. No": 699,
+  "Birthdate ": "18-May-96",
+  "Students Name": "Ajit Rathod",
+  "Conatct No": 7276831271
+ },
+ {
+  "Sr. No": 700,
+  "Birthdate ": "13-Oct-97",
+  "Students Name": "Snehal Patil",
+  "Conatct No": 9689929799
+ },
+ {
+  "Sr. No": 701,
+  "Birthdate ": "07-Jul-96",
+  "Students Name": "Hitesh Patil",
+  "Conatct No": 9552817796
+ },
+ {
+  "Sr. No": 702,
+  "Birthdate ": "20-Aug-99",
+  "Students Name": "Kavita Kute ",
+  "Conatct No": 9511293299
+ },
+ {
+  "Sr. No": 703,
+  "Birthdate ": "24-Jun-96",
+  "Students Name": "Abhijit Nichang",
+  "Conatct No": 9623440344
+ },
+ {
+  "Sr. No": 704,
+  "Birthdate ": "13-Sep-00",
+  "Students Name": "Gaurav shinde",
+  "Conatct No": 9021095768
+ },
+ {
+  "Sr. No": 705,
+  "Birthdate ": "07-Feb-99",
+  "Students Name": "Rushikesh Shirke",
+  "Conatct No": 8855995228
+ },
+ {
+  "Sr. No": 706,
+  "Birthdate ": "25-May-00",
+  "Students Name": "Shubham Damare",
+  "Conatct No": 8087638392
+ },
+ {
+  "Sr. No": 707,
+  "Birthdate ": "16-Dec-06",
+  "Students Name": "Soham Javkar",
+  "Conatct No": 7722071616
+ },
+ {
+  "Sr. No": 708,
+  "Birthdate ": "22-Jan-00",
+  "Students Name": "Rushikesh Shinde",
+  "Conatct No": 7447889194
+ },
+ {
+  "Sr. No": 709,
+  "Birthdate ": "05-Jul-99",
+  "Students Name": "Vishal Mule",
+  "Conatct No": 9284654424
+ },
+ {
+  "Sr. No": 710,
+  "Birthdate ": "14-Jun-00",
+  "Students Name": "Nilesh Thate",
+  "Conatct No": 7448060939
+ },
+ {
+  "Sr. No": 711,
+  "Birthdate ": "28-May-02",
+  "Students Name": "Roshan Thore",
+  "Conatct No": 9834711367
+ },
+ {
+  "Sr. No": 712,
+  "Birthdate ": "25-Oct-97",
+  "Students Name": "Sharvil Kadari",
+  "Conatct No": 7758900793
+ },
+ {
+  "Sr. No": 713,
+  "Birthdate ": "11-Oct-98",
+  "Students Name": "Rashmi Rathor",
+  "Conatct No": 8483848150
+ },
+ {
+  "Sr. No": 714,
+  "Birthdate ": "03-Nov-99",
+  "Students Name": "Manish Pandit ",
+  "Conatct No": 8007124207
+ },
+ {
+  "Sr. No": 715,
+  "Birthdate ": "02-Jun-99",
+  "Students Name": "Omkar Yadav",
+  "Conatct No": 7038105475
+ },
+ {
+  "Sr. No": 716,
+  "Birthdate ": "09-Sep-99",
+  "Students Name": "Jaydeep Patil",
+  "Conatct No": 9168915651
+ },
+ {
+  "Sr. No": 717,
+  "Birthdate ": "19-May-01",
+  "Students Name": "Rushikesh Bhondave",
+  "Conatct No": 9140347361
+ },
+ {
+  "Sr. No": 718,
+  "Birthdate ": "02-Jun-97",
+  "Students Name": "Pratiksha Khare",
+  "Conatct No": 8308808464
+ },
+ {
+  "Sr. No": 719,
+  "Birthdate ": "04-Jun-00",
+  "Students Name": "Rushikesh Khairnar",
+  "Conatct No": 7499361124
+ },
+ {
+  "Sr. No": 720,
+  "Birthdate ": "11-Jun-96",
+  "Students Name": "Suraj Dhavle",
+  "Conatct No": 7028246900
+ },
+ {
+  "Sr. No": 721,
+  "Birthdate ": "05-Jun-98",
+  "Students Name": "Priyanka Adhav",
+  "Conatct No": 8830096500
+ },
+ {
+  "Sr. No": 722,
+  "Birthdate ": "26-Jun-99",
+  "Students Name": "Nishant Deore",
+  "Conatct No": 7720830181
+ },
+ {
+  "Sr. No": 723,
+  "Birthdate ": "11-Nov-99",
+  "Students Name": "Amit Patil",
+  "Conatct No": 9764595259
+ },
+ {
+  "Sr. No": 724,
+  "Birthdate ": "15-Aug-99",
+  "Students Name": "Praneet Mali",
+  "Conatct No": 8830209895
+ },
+ {
+  "Sr. No": 725,
+  "Birthdate ": "08-Aug-00",
+  "Students Name": "Rohit Shilvant",
+  "Conatct No": 9373793162
+ },
+ {
+  "Sr. No": 726,
+  "Birthdate ": "05-Jan-02",
+  "Students Name": "Prajwal Pawar",
+  "Conatct No": 7262038384
+ },
+ {
+  "Sr. No": 727,
+  "Birthdate ": "28-Aug-01",
+  "Students Name": "Bhavarth Arote",
+  "Conatct No": 7262882507
+ },
+ {
+  "Sr. No": 728,
+  "Birthdate ": "20-Jan-24",
+  "Students Name": "Pratiksha Bolade",
+  "Conatct No": 8788590883
+ },
+ {
+  "Sr. No": 729,
+  "Birthdate ": "27-Mar-99",
+  "Students Name": "Aishwarya Herwade",
+  "Conatct No": 7391991601
+ },
+ {
+  "Sr. No": 730,
+  "Birthdate ": "19-Jun-96",
+  "Students Name": "Shivani Potdar",
+  "Conatct No": 8999895668
+ },
+ {
+  "Sr. No": 731,
+  "Birthdate ": "28-Aug-96",
+  "Students Name": "Punyashila Kadam",
+  "Conatct No": 7875526565
+ },
+ {
+  "Sr. No": 732,
+  "Birthdate ": "09-Nov-00",
+  "Students Name": "Shephali Hiremath",
+  "Conatct No": 8329596787
+ },
+ {
+  "Sr. No": 733,
+  "Birthdate ": "02-Aug-99",
+  "Students Name": "Arbaj Ibrampur",
+  "Conatct No": 7620629282
+ },
+ {
+  "Sr. No": 734,
+  "Birthdate ": "25-Aug-98",
+  "Students Name": "Arbaz Balurgi",
+  "Conatct No": 9637107500
+ },
+ {
+  "Sr. No": 735,
+  "Birthdate ": "29-Apr-99",
+  "Students Name": "Pooja Jangle",
+  "Conatct No": 9527817978
+ },
+ {
+  "Sr. No": 736,
+  "Birthdate ": "17-Jul-01",
+  "Students Name": "Pratiksha Satish Thorat",
+  "Conatct No": 8263004363
+ },
+ {
+  "Sr. No": 737,
+  "Birthdate ": "23-Apr-01",
+  "Students Name": "Kalyani Pralhad Patil ",
+  "Conatct No": 8329334730
+ },
+ {
+  "Sr. No": 738,
+  "Birthdate ": "23-Jun-00",
+  "Students Name": "Shubham Vijay Borage",
+  "Conatct No": 7020463746
+ },
+ {
+  "Sr. No": 739,
+  "Birthdate ": "07-Apr-99",
+  "Students Name": "Sanket Shamrao Kachare",
+  "Conatct No": 7792870909
+ },
+ {
+  "Sr. No": 740,
+  "Birthdate ": "20-Nov-01",
+  "Students Name": "Prajakta Avinash Patil",
+  "Conatct No": 9356475336
+ },
+ {
+  "Sr. No": 741,
+  "Birthdate ": "27-Jan-01",
+  "Students Name": "Aniket Sanjay Patil",
+  "Conatct No": 8605038900
+ },
+ {
+  "Sr. No": 742,
+  "Birthdate ": "18-Jul-00",
+  "Students Name": "Akash Bhagwan Sawant ",
+  "Conatct No": 9096285860
+ },
+ {
+  "Sr. No": 743,
+  "Birthdate ": "29-Nov-01",
+  "Students Name": "Mahabri Arshiya Adam",
+  "Conatct No": 7378888747
+ },
+ {
+  "Sr. No": 744,
+  "Birthdate ": "07-Feb-01",
+  "Students Name": "Omkar  Suryawanshi",
+  "Conatct No": 8767579124
+ },
+ {
+  "Sr. No": 745,
+  "Birthdate ": "14-Aug-01",
+  "Students Name": "Sabiya Pathan",
+  "Conatct No": 8208509830
+ },
+ {
+  "Sr. No": 746,
+  "Birthdate ": "17-Dec-00",
+  "Students Name": "Pratik Girme",
+  "Conatct No": 9309702379
+ },
+ {
+  "Sr. No": 747,
+  "Birthdate ": "19-Sep-99",
+  "Students Name": "Ganesh More",
+  "Conatct No": 9561038396
+ },
+ {
+  "Sr. No": 748,
+  "Birthdate ": "25-Oct-01",
+  "Students Name": "Sahil Chavan",
+  "Conatct No": 9423250220
+ },
+ {
+  "Sr. No": 749,
+  "Birthdate ": "25-Sep-00",
+  "Students Name": "Dnyaneshwar Patil",
+  "Conatct No": 9112108326
+ },
+ {
+  "Sr. No": 750,
+  "Birthdate ": "02-Aug-00",
+  "Students Name": "Himanshu Arekar ",
+  "Conatct No": 8600463764
+ },
+ {
+  "Sr. No": 751,
+  "Birthdate ": "10-Jan-02",
+  "Students Name": "Udya Kadam ",
+  "Conatct No": 9326206051
+ },
+ {
+  "Sr. No": 752,
+  "Birthdate ": "10-Oct-01",
+  "Students Name": "Pratiksha nageah sawant ",
+  "Conatct No": 9022636851
+ },
+ {
+  "Sr. No": 753,
+  "Birthdate ": "29-Oct-01",
+  "Students Name": "Shreya prithviraj borage ",
+  "Conatct No": 7498979153
+ },
+ {
+  "Sr. No": 754,
+  "Birthdate ": "14-Jun-01",
+  "Students Name": "Kanchan Kiran Bhise ",
+  "Conatct No": 9307225002
+ },
+ {
+  "Sr. No": 755,
+  "Birthdate ": "11-Jun-01",
+  "Students Name": "Tejas Patil",
+  "Conatct No": 8668659975
+ },
+ {
+  "Sr. No": 756,
+  "Birthdate ": "20-May-00",
+  "Students Name": "Pushkaraj Dhuri",
+  "Conatct No": 8830247598
+ },
+ {
+  "Sr. No": 757,
+  "Birthdate ": "07-Apr-99",
+  "Students Name": "Akshay Naik",
+  "Conatct No": 9021946166
+ },
+ {
+  "Sr. No": 758,
+  "Birthdate ": "07-Mar-99",
+  "Students Name": "Sachin Sonawane ",
+  "Conatct No": 8668452506
+ },
+ {
+  "Sr. No": 759,
+  "Birthdate ": "10-Jan-00",
+  "Students Name": "Sanket Zinjurde",
+  "Conatct No": "94204 34420"
+ },
+ {
+  "Sr. No": 760,
+  "Birthdate ": "30-Aug-99",
+  "Students Name": "Vinayak Awad",
+  "Conatct No": 9552808348
+ },
+ {
+  "Sr. No": 761,
+  "Birthdate ": "28-Dec-00",
+  "Students Name": "Shubham Magade",
+  "Conatct No": 9834610420
+ },
+ {
+  "Sr. No": 762,
+  "Birthdate ": "27-Oct-00",
+  "Students Name": "Sandip Sonar",
+  "Conatct No": 9423392897
+ },
+ {
+  "Sr. No": 763,
+  "Birthdate ": "26-Nov-98",
+  "Students Name": "Gaurav Palaspagar",
+  "Conatct No": 7709911889
+ },
+ {
+  "Sr. No": 764,
+  "Birthdate ": "03-Mar-00",
+  "Students Name": "Anuja Kotwal",
+  "Conatct No": 7387048354
+ },
+ {
+  "Sr. No": 765,
+  "Birthdate ": "24-Jun-01",
+  "Students Name": "Sonal Chavan",
+  "Conatct No": 9595725271
+ },
+ {
+  "Sr. No": 766,
+  "Birthdate ": "27-Jul-01",
+  "Students Name": "Rohit Pawar",
+  "Conatct No": 9403808131
+ },
+ {
+  "Sr. No": 767,
+  "Birthdate ": "14-Dec-01",
+  "Students Name": "Shubhangi Jagtap",
+  "Conatct No": 8788310428
+ },
+ {
+  "Sr. No": 768,
+  "Birthdate ": "27-Jun-03",
+  "Students Name": "Sangram Lembe",
+  "Conatct No": 9158416688
+ },
+ {
+  "Sr. No": 769,
+  "Birthdate ": "04-Apr-99",
+  "Students Name": "Shivani Thakre",
+  "Conatct No": 7058421330
+ },
+ {
+  "Sr. No": 770,
+  "Birthdate ": "03-May-99",
+  "Students Name": "Amol Shinde",
+  "Conatct No": 7020110471
+ },
+ {
+  "Sr. No": 771,
+  "Birthdate ": "07-Jul-01",
+  "Students Name": "Nachiket Patil",
+  "Conatct No": 7823045473
+ },
+ {
+  "Sr. No": 772,
+  "Birthdate ": "24-Dec-97",
+  "Students Name": "Omkar Sathe",
+  "Conatct No": 7058919412
+ },
+ {
+  "Sr. No": 773,
+  "Birthdate ": "21-Jan-00",
+  "Students Name": "Gururaj Kamble",
+  "Conatct No": 9730681250
+ },
+ {
+  "Sr. No": 774,
+  "Birthdate ": "06-Jan-02",
+  "Students Name": "Pranali Jadhav ",
+  "Conatct No": 7028787895
+ },
+ {
+  "Sr. No": 775,
+  "Birthdate ": "23-Nov-01",
+  "Students Name": "Samrudhi Danole",
+  "Conatct No": 9307136797
+ },
+ {
+  "Sr. No": 776,
+  "Birthdate ": "25-Sep-00",
+  "Students Name": "Shubham Maske",
+  "Conatct No": 7020108935
+ },
+ {
+  "Sr. No": 777,
+  "Birthdate ": "08-Sep-01",
+  "Students Name": "Lalit Patil",
+  "Conatct No": 9767759229
+ },
+ {
+  "Sr. No": 778,
+  "Birthdate ": "30-Sep-00",
+  "Students Name": "Sneha Patil",
+  "Conatct No": 9130342105
+ },
+ {
+  "Sr. No": 779,
+  "Birthdate ": "16-Apr-02",
+  "Students Name": "Yash Rebbawar",
+  "Conatct No": 7620256582
+ },
+ {
+  "Sr. No": 780,
+  "Birthdate ": "14-Mar-94",
+  "Students Name": "Suraj Dixit ",
+  "Conatct No": 8482831697
+ },
+ {
+  "Sr. No": 781,
+  "Birthdate ": "15-Aug-01",
+  "Students Name": "Akash Pawar",
+  "Conatct No": 9881647017
+ },
+ {
+  "Sr. No": 782,
+  "Birthdate ": "17-Oct-98",
+  "Students Name": "Snehal Kadam",
+  "Conatct No": 8468901550
+ },
+ {
+  "Sr. No": 783,
+  "Birthdate ": "08-May-99",
+  "Students Name": "Akash Ghodke",
+  "Conatct No": 9075518331
+ },
+ {
+  "Sr. No": 784,
+  "Birthdate ": "14-Mar-01",
+  "Students Name": "Manjit More",
+  "Conatct No": 8857949923
+ },
+ {
+  "Sr. No": 785,
+  "Birthdate ": "26-Jun-01",
+  "Students Name": "Abhishek Kamble",
+  "Conatct No": 9421453143
+ },
+ {
+  "Sr. No": 786,
+  "Birthdate ": "17-May-97",
+  "Students Name": "Akshay Jambhale",
+  "Conatct No": 8796645818
+ },
+ {
+  "Sr. No": 787,
+  "Birthdate ": "21-Feb-97",
+  "Students Name": "Sanket Majge",
+  "Conatct No": 7219588401
+ },
+ {
+  "Sr. No": 788,
+  "Birthdate ": "17-Jul-02",
+  "Students Name": "Prawal Chordiya",
+  "Conatct No": 9067129543
+ },
+ {
+  "Sr. No": 789,
+  "Birthdate ": "09-Dec-99",
+  "Students Name": "Abhijit Gaikwad",
+  "Conatct No": 7448216735
+ },
+ {
+  "Sr. No": 790,
+  "Birthdate ": "28-Jun-01",
+  "Students Name": "Shubham Bhavar ",
+  "Conatct No": 9890982446
+ },
+ {
+  "Sr. No": 791,
+  "Birthdate ": "10-Jul-01",
+  "Students Name": "Dnyanraj Sangamnere",
+  "Conatct No": 9156511329
+ },
+ {
+  "Sr. No": 792,
+  "Birthdate ": "02-Feb-01",
+  "Students Name": "Abhinav Lonare",
+  "Conatct No": 6266583076
+ },
+ {
+  "Sr. No": 793,
+  "Birthdate ": "08-Dec-99",
+  "Students Name": "Gayatri Nevkar",
+  "Conatct No": 9511730934
+ },
+ {
+  "Sr. No": 794,
+  "Birthdate ": "12-Apr-02",
+  "Students Name": "Asif Manyar",
+  "Conatct No": 9834444971
+ },
+ {
+  "Sr. No": 795,
+  "Birthdate ": "13-May-02",
+  "Students Name": "Aniket Pawar",
+  "Conatct No": 8390350748
+ },
+ {
+  "Sr. No": 796,
+  "Birthdate ": "11-Sep-02",
+  "Students Name": "Vikas Gunjal ",
+  "Conatct No": 9021981101
+ },
+ {
+  "Sr. No": 797,
+  "Birthdate ": "19-Mar-01",
+  "Students Name": "Nikita Pawar",
+  "Conatct No": 9689883602
+ },
+ {
+  "Sr. No": 798,
+  "Birthdate ": "16-Jun-01",
+  "Students Name": "Priyanka Khamkar",
+  "Conatct No": 9307692741
+ },
+ {
+  "Sr. No": 799,
+  "Birthdate ": "06-May-99",
+  "Students Name": "Kapil Pawar",
+  "Conatct No": 9284450887
+ },
+ {
+  "Sr. No": 800,
+  "Birthdate ": "31-Mar-02",
+  "Students Name": "Shubham Dhadi",
+  "Conatct No": 9325080721
+ },
+ {
+  "Sr. No": 801,
+  "Birthdate ": "04-Sep-01",
+  "Students Name": "Tushar Dushing",
+  "Conatct No": 9604941370
+ },
+ {
+  "Sr. No": 802,
+  "Birthdate ": "01-Jul-01",
+  "Students Name": "Satish Rathod",
+  "Conatct No": 9579536990
+ },
+ {
+  "Sr. No": 803,
+  "Birthdate ": "02-Aug-01",
+  "Students Name": "Sthavir Rokade",
+  "Conatct No": 9823758373
+ },
+ {
+  "Sr. No": 804,
+  "Birthdate ": "11-Jan-01",
+  "Students Name": "Hemant Nehe ",
+  "Conatct No": 9822192188
+ },
+ {
+  "Sr. No": 805,
+  "Birthdate ": "10-Apr-01",
+  "Students Name": "Tushar Nikas",
+  "Conatct No": 9356479919
+ },
+ {
+  "Sr. No": 806,
+  "Birthdate ": "02-Jul-97",
+  "Students Name": "Pritiksha Sarvade",
+  "Conatct No": 7083282075
+ },
+ {
+  "Sr. No": 807,
+  "Birthdate ": "20-Dec-99",
+  "Students Name": "Akshay Patil",
+  "Conatct No": 8208343331
+ },
+ {
+  "Sr. No": 808,
+  "Birthdate ": "04-Apr-00",
+  "Students Name": "Abhishek Patil",
+  "Conatct No": 7058399439
+ },
+ {
+  "Sr. No": 809,
+  "Birthdate ": "17-Dec-98",
+  "Students Name": "Tushar Jadhav",
+  "Conatct No": 9850320195
+ },
+ {
+  "Sr. No": 810,
+  "Birthdate ": "06-Dec-98",
+  "Students Name": "Abhiraj Gangurde",
+  "Conatct No": 7588556443
+ },
+ {
+  "Sr. No": 811,
+  "Birthdate ": "03-Mar-99",
+  "Students Name": "Mukesh Agale",
+  "Conatct No": 9823646482
+ },
+ {
+  "Sr. No": 812,
+  "Birthdate ": "15-Dec-95",
+  "Students Name": "Dayanand Tidke",
+  "Conatct No": 8830565699
+ },
+ {
+  "Sr. No": 813,
+  "Birthdate ": "04-Jul-02",
+  "Students Name": "Shrutika Kadam",
+  "Conatct No": 7507751606
+ },
+ {
+  "Sr. No": 814,
+  "Birthdate ": "16-Nov-01",
+  "Students Name": "Vinayak Tuppad",
+  "Conatct No": 9307728267
+ },
+ {
+  "Sr. No": 815,
+  "Birthdate ": "03-Jan-95",
+  "Students Name": "Shrikant Pathare",
+  "Conatct No": 9156990112
+ },
+ {
+  "Sr. No": 816,
+  "Birthdate ": "26-Dec-01",
+  "Students Name": "VIDYA  KHARADE",
+  "Conatct No": 9158623565
+ },
+ {
+  "Sr. No": 817,
+  "Birthdate ": "29-Nov-01",
+  "Students Name": "Akshata  Agam ",
+  "Conatct No": 7517450445
+ },
+ {
+  "Sr. No": 818,
+  "Birthdate ": "17-Jul-01",
+  "Students Name": "Nikhil garde",
+  "Conatct No": 9579702265
+ },
+ {
+  "Sr. No": 819,
+  "Birthdate ": "11-Dec-99",
+  "Students Name": "Shubham Khandekar ",
+  "Conatct No": 9730518985
+ },
+ {
+  "Sr. No": 820,
+  "Birthdate ": "10-Mar-02",
+  "Students Name": "Komal  Bhadane",
+  "Conatct No": 8767809479
+ },
+ {
+  "Sr. No": 821,
+  "Birthdate ": "13-Oct-00",
+  "Students Name": "Aniket Sakunde",
+  "Conatct No": 9130547926
+ },
+ {
+  "Sr. No": 822,
+  "Birthdate ": "24-Jan-04",
+  "Students Name": "Ruchira Wakure",
+  "Conatct No": 8767649140
+ },
+ {
+  "Sr. No": 823,
+  "Birthdate ": "07-Aug-01",
+  "Students Name": "Daivik Shetty",
+  "Conatct No": 9767082013
+ },
+ {
+  "Sr. No": 824,
+  "Birthdate ": "25-Jun-97",
+  "Students Name": "Ashish Patil",
+  "Conatct No": 9623003459
+ },
+ {
+  "Sr. No": 825,
+  "Birthdate ": "30-Jan-95",
+  "Students Name": "Ayush Girnale ",
+  "Conatct No": 9028815423
+ },
+ {
+  "Sr. No": 826,
+  "Birthdate ": "12-Jul-02",
+  "Students Name": "Ranjit Patil",
+  "Conatct No": 7083050100
+ },
+ {
+  "Sr. No": 827,
+  "Birthdate ": "12-Jul-02",
+  "Students Name": "Raj Poul",
+  "Conatct No": 7378666263
+ },
+ {
+  "Sr. No": 828,
+  "Birthdate ": "08-Oct-01",
+  "Students Name": "Ayush Jain ",
+  "Conatct No": 7758864901
+ },
+ {
+  "Sr. No": 829,
+  "Birthdate ": "20-May-99",
+  "Students Name": "Suraj Mehta ",
+  "Conatct No": 9024760622
+ },
+ {
+  "Sr. No": 830,
+  "Birthdate ": "19-May-98",
+  "Students Name": "Shyam Vise",
+  "Conatct No": 9156461925
+ },
+ {
+  "Sr. No": 831,
+  "Birthdate ": "11-Dec-01",
+  "Students Name": "Vijapure Mallikarjun",
+  "Conatct No": 9322787569
+ },
+ {
+  "Sr. No": 832,
+  "Birthdate ": "27-Apr-01",
+  "Students Name": "Akshata Nehe ",
+  "Conatct No": 9607359356
+ },
+ {
+  "Sr. No": 833,
+  "Birthdate ": "27-Oct-01",
+  "Students Name": "Akshada Jadhav ",
+  "Conatct No": 9156273665
+ },
+ {
+  "Sr. No": 834,
+  "Birthdate ": "12-Dec-01",
+  "Students Name": "Sayali Nehe",
+  "Conatct No": 9156544366
+ },
+ {
+  "Sr. No": 835,
+  "Birthdate ": "27-Jul-97",
+  "Students Name": "Anil Watane ",
+  "Conatct No": 9561167565
+ },
+ {
+  "Sr. No": 836,
+  "Birthdate ": "05-Apr-02",
+  "Students Name": "Avishkar Dhole",
+  "Conatct No": 9657575912
+ },
+ {
+  "Sr. No": 837,
+  "Birthdate ": "08-Jul-02",
+  "Students Name": "Shailesh Gade",
+  "Conatct No": 8855095885
+ },
+ {
+  "Sr. No": 838,
+  "Birthdate ": "07-Aug-00",
+  "Students Name": "Ganesh Patil",
+  "Conatct No": 9518522719
+ },
+ {
+  "Sr. No": 839,
+  "Birthdate ": "30-Nov-99",
+  "Students Name": "Chetan Wani",
+  "Conatct No": "98600 06838"
+ },
+ {
+  "Sr. No": 840,
+  "Birthdate ": "09-Aug-00",
+  "Students Name": "Manjusha Ukande",
+  "Conatct No": 9922575453
+ },
+ {
+  "Sr. No": 841,
+  "Birthdate ": "08-Aug-00",
+  "Students Name": "Priyanka Masal",
+  "Conatct No": 7887732336
+ },
+ {
+  "Sr. No": 842,
+  "Birthdate ": "17-Aug-00",
+  "Students Name": "Bhavana Kawde",
+  "Conatct No": 8855011457
+ },
+ {
+  "Sr. No": 843,
+  "Birthdate ": "13-Nov-00",
+  "Students Name": "Tanmay Kasar",
+  "Conatct No": 8669092041
+ },
+ {
+  "Sr. No": 844,
+  "Birthdate ": "18-Feb-02",
+  "Students Name": "Dion Denis Rodrigues",
+  "Conatct No": 7262072500
+ },
+ {
+  "Sr. No": 845,
+  "Birthdate ": "02-Jan-90",
+  "Students Name": "Amar Mahure",
+  "Conatct No": 9527281276
+ },
+ {
+  "Sr. No": 846,
+  "Birthdate ": "13-Dec-00",
+  "Students Name": "Hitesh Birari",
+  "Conatct No": 7620678260
+ },
+ {
+  "Sr. No": 847,
+  "Birthdate ": "07-Apr-02",
+  "Students Name": "Vaishnavi Deshmukh",
+  "Conatct No": 9403632077
+ },
+ {
+  "Sr. No": 848,
+  "Birthdate ": "31-May-99",
+  "Students Name": "Saurabh Kulkarni",
+  "Conatct No": 9309761831
+ },
+ {
+  "Sr. No": 849,
+  "Birthdate ": "26-Sep-99",
+  "Students Name": "Ankush Gotarkar",
+  "Conatct No": 9623454876
+ },
+ {
+  "Sr. No": 850,
+  "Birthdate ": "22-Sep-99",
+  "Students Name": "Gaurav Gaikwad",
+  "Conatct No": 7030577132
+ },
+ {
+  "Sr. No": 851,
+  "Birthdate ": "22-Aug-99",
+  "Students Name": "Sachin Shinde",
+  "Conatct No": 9096916013
+ },
+ {
+  "Sr. No": 852,
+  "Birthdate ": "26-Oct-98",
+  "Students Name": "Urmila Sonawane ",
+  "Conatct No": 9822480728
+ },
+ {
+  "Sr. No": 853,
+  "Birthdate ": "17-Jul-99",
+  "Students Name": "Pratiksha Jagtap ",
+  "Conatct No": 9503095110
+ },
+ {
+  "Sr. No": 854,
+  "Birthdate ": "29-Aug-02",
+  "Students Name": "Pranav Jadhav ",
+  "Conatct No": 7219340722
+ },
+ {
+  "Sr. No": 855,
+  "Birthdate ": "17-Dec-98",
+  "Students Name": "Amol Khairnar",
+  "Conatct No": 7038838647
+ },
+ {
+  "Sr. No": 856,
+  "Birthdate ": "14-Feb-01",
+  "Students Name": "Tejashri Shelar ",
+  "Conatct No": 8446690876
+ },
+ {
+  "Sr. No": 857,
+  "Birthdate ": "25-Oct-96",
+  "Students Name": "Roshani Patil",
+  "Conatct No": 8459143926
+ },
+ {
+  "Sr. No": 858,
+  "Birthdate ": "25-Mar-01",
+  "Students Name": "Samruddhi Sonawane",
+  "Conatct No": 9834609251
+ },
+ {
+  "Sr. No": 859,
+  "Birthdate ": "29-Nov-93",
+  "Students Name": "Aparna Limbhore",
+  "Conatct No": 7350690140
+ },
+ {
+  "Sr. No": 860,
+  "Birthdate ": "07-Jul-01",
+  "Students Name": "Anagha Shinde",
+  "Conatct No": 7249618426
+ },
+ {
+  "Sr. No": 861,
+  "Birthdate ": "21-Mar-95",
+  "Students Name": "Rohit Patil",
+  "Conatct No": 8626033355
+ },
+ {
+  "Sr. No": 862,
+  "Birthdate ": "14-Feb-98",
+  "Students Name": "Ajit Jadhav",
+  "Conatct No": 9527333356
+ },
+ {
+  "Sr. No": 863,
+  "Birthdate ": "31-Aug-03",
+  "Students Name": "Sakshi Kamble",
+  "Conatct No": 8390138078
+ },
+ {
+  "Sr. No": 864,
+  "Birthdate ": "25-Oct-01",
+  "Students Name": "Onkar Dige",
+  "Conatct No": 7378652907
+ },
+ {
+  "Sr. No": 865,
+  "Birthdate ": "22-May-01",
+  "Students Name": "Purva Tambat",
+  "Conatct No": 9860449747
+ },
+ {
+  "Sr. No": 866,
+  "Birthdate ": "01-Sep-00",
+  "Students Name": "Abhishek kadaskar",
+  "Conatct No": "80079 04905"
+ },
+ {
+  "Sr. No": 867,
+  "Birthdate ": "31-May-01",
+  "Students Name": "Omkar Dambarke",
+  "Conatct No": 8208918455
+ },
+ {
+  "Sr. No": 868,
+  "Birthdate ": "10-Jun-02",
+  "Students Name": "Vinay Salunkhe",
+  "Conatct No": 7276808854
+ },
+ {
+  "Sr. No": 869,
+  "Birthdate ": "13-Dec-00",
+  "Students Name": "Rohan Sail",
+  "Conatct No": 7420890383
+ },
+ {
+  "Sr. No": 870,
+  "Birthdate ": "20-Jun-00",
+  "Students Name": "Gayatri  Maybhate",
+  "Conatct No": 7057480002
+ },
+ {
+  "Sr. No": 871,
+  "Birthdate ": "22-Aug-00",
+  "Students Name": "Krishna Nagare",
+  "Conatct No": 9518907898
+ },
+ {
+  "Sr. No": 872,
+  "Birthdate ": "20-Jul-99",
+  "Students Name": "Apeksha Madhe",
+  "Conatct No": 7822079669
+ },
+ {
+  "Sr. No": 873,
+  "Birthdate ": "29-Nov-00",
+  "Students Name": "Riya Waghmare",
+  "Conatct No": 8888354071
+ },
+ {
+  "Sr. No": 874,
+  "Birthdate ": "01-Sep-01",
+  "Students Name": "Vishal Biradar",
+  "Conatct No": 7721875316
+ },
+ {
+  "Sr. No": 875,
+  "Birthdate ": "18-May-01",
+  "Students Name": "Rohan Thorat ",
+  "Conatct No": 9119448283
+ },
+ {
+  "Sr. No": 876,
+  "Birthdate ": "01-May-00",
+  "Students Name": "Digvijay Patil",
+  "Conatct No": 9325256242
+ },
+ {
+  "Sr. No": 877,
+  "Birthdate ": "11-May-97",
+  "Students Name": "Prasad Shenekar",
+  "Conatct No": 9822151640
+ },
+ {
+  "Sr. No": 878,
+  "Birthdate ": "11-Dec-00",
+  "Students Name": "Kajal Lad",
+  "Conatct No": 9175418246
+ },
+ {
+  "Sr. No": 879,
+  "Birthdate ": "08-Dec-01",
+  "Students Name": "Anjali Sangar",
+  "Conatct No": 7058529854
+ },
+ {
+  "Sr. No": 880,
+  "Birthdate ": "25-Jun-01",
+  "Students Name": "Harshada Meshram",
+  "Conatct No": 7498853889
+ },
+ {
+  "Sr. No": 881,
+  "Birthdate ": "19-Jul-01",
+  "Students Name": "Prashant Shinde",
+  "Conatct No": 8888220296
+ },
+ {
+  "Sr. No": 882,
+  "Birthdate ": "08-May-01",
+  "Students Name": "Saurabh Suryawanshi",
+  "Conatct No": 8668327360
+ },
+ {
+  "Sr. No": 883,
+  "Birthdate ": "26-Jun-02",
+  "Students Name": "Siddhant Phatke",
+  "Conatct No": 9834407476
+ },
+ {
+  "Sr. No": 884,
+  "Birthdate ": "24-Sep-99",
+  "Students Name": "Saurabh Pardeshi",
+  "Conatct No": 9021300828
+ },
+ {
+  "Sr. No": 885,
+  "Birthdate ": "17-Sep-99",
+  "Students Name": "Rohit Patil",
+  "Conatct No": 8308956989
+ },
+ {
+  "Sr. No": 886,
+  "Birthdate ": "07-Sep-94",
+  "Students Name": "Pralhad More",
+  "Conatct No": 8180983647
+ },
+ {
+  "Sr. No": 887,
+  "Birthdate ": "27-Feb-01",
+  "Students Name": "Gajanan Fuke",
+  "Conatct No": 7447342935
+ },
+ {
+  "Sr. No": 888,
+  "Birthdate ": "21-Apr-01",
+  "Students Name": "Samiksha Kore",
+  "Conatct No": 8010164221
+ },
+ {
+  "Sr. No": 889,
+  "Birthdate ": "02-Dec-00",
+  "Students Name": "Ninad Mathapati",
+  "Conatct No": 7420003477
+ },
+ {
+  "Sr. No": 890,
+  "Birthdate ": "08-Mar-00",
+  "Students Name": "Sanket Nirmale",
+  "Conatct No": 9370667751
+ },
+ {
+  "Sr. No": 891,
+  "Birthdate ": "17-Oct-99",
+  "Students Name": "Ruturaj Sawant",
+  "Conatct No": 7218120605
+ },
+ {
+  "Sr. No": 892,
+  "Birthdate ": "28-Jun-99",
+  "Students Name": "Aniket Ugare",
+  "Conatct No": 9975041794
+ },
+ {
+  "Sr. No": 893,
+  "Birthdate ": "01-Jan-01",
+  "Students Name": "Prasad Mhaske",
+  "Conatct No": 9021151137
+ },
+ {
+  "Sr. No": 894,
+  "Birthdate ": "28-Nov-99",
+  "Students Name": "Sohel Shaikh",
+  "Conatct No": 9511893891
+ },
+ {
+  "Sr. No": 895,
+  "Birthdate ": "28-Jun-98",
+  "Students Name": "Shubham Bansode",
+  "Conatct No": 8624969767
+ },
+ {
+  "Sr. No": 896,
+  "Birthdate ": "27-Jul-00",
+  "Students Name": "Ashish Patil",
+  "Conatct No": 9067200496
+ },
+ {
+  "Sr. No": 897,
+  "Birthdate ": "25-Aug-02",
+  "Students Name": "Nivedita Hinge",
+  "Conatct No": 9527843784
+ },
+ {
+  "Sr. No": 898,
+  "Birthdate ": "03-Nov-99",
+  "Students Name": "Arvina Jagtap",
+  "Conatct No": 8080958290
+ },
+ {
+  "Sr. No": 899,
+  "Birthdate ": "06-Apr-99",
+  "Students Name": "Kishor Thite",
+  "Conatct No": 9834098292
+ },
+ {
+  "Sr. No": 900,
+  "Birthdate ": "15-Apr-97",
+  "Students Name": "Ramhari Ghayal",
+  "Conatct No": 7263889567
+ },
+ {
+  "Sr. No": 901,
+  "Birthdate ": "07-Apr-01",
+  "Students Name": "Pushkaraj Shevare",
+  "Conatct No": 7028111731
+ },
+ {
+  "Sr. No": 902,
+  "Birthdate ": "04-Sep-99",
+  "Students Name": "Mrugank Gandhi",
+  "Conatct No": 7218103103
+ },
+ {
+  "Sr. No": 903,
+  "Birthdate ": "09-Dec-98",
+  "Students Name": "Magdalene Samson Korah ",
+  "Conatct No": 9657545956
+ },
+ {
+  "Sr. No": 904,
+  "Birthdate ": "17-Sep-01",
+  "Students Name": "PRITI DHOTARE",
+  "Conatct No": 7666121038
+ },
+ {
+  "Sr. No": 905,
+  "Birthdate ": "30-Dec-01",
+  "Students Name": "Vaishnavi Giram",
+  "Conatct No": 9322749757
+ },
+ {
+  "Sr. No": 906,
+  "Birthdate ": "13-Feb-01",
+  "Students Name": "Sneha Bidave ",
+  "Conatct No": 9325183207
+ },
+ {
+  "Sr. No": 907,
+  "Birthdate ": "09-Dec-99",
+  "Students Name": "Yogesh Gadhave",
+  "Conatct No": 9373999926
+ },
+ {
+  "Sr. No": 908,
+  "Birthdate ": "27-Aug-03",
+  "Students Name": "Mitali Gujar",
+  "Conatct No": 9130639325
+ },
+ {
+  "Sr. No": 909,
+  "Birthdate ": "08-Dec-99",
+  "Students Name": "Gayatri Nevkar",
+  "Conatct No": 9511730934
+ },
+ {
+  "Sr. No": 910,
+  "Birthdate ": "15-May-01",
+  "Students Name": "Pandurang Dhanvde",
+  "Conatct No": 7666280345
+ },
+ {
+  "Sr. No": 911,
+  "Birthdate ": "08-Sep-01",
+  "Students Name": "Umesh Jaibahar ",
+  "Conatct No": 9404013501
+ },
+ {
+  "Sr. No": 912,
+  "Birthdate ": "11-Jul-01",
+  "Students Name": "Sandip Navale",
+  "Conatct No": 8407998082
+ },
+ {
+  "Sr. No": 913,
+  "Birthdate ": "31-Jul-01",
+  "Students Name": "Chirag Mohature",
+  "Conatct No": 9518325386
+ },
+ {
+  "Sr. No": 914,
+  "Birthdate ": "19-Dec-99",
+  "Students Name": "Sakshi Shinde",
+  "Conatct No": 7249523797
+ },
+ {
+  "Sr. No": 915,
+  "Birthdate ": "29-Jun-93",
+  "Students Name": "Nikhil Nawale",
+  "Conatct No": 9767426014
+ },
+ {
+  "Sr. No": 916,
+  "Birthdate ": "07-Apr-05",
+  "Students Name": "Aditya Rajput",
+  "Conatct No": 7058402124
+ },
+ {
+  "Sr. No": 917,
+  "Birthdate ": "24-Sep-01",
+  "Students Name": "Pankaj Jadhav ",
+  "Conatct No": 7776951618
+ },
+ {
+  "Sr. No": 918,
+  "Birthdate ": "24-Jun-97",
+  "Students Name": "Anand Gutte",
+  "Conatct No": 7588570181
+ },
+ {
+  "Sr. No": 919,
+  "Birthdate ": "19-Sep-01",
+  "Students Name": "Raj Kharate",
+  "Conatct No": 7057342332
+ },
+ {
+  "Sr. No": 920,
+  "Birthdate ": "23-May-03",
+  "Students Name": "Akash Hivarokhede",
+  "Conatct No": 9579671376
+ },
+ {
+  "Sr. No": 921,
+  "Birthdate ": "29-Jun-02",
+  "Students Name": "Gauri Rajguru",
+  "Conatct No": 7840913018
+ },
+ {
+  "Sr. No": 922,
+  "Birthdate ": "19-Sep-02",
+  "Students Name": "Umita Khare",
+  "Conatct No": 8380040728
+ },
+ {
+  "Sr. No": 923,
+  "Birthdate ": "19-May-02",
+  "Students Name": "Akshata Mahamuni",
+  "Conatct No": 7776828954
+ },
+ {
+  "Sr. No": 924,
+  "Birthdate ": "02-Feb-03",
+  "Students Name": "Srushti Somwanshi",
+  "Conatct No": 9022245604
+ },
+ {
+  "Sr. No": 925,
+  "Birthdate ": "08-Jan-02",
+  "Students Name": "Tanmay Thorat",
+  "Conatct No": 9665916979
+ },
+ {
+  "Sr. No": 926,
+  "Birthdate ": "20-May-99",
+  "Students Name": "Snehal Suryawanshi",
+  "Conatct No": 9665723831
+ },
+ {
+  "Sr. No": 927,
+  "Birthdate ": "10-Jan-97",
+  "Students Name": "Aniket Kulkarni",
+  "Conatct No": 8975050080
+ },
+ {
+  "Sr. No": 928,
+  "Birthdate ": "18-Sep-97",
+  "Students Name": "Anuj Mangaonkar",
+  "Conatct No": 8208281556
+ },
+ {
+  "Sr. No": 929,
+  "Birthdate ": "26-Feb-01",
+  "Students Name": "Vijay Sable",
+  "Conatct No": 7057041140
+ },
+ {
+  "Sr. No": 930,
+  "Birthdate ": "15-Sep-99",
+  "Students Name": "Amareshwar Watekar ",
+  "Conatct No": 7219623588
+ },
+ {
+  "Sr. No": 931,
+  "Birthdate ": "03-May-00",
+  "Students Name": "Pooja Kande ",
+  "Conatct No": 7620396693
+ },
+ {
+  "Sr. No": 932,
+  "Birthdate ": "07-Jun-05",
+  "Students Name": "Tejas Jadhav ",
+  "Conatct No": 7517575166
+ },
+ {
+  "Sr. No": 933,
+  "Birthdate ": "20-Nov-04",
+  "Students Name": "Sumit Darje",
+  "Conatct No": "88302 90691"
+ },
+ {
+  "Sr. No": 934,
+  "Birthdate ": "30-Oct-04",
+  "Students Name": "Aryan Patil",
+  "Conatct No": 7020342984
+ },
+ {
+  "Sr. No": 935,
+  "Birthdate ": "09-Nov-04",
+  "Students Name": "Varad Chaudhari",
+  "Conatct No": 8767096396
+ },
+ {
+  "Sr. No": 936,
+  "Birthdate ": "15-Aug-04",
+  "Students Name": "Aniket Salunke",
+  "Conatct No": 8805031929
+ },
+ {
+  "Sr. No": 937,
+  "Birthdate ": "22-Jan-01",
+  "Students Name": "Suraj Mahajan ",
+  "Conatct No": 9373111732
+ },
+ {
+  "Sr. No": 938,
+  "Birthdate ": "18-Aug-99",
+  "Students Name": "Vishal Kakhandaki",
+  "Conatct No": 9665358996
+ },
+ {
+  "Sr. No": 939,
+  "Birthdate ": "19-Sep-00",
+  "Students Name": "Anujha Zine",
+  "Conatct No": 7317315190
+ },
+ {
+  "Sr. No": 940,
+  "Birthdate ": "19-May-00",
+  "Students Name": "Harshada Joshi",
+  "Conatct No": 8379089080
+ },
+ {
+  "Sr. No": 941,
+  "Birthdate ": "14-Jan-98",
+  "Students Name": "Bhagyashri Gholap",
+  "Conatct No": 8626064011
+ },
+ {
+  "Sr. No": 942,
+  "Birthdate ": "25-Oct-99",
+  "Students Name": "Shivani Gurav",
+  "Conatct No": 9763312882
+ },
+ {
+  "Sr. No": 943,
+  "Birthdate ": "08-Oct-02",
+  "Students Name": "Rohan Kulkarni",
+  "Conatct No": 9145028116
+ },
+ {
+  "Sr. No": 944,
+  "Birthdate ": "22-Jul-03",
+  "Students Name": "Anuja Shinde",
+  "Conatct No": 9823959342
+ },
+ {
+  "Sr. No": 945,
+  "Birthdate ": "14-Apr-03",
+  "Students Name": "Sakshi Pathare",
+  "Conatct No": 9226321432
+ },
+ {
+  "Sr. No": 946,
+  "Birthdate ": "02-Apr-98",
+  "Students Name": "Swapnali Nimbalkar",
+  "Conatct No": 7887925207
+ },
+ {
+  "Sr. No": 947,
+  "Birthdate ": "31-May-00",
+  "Students Name": "Aishwarya Dhembare",
+  "Conatct No": 8788420395
+ },
+ {
+  "Sr. No": 948,
+  "Birthdate ": "22-Aug-06",
+  "Students Name": "Harshal Lawarde",
+  "Conatct No": 8087612661
+ },
+ {
+  "Sr. No": 949,
+  "Birthdate ": "22-Sep-98",
+  "Students Name": "Vaibhav Patil",
+  "Conatct No": 8888630269
+ },
+ {
+  "Sr. No": 950,
+  "Birthdate ": "03-Mar-94",
+  "Students Name": "Snehal Taralgatti",
+  "Conatct No": 8329352094
+ },
+ {
+  "Sr. No": 951,
+  "Birthdate ": "12-Aug-06",
+  "Students Name": "Darshan Phalke ",
+  "Conatct No": 8007834233
+ },
+ {
+  "Sr. No": 952,
+  "Birthdate ": "15-Dec-00",
+  "Students Name": "Gayatri Mule ",
+  "Conatct No": 9767686015
+ },
+ {
+  "Sr. No": 953,
+  "Birthdate ": "06-Jan-98",
+  "Students Name": "Chaman Patel ",
+  "Conatct No": 7804033800
+ },
+ {
+  "Sr. No": 954,
+  "Birthdate ": "11-Nov-03",
+  "Students Name": "SaiKalyan Chakravarthy",
+  "Conatct No": 8688288014
+ },
+ {
+  "Sr. No": 955,
+  "Birthdate ": "11-Jan-97",
+  "Students Name": "Sonali Phate",
+  "Conatct No": 7385225331
+ },
+ {
+  "Sr. No": 956,
+  "Birthdate ": "21-Feb-97",
+  "Students Name": "Ashvini Wagare",
+  "Conatct No": 7666424939
+ },
+ {
+  "Sr. No": 957,
+  "Birthdate ": "18-Aug-02",
+  "Students Name": "Afif Balde",
+  "Conatct No": 8698909446
+ },
+ {
+  "Sr. No": 958,
+  "Birthdate ": "13-Sep-02",
+  "Students Name": "Kunal Wadile",
+  "Conatct No": 9834124682
+ },
+ {
+  "Sr. No": 959,
+  "Birthdate ": "25-Sep-02",
+  "Students Name": "Gayatri Adhav ",
+  "Conatct No": 9307229623
+ },
+ {
+  "Sr. No": 960,
+  "Birthdate ": "16-Nov-98",
+  "Students Name": "Avinash Vare",
+  "Conatct No": 9673353763
+ },
+ {
+  "Sr. No": 961,
+  "Birthdate ": "20-Oct-01",
+  "Students Name": "Shailesh Chavan",
+  "Conatct No": 7219697621
+ },
+ {
+  "Sr. No": 962,
+  "Birthdate ": "20-Jan-01",
+  "Students Name": "Nikhil Kharat ",
+  "Conatct No": 9307777397
+ },
+ {
+  "Sr. No": 963,
+  "Birthdate ": "01-May-01",
+  "Students Name": "Vishal Badade",
+  "Conatct No": 9767271517
+ },
+ {
+  "Sr. No": 964,
+  "Birthdate ": "08-Apr-02",
+  "Students Name": "Amarjit Patil",
+  "Conatct No": 7666225895
+ },
+ {
+  "Sr. No": 965,
+  "Birthdate ": "09-Oct-01",
+  "Students Name": "Yuvraj Nanaware",
+  "Conatct No": "78409 97075"
+ },
+ {
+  "Sr. No": 966,
+  "Birthdate ": "17-Apr-02",
+  "Students Name": "Shreyans Dugad",
+  "Conatct No": 9860200962
+ },
+ {
+  "Sr. No": 967,
+  "Birthdate ": "08-Sep-01",
+  "Students Name": "Leena Nikum",
+  "Conatct No": 7028292614
+ },
+ {
+  "Sr. No": 968,
+  "Birthdate ": "06-May-02",
+  "Students Name": "Om Patane",
+  "Conatct No": 9623661977
+ },
+ {
+  "Sr. No": 969,
+  "Birthdate ": "23-Dec-00",
+  "Students Name": "Amar Nanavare",
+  "Conatct No": 7499583959
+ },
+ {
+  "Sr. No": 970,
+  "Birthdate ": "31-Mar-02",
+  "Students Name": "Harshawardhan Purwat",
+  "Conatct No": 9767085259
+ },
+ {
+  "Sr. No": 971,
+  "Birthdate ": "15-Nov-01",
+  "Students Name": "Prashant Randive",
+  "Conatct No": 8600885219
+ },
+ {
+  "Sr. No": 972,
+  "Birthdate ": "12-May-02",
+  "Students Name": "Saurabh More",
+  "Conatct No": 9172101761
+ },
+ {
+  "Sr. No": 973,
+  "Birthdate ": "06-Sep-02",
+  "Students Name": "Prashant Yalmar",
+  "Conatct No": 9673086160
+ },
+ {
+  "Sr. No": 974,
+  "Birthdate ": "21-Sep-02",
+  "Students Name": "Pratiksha Patil",
+  "Conatct No": 8378814294
+ },
+ {
+  "Sr. No": 975,
+  "Birthdate ": "05-May-02",
+  "Students Name": "Priti Patil",
+  "Conatct No": 7744974180
+ },
+ {
+  "Sr. No": 976,
+  "Birthdate ": "23-Feb-01",
+  "Students Name": "Digvijay Ingule ",
+  "Conatct No": 7744937612
+ },
+ {
+  "Sr. No": 977,
+  "Birthdate ": "19-Apr-02",
+  "Students Name": "Aishwarya Chavan",
+  "Conatct No": 9552660252
+ },
+ {
+  "Sr. No": 978,
+  "Birthdate ": "14-Jun-01",
+  "Students Name": "Mayur Chavan",
+  "Conatct No": 9168707009
+ },
+ {
+  "Sr. No": 979,
+  "Birthdate ": "27-Mar-01",
+  "Students Name": "Chetana Bhamare",
+  "Conatct No": 7447328773
+ },
+ {
+  "Sr. No": 980,
+  "Birthdate ": "19-Jul-03",
+  "Students Name": "Swarup Gharge",
+  "Conatct No": 8080277607
+ },
+ {
+  "Sr. No": 981,
+  "Birthdate ": "21-Nov-01",
+  "Students Name": "Akash Hirwale",
+  "Conatct No": 8411872895
+ },
+ {
+  "Sr. No": 982,
+  "Birthdate ": "22-Sep-02",
+  "Students Name": "Prathmesh Deshmukh",
+  "Conatct No": 9373463120
+ },
+ {
+  "Sr. No": 983,
+  "Birthdate ": "15-Jun-03",
+  "Students Name": "Abhishek Kumbhar",
+  "Conatct No": 7219649992
+ },
+ {
+  "Sr. No": 984,
+  "Birthdate ": "30-May-02",
+  "Students Name": "Prajakta Bansode",
+  "Conatct No": 7020967157
+ },
+ {
+  "Sr. No": 985,
+  "Birthdate ": "16-Jul-97",
+  "Students Name": "Sapna Loni",
+  "Conatct No": 7026286823
+ },
+ {
+  "Sr. No": 986,
+  "Birthdate ": "23-Mar-02",
+  "Students Name": "Prachi Dubal",
+  "Conatct No": 9172534714
+ },
+ {
+  "Sr. No": 987,
+  "Birthdate ": "23-Nov-00",
+  "Students Name": "Satyeshwari Dubal",
+  "Conatct No": 9359364039
+ },
+ {
+  "Sr. No": 988,
+  "Birthdate ": "07-Jul-03",
+  "Students Name": "Pranit Tandale",
+  "Conatct No": 9209086612
+ },
+ {
+  "Sr. No": 989,
+  "Birthdate ": "11-Aug-01",
+  "Students Name": "Vaishnavi Jadhav ",
+  "Conatct No": 7058535684
+ },
+ {
+  "Sr. No": 990,
+  "Birthdate ": "13-Dec-01",
+  "Students Name": "Sayali Survase",
+  "Conatct No": 9075702255
+ },
+ {
+  "Sr. No": 991,
+  "Birthdate ": "02-Apr-02",
+  "Students Name": "Yashwant Birari",
+  "Conatct No": 9423983831
+ },
+ {
+  "Sr. No": 992,
+  "Birthdate ": "22-Jan-02",
+  "Students Name": "Chetan Behare",
+  "Conatct No": "77980 65188"
+ },
+ {
+  "Sr. No": 993,
+  "Birthdate ": "01-Mar-01",
+  "Students Name": "Pruthwikumar Selukar",
+  "Conatct No": 7410570988
+ },
+ {
+  "Sr. No": 994,
+  "Birthdate ": "03-Aug-01",
+  "Students Name": "Jitesh Patle",
+  "Conatct No": 9607866370
+ },
+ {
+  "Sr. No": 995,
+  "Birthdate ": "23-Apr-04",
+  "Students Name": "Suraj Kshirsagar ",
+  "Conatct No": 8856022420
+ },
+ {
+  "Sr. No": 996,
+  "Birthdate ": "01-Jul-01",
+  "Students Name": "Tanmay Gharte",
+  "Conatct No": 8083888877
+ },
+ {
+  "Sr. No": 997,
+  "Birthdate ": "27-Dec-03",
+  "Students Name": "Gauri bairagi",
+  "Conatct No": 9156036873
+ },
+ {
+  "Sr. No": 998,
+  "Birthdate ": "29-Dec-03",
+  "Students Name": "Ekta Patil",
+  "Conatct No": 8766569383
+ },
+ {
+  "Sr. No": 999,
+  "Birthdate ": "15-Sep-03",
+  "Students Name": "Lokesh Baviskar",
+  "Conatct No": 9823479484
+ },
+ {
+  "Sr. No": 1000,
+  "Birthdate ": "03-Nov-03",
+  "Students Name": "Pratham chaudhari",
+  "Conatct No": 9168930576
+ },
+ {
+  "Sr. No": 1001,
+  "Birthdate ": "03-Aug-03",
+  "Students Name": "Purva Badgujar",
+  "Conatct No": 9359010665
+ },
+ {
+  "Sr. No": 1002,
+  "Birthdate ": "03-Aug-01",
+  "Students Name": "Javal Katkade",
+  "Conatct No": 7218650125
+ },
+ {
+  "Sr. No": 1003,
+  "Birthdate ": "07-Sep-00",
+  "Students Name": "Mohit Dayma",
+  "Conatct No": 8390306069
+ },
+ {
+  "Sr. No": 1004,
+  "Birthdate ": "18-Apr-02",
+  "Students Name": "Rushikesh Rashinakar",
+  "Conatct No": 9960724708
+ },
+ {
+  "Sr. No": 1005,
+  "Birthdate ": "05-Jun-02",
+  "Students Name": "Narendra Argade",
+  "Conatct No": 9423814093
+ },
+ {
+  "Sr. No": 1006,
+  "Birthdate ": "02-Oct-02",
+  "Students Name": "Mahesh Dane",
+  "Conatct No": 8080624800
+ },
+ {
+  "Sr. No": 1007,
+  "Birthdate ": "13-May-01",
+  "Students Name": "Anand Pande",
+  "Conatct No": 7666197401
+ },
+ {
+  "Sr. No": 1008,
+  "Birthdate ": "14-Jun-01",
+  "Students Name": "Devendra Torawane",
+  "Conatct No": 9766123035
+ },
+ {
+  "Sr. No": 1009,
+  "Birthdate ": "12-Mar-03",
+  "Students Name": "Sumit Babar",
+  "Conatct No": 7620610398
+ },
+ {
+  "Sr. No": 1010,
+  "Birthdate ": "03-Aug-04",
+  "Students Name": "Subodh Phadtare ",
+  "Conatct No": "84840 40197"
+ },
+ {
+  "Sr. No": 1011,
+  "Birthdate ": "05-Jun-01",
+  "Students Name": "Poonam Irle",
+  "Conatct No": 7666786652
+ },
+ {
+  "Sr. No": 1012,
+  "Birthdate ": "21-Apr-98",
+  "Students Name": "Aksin Ajij Modak ",
+  "Conatct No": 7020591838
+ },
+ {
+  "Sr. No": 1013,
+  "Birthdate ": "07-Aug-01",
+  "Students Name": "Onkar Thange",
+  "Conatct No": 8080182920
+ },
+ {
+  "Sr. No": 1014,
+  "Birthdate ": "12-May-99",
+  "Students Name": "Aditya Tambade",
+  "Conatct No": 9168755807
+ },
+ {
+  "Sr. No": 1015,
+  "Birthdate ": "27-May-03",
+  "Students Name": "Tanaya Chavan",
+  "Conatct No": 9359004493
+ },
+ {
+  "Sr. No": 1016,
+  "Birthdate ": "29-Mar-98",
+  "Students Name": "Jayashri Bamne",
+  "Conatct No": 9309753826
+ },
+ {
+  "Sr. No": 1017,
+  "Birthdate ": "15-Feb-01",
+  "Students Name": "Nishant Joshii",
+  "Conatct No": 7262971924
+ },
+ {
+  "Sr. No": 1018,
+  "Birthdate ": "08-Oct-02",
+  "Students Name": "Rohan Shetty",
+  "Conatct No": 9730436608
+ },
+ {
+  "Sr. No": 1019,
+  "Birthdate ": "01-Sep-01",
+  "Students Name": "Avishkar Shinde",
+  "Conatct No": 7387558804
+ },
+ {
+  "Sr. No": 1020,
+  "Birthdate ": "24-Mar-02",
+  "Students Name": "Harshal Mokashi",
+  "Conatct No": 8881771771
+ },
+ {
+  "Sr. No": 1021,
+  "Birthdate ": "03-Feb-98",
+  "Students Name": "Amit Chandale ",
+  "Conatct No": 7499427123
+ },
+ {
+  "Sr. No": 1022,
+  "Birthdate ": "04-Jan-02",
+  "Students Name": "Nishant Vidhate",
+  "Conatct No": 8483929592
+ },
+ {
+  "Sr. No": 1023,
+  "Birthdate ": "26-May-02",
+  "Students Name": "Vishvaraj Bhokare",
+  "Conatct No": 9890765790
+ },
+ {
+  "Sr. No": 1024,
+  "Birthdate ": "12-Jan-03",
+  "Students Name": "Aditya kalse",
+  "Conatct No": 7350721213
+ },
+ {
+  "Sr. No": 1025,
+  "Birthdate ": "16-Sep-03",
+  "Students Name": "Tanuj Shinde",
+  "Conatct No": 9307916287
+ },
+ {
+  "Sr. No": 1026,
+  "Birthdate ": "21-Apr-00",
+  "Students Name": "Suraj Takalkar",
+  "Conatct No": 9324573921
+ },
+ {
+  "Sr. No": 1027,
+  "Birthdate ": "16-Dec-04",
+  "Students Name": "Rushikesh Jadhav ",
+  "Conatct No": 7030303551
+ },
+ {
+  "Sr. No": 1028,
+  "Birthdate ": "15-Feb-04",
+  "Students Name": "Kaustubh Nigade",
+  "Conatct No": 9420764260
+ },
+ {
+  "Sr. No": 1029,
+  "Birthdate ": "11-Mar-01",
+  "Students Name": "Aniket Balegave",
+  "Conatct No": 7620729449
+ },
+ {
+  "Sr. No": 1030,
+  "Birthdate ": "13-Sep-02",
+  "Students Name": "Swarupa Bane",
+  "Conatct No": 9309822359
+ },
+ {
+  "Sr. No": 1031,
+  "Birthdate ": "08-Jun-02",
+  "Students Name": "Somnath Mane",
+  "Conatct No": 8805038995
+ },
+ {
+  "Sr. No": 1032,
+  "Birthdate ": "11-Sep-02",
+  "Students Name": "Pranali Bhor ",
+  "Conatct No": 9356660736
+ },
+ {
+  "Sr. No": 1033,
+  "Birthdate ": "03-Feb-02",
+  "Students Name": "Sakshi Nikam ",
+  "Conatct No": 8010991423
+ },
+ {
+  "Sr. No": 1034,
+  "Birthdate ": "10-Sep-99",
+  "Students Name": "Prathmesh Shinde",
+  "Conatct No": 7666615174
+ },
+ {
+  "Sr. No": 1035,
+  "Birthdate ": "30-Mar-02",
+  "Students Name": "Sushant Digraskar",
+  "Conatct No": 9503434706
+ },
+ {
+  "Sr. No": 1036,
+  "Birthdate ": "25-Jan-03",
+  "Students Name": "Pranav Bhalerao",
+  "Conatct No": 9146918100
+ },
+ {
+  "Sr. No": 1037,
+  "Birthdate ": "15-Mar-01",
+  "Students Name": "Sandesh Gondal",
+  "Conatct No": 8850690671
+ },
+ {
+  "Sr. No": 1038,
+  "Birthdate ": "02-Aug-01",
+  "Students Name": "Bhagyashri Nage",
+  "Conatct No": 9284467402
+ },
+ {
+  "Sr. No": 1039,
+  "Birthdate ": "18-Nov-01",
+  "Students Name": "Tejas Tarole",
+  "Conatct No": 8605582519
+ },
+ {
+  "Sr. No": 1040,
+  "Birthdate ": "27-Aug-02",
+  "Students Name": "Janak Sonare",
+  "Conatct No": 8208140886
+ },
+ {
+  "Sr. No": 1041,
+  "Birthdate ": "29-Dec-02",
+  "Students Name": "Gayatri Madake",
+  "Conatct No": 9657892005
+ },
+ {
+  "Sr. No": 1042,
+  "Birthdate ": "20-Aug-01",
+  "Students Name": "Abhishek Satpute ",
+  "Conatct No": 8530843026
+ },
+ {
+  "Sr. No": 1043,
+  "Birthdate ": "08-Sep-02",
+  "Students Name": "Sujal Thakre ",
+  "Conatct No": 7249698981
+ },
+ {
+  "Sr. No": 1044,
+  "Birthdate ": "28-Aug-02",
+  "Students Name": "Sadaf Shaikh",
+  "Conatct No": 8668444758
+ },
+ {
+  "Sr. No": 1045,
+  "Birthdate ": "18-Oct-01",
+  "Students Name": "Rajashree Jagtap",
+  "Conatct No": 9322580977
+ },
+ {
+  "Sr. No": 1046,
+  "Birthdate ": "28-Apr-04",
+  "Students Name": "Akshat Kumar ",
+  "Conatct No": 9752552772
+ },
+ {
+  "Sr. No": 1047,
+  "Birthdate ": "22-Jan-02",
+  "Students Name": "Sujata vasekar ",
+  "Conatct No": 7744836972
+ },
+ {
+  "Sr. No": 1048,
+  "Birthdate ": "04-Mar-02",
+  "Students Name": "Nisha Nagdeve ",
+  "Conatct No": 8263863091
+ },
+ {
+  "Sr. No": 1049,
+  "Birthdate ": "26-May-00",
+  "Students Name": "Abhishek Jondhale",
+  "Conatct No": 8208260450
+ },
+ {
+  "Sr. No": 1050,
+  "Birthdate ": "18-Jan-03",
+  "Students Name": "Aman Burghate",
+  "Conatct No": 8530260794
+ },
+ {
+  "Sr. No": 1051,
+  "Birthdate ": "20-Jan-00",
+  "Students Name": "Shital Pawar ",
+  "Conatct No": 7448205145
+ },
+ {
+  "Sr. No": 1052,
+  "Birthdate ": "17-Apr-02",
+  "Students Name": "Shantanu Jadhav ",
+  "Conatct No": 9511636429
+ },
+ {
+  "Sr. No": 1053,
+  "Birthdate ": "02-Mar-04",
+  "Students Name": "Vaishnavi Birajdar ",
+  "Conatct No": 7058064794
+ },
+ {
+  "Sr. No": 1054,
+  "Birthdate ": "02-Jan-05",
+  "Students Name": "Om Raut",
+  "Conatct No": 9922747412
+ },
+ {
+  "Sr. No": 1055,
+  "Birthdate ": "18-Mar-05",
+  "Students Name": "Sakshi Naik ",
+  "Conatct No": 9834011049
+ },
+ {
+  "Sr. No": 1056,
+  "Birthdate ": "06-Jun-04",
+  "Students Name": "Shruti Patil",
+  "Conatct No": 9372072725
+ },
+ {
+  "Sr. No": 1057,
+  "Birthdate ": "11-Aug-03",
+  "Students Name": "Wagheshwar Pathare ",
+  "Conatct No": 7841032320
+ },
+ {
+  "Sr. No": 1058,
+  "Birthdate ": "21-Feb-05",
+  "Students Name": "Harshada Borate ",
+  "Conatct No": 7058007734
+ },
+ {
+  "Sr. No": 1059,
+  "Birthdate ": "27-Jan-05",
+  "Students Name": "Vaibhav  Dherange ",
+  "Conatct No": "70283 64392"
+ },
+ {
+  "Sr. No": 1060,
+  "Birthdate ": "06-Jun-04",
+  "Students Name": "Sharvari Mahajan ",
+  "Conatct No": 7499939130
+ },
+ {
+  "Sr. No": 1061,
+  "Birthdate ": "11-Sep-02",
+  "Students Name": "Shreya Pande",
+  "Conatct No": 9156860665
+ },
+ {
+  "Sr. No": 1062,
+  "Birthdate ": "28-Jul-02",
+  "Students Name": "Puja Shingate ",
+  "Conatct No": 7219448624
+ },
+ {
+  "Sr. No": 1063,
+  "Birthdate ": "03-Dec-00",
+  "Students Name": "Sharmistha Pal",
+  "Conatct No": 7769948546
+ },
+ {
+  "Sr. No": 1064,
+  "Birthdate ": "16-Oct-01",
+  "Students Name": "Praful Bhat",
+  "Conatct No": 8262879132
+ },
+ {
+  "Sr. No": 1065,
+  "Birthdate ": "04-Apr-03",
+  "Students Name": "Vaishnavi Tikone ",
+  "Conatct No": 7887310885
+ },
+ {
+  "Sr. No": 1066,
+  "Birthdate ": "18-Sep-02",
+  "Students Name": "Kshitija Dighe",
+  "Conatct No": 9764737019
+ },
+ {
+  "Sr. No": 1067,
+  "Birthdate ": "19-Aug-00",
+  "Students Name": "Niraj Kapse",
+  "Conatct No": 9172790590
+ },
+ {
+  "Sr. No": 1068,
+  "Birthdate ": "27-Sep-03",
+  "Students Name": "Tanmay Patne",
+  "Conatct No": 9022239996
+ },
+ {
+  "Sr. No": 1069,
+  "Birthdate ": "10-Jan-03",
+  "Students Name": "Roshan Ajabe ",
+  "Conatct No": 9209390686
+ },
+ {
+  "Sr. No": 1070,
+  "Birthdate ": "18-Sep-99",
+  "Students Name": "Komal Chavan ",
+  "Conatct No": 9767376520
+ },
+ {
+  "Sr. No": 1071,
+  "Birthdate ": "04-Sep-00",
+  "Students Name": "Vaishnavi Dongare",
+  "Conatct No": 7841971681
+ },
+ {
+  "Sr. No": 1072,
+  "Birthdate ": "07-Oct-05",
+  "Students Name": "Abhishek Khandade",
+  "Conatct No": 922895195
+ },
+ {
+  "Sr. No": 1073,
+  "Birthdate ": "19-Sep-99",
+  "Students Name": "Vishwajit Narkhade"
+ },
+ {
+  "Sr. No": 1074,
+  "Birthdate ": "14-Oct-03",
+  "Students Name": "Omkar Kasar",
+  "Conatct No": 7588227928
+ },
+ {
+  "Sr. No": 1075,
+  "Birthdate ": "22-Oct-02",
+  "Students Name": "Siddhant Nikam",
+  "Conatct No": 9119536144
+ },
+ {
+  "Sr. No": 1076,
+  "Birthdate ": "12-Sep-03",
+  "Students Name": "Amay Bilokikar",
+  "Conatct No": 8799830533
+ },
+ {
+  "Sr. No": 1077,
+  "Birthdate ": "28-Aug-03",
+  "Students Name": "Krishna kadam",
+  "Conatct No": 8010989077
+ },
+ {
+  "Sr. No": 1078,
+  "Birthdate ": "05-Feb-00",
+  "Students Name": "Khilchand Kapade",
+  "Conatct No": 7620252301
+ },
+ {
+  "Sr. No": 1079,
+  "Birthdate ": "14-Feb-03",
+  "Students Name": "Krishi Taank",
+  "Conatct No": 7350887863
+ },
+ {
+  "Sr. No": 1080,
+  "Birthdate ": "18-Oct-04",
+  "Students Name": "Aditya bhosale",
+  "Conatct No": 8379959071
+ },
+ {
+  "Sr. No": 1081,
+  "Birthdate ": "10-Mar-03",
+  "Students Name": "Pruthviraj Shinde",
+  "Conatct No": 9527231405
+ },
+ {
+  "Sr. No": 1082,
+  "Birthdate ": "05-Aug-02",
+  "Students Name": "Tejas Bhosale",
+  "Conatct No": 9730803607
+ },
+ {
+  "Sr. No": 1083,
+  "Birthdate ": "25-Nov-01",
+  "Students Name": "Sakshi Panchal",
+  "Conatct No": 9309155242
+ },
+ {
+  "Sr. No": 1084,
+  "Birthdate ": "03-Apr-03",
+  "Students Name": "Sanika Kadam",
+  "Conatct No": 8237384995
+ },
+ {
+  "Sr. No": 1085,
+  "Birthdate ": "30-Mar-02",
+  "Students Name": "Neeraj Pal",
+  "Conatct No": 7771824784
+ },
+ {
+  "Sr. No": 1086,
+  "Birthdate ": "20-Aug-02",
+  "Students Name": "Subhash Nigam ",
+  "Conatct No": 7509602722
+ },
+ {
+  "Sr. No": 1087,
+  "Birthdate ": "10-Oct-01",
+  "Students Name": "Tushar Goswami",
+  "Conatct No": 6266959582
+ },
+ {
+  "Sr. No": 1088,
+  "Birthdate ": "07-Nov-00",
+  "Students Name": "Pratik Bhopale ",
+  "Conatct No": 7986291136
+ },
+ {
+  "Sr. No": 1089,
+  "Birthdate ": "30-Apr-02",
+  "Students Name": "Saiganesh Kurtadkar",
+  "Conatct No": 9322646253
+ },
+ {
+  "Sr. No": 1090,
+  "Birthdate ": "07-May-96",
+  "Students Name": "Ashwini Raut",
+  "Conatct No": 9021560796
+ },
+ {
+  "Sr. No": 1091,
+  "Birthdate ": "21-Mar-04",
+  "Students Name": "Prashant Kalpure",
+  "Conatct No": 9503885269
+ }
+]
