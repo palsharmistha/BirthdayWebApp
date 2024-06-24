@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Birthdays</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="backgroundImage"></div>
+    <h1 style="text-align: center; color: white;">Student Birthdays</h1>
+    <div class="mainSection">
+        <div class="birthdaySection">
+            <div class="birthdayList">
+                <h2>Students with birthdays today:</h2>
+                <ul id="birthdayList"></ul>
+            </div>
+            <div class="check">
+                <h2>Check Birthdays</h2><br>
+                <label for="fromDate">From:</label>
+                <input type="date" id="fromDate" required>
+                <label for="toDate">To:</label>
+                <input type="date" id="toDate" required>
+                <button id="checkButton">Check</button>
+                <div class="selectedDateStudents">
+                    <h2 id="selectedDateHeading"></h2>
+                    <table id="studentBirthdaysTable">
+                        <thead>
+                            <tr>
+                                <th>Sr. No</th>
+                                <th>Name</th>
+                                <th>Date of Birth</th>
+                                <th>Contact Number</th>
+                            </tr>
+                        </thead>
+                        <tbody id="studentBirthdaysList"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="studentSection">
+            <div class="studentSectionHeader">
+                <h2>All Students</h2>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addStudentModal">
+                    Add New Student
+                </button>
+            </div>
+            <table id="studentTable" class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Sr. No</th>
+                        <th>Name</th>
+                        <th>Date of Birth</th>
+                        <th>Contact Number</th>
+                    </tr>
+                </thead>
+                <tbody id="studentList"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="modal fade" id="addStudentModal" tabindex="-1" aria-labelledby="addStudentModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="addStudentModalLabel">Add New Student</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="addStudentForm">
+                        <div class="form-group">
+                            <label for="studentName">Name</label>
+                            <input type="text" class="form-control" id="studentName" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="studentDOB">Date of Birth</label>
+                            <input type="date" class="form-control" id="studentDOB" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="studentContact">Contact Number</label>
+                            <input type="tel" pattern="[0-9]{10}" class="form-control" id="studentContact" required>
+                            <small class="form-text text-muted">Enter a 10-digit phone number.</small>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Add Student</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footerContent">
+            &copy; Developed By Sharmistha Pal.
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
