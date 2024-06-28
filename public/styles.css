@@ -118,6 +118,18 @@
   padding: 8px;
   text-align: center;
 }
+/* Add this CSS to adjust the delete button and icon */
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.delete-btn img {
+  width: 30px; /* Adjust the size as needed */
+  height: auto;
+}
 
 #studentBirthdaysTable {
   border-collapse: collapse;

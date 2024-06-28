@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
     // Fetch all students and display them
     fetch('/api/students')
@@ -43,6 +44,65 @@ function displayAllStudents(students) {
         `;
         tableBody.appendChild(row);
     });
+}
+function displayAllStudents(students) {
+    const tableBody = document.getElementById('studentList');
+    if (!tableBody) {
+        console.error('Element with ID "studentList" not found.');
+        return;
+    }
+    tableBody.innerHTML = ''; // Clear existing rows
+
+    students.forEach((student, index) => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+            <td>${student['Sr. No']}</td>
+            <td>${student['Students Name']}</td>
+            <td>${student['Birthdate ']}</td>
+            <td>${student['Contact No']}</td>
+            <td>
+                <button class="btn btn-sm delete-btn" aria-label="Delete" data-id="${student['Sr. No']}">
+                    <img src="delete.png" alt="Delete">
+                </button>
+            </td>
+        `;
+        tableBody.appendChild(row);
+
+        // Add event listener for delete button
+        const deleteButton = row.querySelector('.delete-btn');
+        deleteButton.addEventListener('click', () => {
+            const studentId = student['Sr. No'];
+            const confirmation = confirm(`Are you sure you want to delete ${student['Students Name']}?`);
+            if (confirmation) {
+                deleteStudent(studentId);
+            }
+        });
+    });
+}
+
+function deleteStudent(studentId) {
+    fetch(`/api/students/${studentId}`, {
+        method: 'DELETE',
+    })
+    .then(response => {
+        if (response.ok) {
+            alert('Student deleted successfully!');
+            fetchStudents(); // Fetch updated list after deletion
+        } else {
+            throw new Error('Failed to delete student.');
+        }
+    })
+    .catch(error => console.error('Error deleting student:', error));
+}
+
+function fetchStudents() {
+    fetch('/api/students')
+        .then(response => response.json())
+        .then(data => {
+            displayAllStudents(data); // Update table with new data
+            showBirthdayAlert(data); // Update birthday alert if needed
+        })
+        .catch(error => console.error('Error fetching students:', error));
 }
 
 function showBirthdayAlert(students) {
@@ -134,6 +194,7 @@ function checkBirthdays(event) {
         })
         .catch(error => console.error('Error checking birthdays:', error));
 }
+
 
 function addNewStudent(event) {
     event.preventDefault();
