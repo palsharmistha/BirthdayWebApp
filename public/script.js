@@ -236,5 +236,5 @@ function formatDateForComparison(inputDate) {
         return new Date(year, month, day);
     }
     return new Date(inputDate);
-
 }
+
