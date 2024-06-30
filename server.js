@@ -21,7 +21,7 @@ app.get('/api/students', (req, res) => {
 // Add new student
 app.post('/api/students', (req, res) => {
     const newStudent = req.body;
-    newStudent['Birthdate '] = formatServerDate(newStudent['Birthdate ']); // Format date on server
+    newStudent['Birthdate '] = formatDateForStorage(newStudent['Birthdate ']); // Format date on server
 
     fs.readFile('studentsDB.json', (err, data) => {
         if (err) {
@@ -44,6 +44,8 @@ app.post('/api/students', (req, res) => {
         });
     });
 });
+
+
 
 // Delete a student by Sr. No
 app.delete('/api/students/:id', (req, res) => {
@@ -77,25 +79,23 @@ app.delete('/api/students/:id', (req, res) => {
 });
 
 function formatServerDate(inputDate) {
-    const parts = inputDate.split('-');
-    if (parts.length === 3) {
-        const day = parts[0];
-        const month = getMonthNumber(parts[1]);
-        const year = `20${parts[2]}`; // Assuming 20YY format for years
-        return `${year}-${month}-${day}`;
-    }
-    return inputDate;
+    const [day, month, year] = inputDate.split('-');
+    const dateObject = new Date(year, getMonthNumber(month), day);
+    const formattedDay = dateObject.getDate().toString().padStart(2, '0');
+    const formattedMonth = dateObject.toLocaleString('default', { month: 'short' });
+    const formattedYear = dateObject.getFullYear().toString().slice(-2);
+    return `${formattedDay}-${formattedMonth}-${formattedYear}`;
 }
+
 
 function getMonthNumber(month) {
     const months = {
-        'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',
-        'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',
-        'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'
+        '01': 'Jan', '02': 'Feb', '03': 'Mar', '04': 'Apr',
+        '05': 'May', '06': 'Jun', '07': 'Jul', '08': 'Aug',
+        '09': 'Sep', '10': 'Oct', '11': 'Nov', '12': 'Dec'
     };
     return months[month];
 }
-
 
 app.listen(port, () => {
     console.log(`Server running at http://localhost:${port}/`);

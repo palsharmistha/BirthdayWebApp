@@ -24,7 +24,7 @@ function displayAllStudents(students) {
         row.innerHTML = `
             <td>${index + 1}</td>
             <td>${student['Students Name']}</td>
-            <td>${student['Birthdate ']}</td>
+            <td>${formatDate(student['Birthdate '])}</td> <!-- Display formatted date -->
             <td>${student['Contact No']}</td>
             <td>
                 <button class="btn btn-sm delete-btn" aria-label="Delete" data-id="${student['Sr. No']}">
@@ -97,7 +97,7 @@ function checkBirthdays(event) {
         .then(response => response.json())
         .then(students => {
             const studentsWithBirthdayToday = students.filter(student => {
-                const dob = formatDateForComparison(student['Birthdate ']);
+                const dob = convertToDate(student['Birthdate ']); // Convert to Date object
                 return (
                     dob.getMonth() === today.getMonth() && // Same month
                     dob.getDate() === today.getDate() // Same day
@@ -127,7 +127,7 @@ function checkBirthdays(event) {
             const toMonth = new Date(toDate).getMonth(); // Get month index (0-11)
 
             const filteredStudents = students.filter(student => {
-                const dob = formatDateForComparison(student['Birthdate ']);
+                const dob = convertToDate(student['Birthdate ']);
                 const studentMonth = dob.getMonth(); // Get month index (0-11)
 
                 // Compare only month and day (ignore year)
@@ -149,7 +149,7 @@ function checkBirthdays(event) {
                     row.innerHTML = `
                         <td>${index + 1}</td>
                         <td>${student['Students Name']}</td>
-                        <td>${student['Birthdate ']}</td>
+                        <td>${formatDate(student['Birthdate '])}</td> <!-- Display formatted date -->
                         <td>${student['Contact No']}</td>
                     `;
                     resultList.appendChild(row);
@@ -158,18 +158,21 @@ function checkBirthdays(event) {
         })
         .catch(error => console.error('Error checking birthdays:', error));
 }
-
-function formatDateForComparison(inputDate) {
-    const parts = inputDate.split('-');
-    if (parts.length === 3) {
+function convertToDate(inputDate) {
+    // Check if the date is in "DD-Mon-YY" format
+    if (/^\d{2}-[A-Za-z]{3}-\d{2}$/.test(inputDate)) {
+        const parts = inputDate.split('-');
         const day = parseInt(parts[0], 10);
         const month = getMonthNumber(parts[1]);
-        const year = parseInt(parts[2], 10);
+        const year = parseInt(parts[2], 10) + 2000; // Convert to full year
         return new Date(year, month, day);
+    } else {
+        // Assume date is in "YYYY-MM-DD" format
+        return new Date(inputDate);
     }
-    return new Date(inputDate);
 }
 
+// Function to get month number from abbreviated month name
 function getMonthNumber(month) {
     const months = {
         'Jan': 0, 'Feb': 1, 'Mar': 2, 'Apr': 3,
@@ -179,17 +182,14 @@ function getMonthNumber(month) {
     return months[month];
 }
 
-
 function addNewStudent(event) {
     event.preventDefault();
     const name = document.getElementById('studentName').value;
-    const dob = formatDate(document.getElementById('studentDOB').value);
+    const dobInput = document.getElementById('studentDOB').value;
+    const dob = formatDateForStorage(dobInput); // Format date for storage
     const contact = document.getElementById('studentContact').value;
 
-    const srNo = Date.now();
-
     const newStudent = {
-        "Sr. No": srNo,
         "Students Name": name,
         "Birthdate ": dob,
         "Contact No": contact
@@ -205,15 +205,36 @@ function addNewStudent(event) {
         const addStudentForm = document.getElementById('addStudentForm');
         addStudentForm.reset();
         $('#addStudentModal').modal('hide');
-        fetchStudents();
+        fetchStudents(); // Refresh student list after adding
     })
     .catch(error => console.error('Error adding student:', error));
+}
+
+function formatDateForStorage(inputDate) {
+    const date = new Date(inputDate);
+    const day = date.getDate().toString().padStart(2, '0');
+    const month = date.toLocaleString('default', { month: 'short' });
+    const year = date.getFullYear().toString().slice(-2); // Get last two digits of the year
+    return `${day}-${month}-${year}`;
 }
 
 function formatDate(inputDate) {
     const date = new Date(inputDate);
     const day = date.getDate().toString().padStart(2, '0');
     const month = date.toLocaleString('default', { month: 'short' });
-    const year = date.getFullYear().toString();
+    const year = date.getFullYear().toString().slice(-2); // Get last two digits of the year
     return `${day}-${month}-${year}`;
+}
+
+
+function formatDateForComparison(inputDate) {
+    const parts = inputDate.split('-');
+    if (parts.length === 3) {
+        const day = parseInt(parts[0], 10);
+        const month = getMonthNumber(parts[1]);
+        const year = parseInt(parts[2], 10) + 2000; // Add 2000 to get full year
+        return new Date(year, month, day);
+    }
+    return new Date(inputDate);
+
 }
