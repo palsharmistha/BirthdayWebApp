@@ -45,6 +45,37 @@ app.post('/api/students', (req, res) => {
     });
 });
 
+// Delete a student by Sr. No
+app.delete('/api/students/:id', (req, res) => {
+    const studentId = parseInt(req.params.id, 10);
+
+    fs.readFile('studentsDB.json', (err, data) => {
+        if (err) {
+            console.error('Error reading database:', err);
+            res.status(500).send('Error reading database.');
+            return;
+        }
+        let students = JSON.parse(data);
+        const studentIndex = students.findIndex(student => student['Sr. No'] === studentId);
+
+        if (studentIndex === -1) {
+            res.status(404).send('Student not found');
+            return;
+        }
+
+        students.splice(studentIndex, 1);
+
+        fs.writeFile('studentsDB.json', JSON.stringify(students, null, 2), (err) => {
+            if (err) {
+                console.error('Error writing to database:', err);
+                res.status(500).send('Error writing to database.');
+                return;
+            }
+            res.status(200).send('Student deleted successfully');
+        });
+    });
+});
+
 function formatServerDate(inputDate) {
     const parts = inputDate.split('-');
     if (parts.length === 3) {
