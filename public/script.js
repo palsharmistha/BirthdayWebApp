@@ -91,19 +91,50 @@ function showBirthdayAlert(students) {
 
 function checkBirthdays(event) {
     event.preventDefault();
-    const fromDate = document.getElementById('fromDate').value;
-    const toDate = document.getElementById('toDate').value;
-
-    if (!fromDate || !toDate) {
-        return;
-    }
+    const today = new Date(); // Current date
 
     fetch('/api/students')
         .then(response => response.json())
         .then(students => {
+            const studentsWithBirthdayToday = students.filter(student => {
+                const dob = formatDateForComparison(student['Birthdate ']);
+                return (
+                    dob.getMonth() === today.getMonth() && // Same month
+                    dob.getDate() === today.getDate() // Same day
+                );
+            });
+
+            if (studentsWithBirthdayToday.length > 0) {
+                const studentNames = studentsWithBirthdayToday.map(student => student['Students Name']).join(', ');
+
+                // Display on screen
+                const birthdayList = document.getElementById('birthdayList');
+                birthdayList.innerHTML = `<ul><li>${studentNames}</li></ul>`;
+            } else {
+                const birthdayList = document.getElementById('birthdayList');
+                birthdayList.innerHTML = ''; // Clear list if no birthdays today
+            }
+
+            // Proceed to filter by date range as before (if needed)
+            const fromDate = document.getElementById('fromDate').value;
+            const toDate = document.getElementById('toDate').value;
+
+            if (!fromDate || !toDate) {
+                return; // Return if no date range is selected
+            }
+
+            const fromMonth = new Date(fromDate).getMonth(); // Get month index (0-11)
+            const toMonth = new Date(toDate).getMonth(); // Get month index (0-11)
+
             const filteredStudents = students.filter(student => {
-                const dob = new Date(student['Birthdate ']);
-                return (dob >= new Date(fromDate) && dob <= new Date(toDate));
+                const dob = formatDateForComparison(student['Birthdate ']);
+                const studentMonth = dob.getMonth(); // Get month index (0-11)
+
+                // Compare only month and day (ignore year)
+                return (
+                    (studentMonth > fromMonth || (studentMonth === fromMonth && dob.getDate() >= new Date(fromDate).getDate())) &&
+                    (studentMonth < toMonth || (studentMonth === toMonth && dob.getDate() <= new Date(toDate).getDate()))
+                );
             });
 
             const resultList = document.getElementById('studentBirthdaysList');
@@ -127,6 +158,27 @@ function checkBirthdays(event) {
         })
         .catch(error => console.error('Error checking birthdays:', error));
 }
+
+function formatDateForComparison(inputDate) {
+    const parts = inputDate.split('-');
+    if (parts.length === 3) {
+        const day = parseInt(parts[0], 10);
+        const month = getMonthNumber(parts[1]);
+        const year = parseInt(parts[2], 10);
+        return new Date(year, month, day);
+    }
+    return new Date(inputDate);
+}
+
+function getMonthNumber(month) {
+    const months = {
+        'Jan': 0, 'Feb': 1, 'Mar': 2, 'Apr': 3,
+        'May': 4, 'Jun': 5, 'Jul': 6, 'Aug': 7,
+        'Sep': 8, 'Oct': 9, 'Nov': 10, 'Dec': 11
+    };
+    return months[month];
+}
+
 
 function addNewStudent(event) {
     event.preventDefault();

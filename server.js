@@ -79,8 +79,10 @@ app.delete('/api/students/:id', (req, res) => {
 function formatServerDate(inputDate) {
     const parts = inputDate.split('-');
     if (parts.length === 3) {
+        const day = parts[0];
         const month = getMonthNumber(parts[1]);
-        return `${parts[2]}-${month}-${parts[0]}`;
+        const year = `20${parts[2]}`; // Assuming 20YY format for years
+        return `${year}-${month}-${day}`;
     }
     return inputDate;
 }
@@ -93,6 +95,7 @@ function getMonthNumber(month) {
     };
     return months[month];
 }
+
 
 app.listen(port, () => {
     console.log(`Server running at http://localhost:${port}/`);
